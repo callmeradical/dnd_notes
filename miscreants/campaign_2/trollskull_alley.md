@@ -10,6 +10,36 @@ The locations described below are keyed to the map of Trollskull Alley
 rowhouses that serve as private residences for upper-middle class
 Waterdavians who can afford housekeepers, groundskeepers, and nannies.
 
+<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+
+- [Trollskull Alley](#trollskull-alley)
+		- [Tavern Rooms](#tavern-rooms)
+		- [Spirit on Tap](#spirit-on-tap)
+		- [Appeasing Lif](#appeasing-lif)
+		- [Services](#services)
+		- [Services](#services)
+		- [Services](#services)
+		- [Fala's Potions](#falas-potions)
+		- [Services](#services)
+		- [Services](#services)
+		- [Spells for Sale](#spells-for-sale)
+		- [Tavern Keeping Expenses](#tavern-keeping-expenses)
+				- [One-Time Expenses](#one-time-expenses)
+				- [Regular Expenses](#regular-expenses)
+		- [Profit or Loss](#profit-or-loss)
+		- [Sample Guild Representatives](#sample-guild-representatives)
+			- [Broxley Fairkettle](#broxley-fairkettle)
+			- [Hammond Kraddoc](#hammond-kraddoc)
+			- [Justyn Rassk](#justyn-rassk)
+			- [Ulkoria Stonemarrow](#ulkoria-stonemarrow)
+		- [Business Rival: Emmek Frewn](#business-rival-emmek-frewn)
+				- [Goals](#goals)
+				- [Assets](#assets)
+				- [Plans](#plans)
+			- [Emmek's Plans](#emmeks-plans)
+
+<!-- /TOC -->
+
 T1. Trollskull Manor
 --------------------
 
