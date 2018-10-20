@@ -407,12 +407,10 @@ are summarized in the table below.
 #### Emmek's Plans
 
   |**Element**|**Description**|
-  |---------------------------|
-  |Event|         The wererats scope out the characters’ tavern in halfling forms and might try to get jobs there.|
-  |Event|         The wererats plant morsels of food inside the characters’ place and bore tiny holes in the outside walls to attract rats, creating an infestation.|
-  |Action|        Emmek spreads rumors that the characters’ tavern is rat-infested, which is why he didn’t buy it. Apply a −10 penalty on the next three rolls characters make on the Running a Business table (see “Tavern Keeping Expenses” above).|
-  |Event|         The Shard Shunners claim they’ve done enough for their coin and demand more.|
-  |Action|        Emmek pays the wererats another 50 gp to creep around the characters’ tavern at night in hybrid and rat form, carve rat faces into the doors of neighbors, and otherwise draw attention to themselves.|
-  |Action|        Emmek convinces several local residents to sign a letter he has drafted, then dispatches it to the City Watch. The letter accuses the characters of running a front for a guild of wererat thieves and urges the Watch to close their establishment.|
-
-  
+  |-------|---------|
+  |Event|The wererats scope out the characters’ tavern in halfling forms and might try to get jobs there.|
+  |Event|The wererats plant morsels of food inside the characters’ place and bore tiny holes in the outside walls to attract rats, creating an infestation.|
+  |Action|Emmek spreads rumors that the characters’ tavern is rat-infested, which is why he didn’t buy it. Apply a −10 penalty on the next three rolls characters make on the Running a Business table (see “Tavern Keeping Expenses” above).|
+  |Event|The Shard Shunners claim they’ve done enough for their coin and demand more.|
+  |Action|Emmek pays the wererats another 50 gp to creep around the characters’ tavern at night in hybrid and rat form, carve rat faces into the doors of neighbors, and otherwise draw attention to themselves.|
+  |Action|Emmek convinces several local residents to sign a letter he has drafted, then dispatches it to the City Watch. The letter accuses the characters of running a front for a guild of wererat thieves and urges the Watch to close their establishment.|
