@@ -414,3 +414,5 @@ are summarized in the table below.
   |Event|         The Shard Shunners claim they’ve done enough for their coin and demand more.|
   |Action|        Emmek pays the wererats another 50 gp to creep around the characters’ tavern at night in hybrid and rat form, carve rat faces into the doors of neighbors, and otherwise draw attention to themselves.|
   |Action|        Emmek convinces several local residents to sign a letter he has drafted, then dispatches it to the City Watch. The letter accuses the characters of running a front for a guild of wererat thieves and urges the Watch to close their establishment.|
+
+  
