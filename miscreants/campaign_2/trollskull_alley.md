@@ -293,7 +293,7 @@ sold them those goods.
 
 Dead-eyed, slack-jawed
 Justyn (NE male Illuskan human
-thug) grew
+[*thug*](http://journal.roll20.net/character/-LIO10T4ztQcyWQe81IB)) grew
 up in the toughest neighborhood in the Field Ward and has the scars to
 prove it. The guild doesn't pay him enough for him to afford a residence
 in the North Ward, and going to that part of the city fills his heart
@@ -390,14 +390,15 @@ business.
 Four gang members have
 been assigned to work with Emmek: two males named Kelso Fiddlewick and
 Dasher Snobeedle, and two females named Danika Fiddlewick (Kelso's
-younger sister) and Brynn Hilltopple. These halflings are wererats,
+younger sister) and Brynn Hilltopple. These halflings are
+[*wererats*](http://journal.roll20.net/character/-LIO2JFkWfu9nH27ACFy),
 with these changes:
 
--   Each wererat is Small > and has 27 (6d6 + 6) hit points.
--   It has these racial traits:
-..* It can move through the space of a Medium or larger creature.
-..* It has advantage on saving throws against being frightened.
-..* It speaks Common and Halfling, and it knows thieves' cant.
+- Each wererat is Small > and has 27 (6d6 + 6) hit points.
+- It has these racial traits:
+  - It can move through the space of a Medium or larger creature.
+  - It has advantage on saving throws against being frightened.
+  - It speaks Common and Halfling, and it knows thieves' cant.
 
 Emmek's strategy for
 ruining the competition and the consequences for putting it into action
