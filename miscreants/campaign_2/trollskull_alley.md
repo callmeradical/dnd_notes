@@ -395,9 +395,9 @@ with these changes:
 
 -   Each wererat is Small > and has 27 (6d6 + 6) hit points.
 -   It has these racial traits:
-  - It can move through the space of a Medium or larger creature.
-  - It has advantage on saving throws against being frightened.
-  - It speaks Common and Halfling, and it knows thieves' cant.
+..* It can move through the space of a Medium or larger creature.
+..* It has advantage on saving throws against being frightened.
+..* It speaks Common and Halfling, and it knows thieves' cant.
 
 Emmek's strategy for
 ruining the competition and the consequences for putting it into action
