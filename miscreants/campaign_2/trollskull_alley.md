@@ -114,20 +114,15 @@ In addition to non-magical herbal remedies, Fala sells potions of the
 types listed in the Fala's Potions table. Fala keeps 1d6 vials of each
 potion in locked cabinets behind the shop counter.
 
-Fala's Potions
+### Fala's Potions
 
-Potion Cost
-
-Potion of animal friendship 125 gp
-
-Potion of climbing 50 gp
-
-Potion of greater healing 250 gp
-
-Potion of healing 50 gp
-
-Potion of water breathing 250 gp
-
+|Potion| Cost|
+|--------|------:|
+|Potion of animal friendship |125 gp|
+|Potion of climbing |50 gp|
+|Potion of greater healing |250 gp|
+|Potion of healing |50 gp|
+|Potion of water breathing| 250 gp|
 T5. Tiger's Eye
 ---------------
 
@@ -290,7 +285,7 @@ hard. To test the extent of their willingness to cooperate, he chastises
 them for their current selection of beverages, even if he previously
 sold them those goods.
 
-<span id="_804otw86p3os" class="anchor"></span>
+
 
 #### Justyn Rassk
 
@@ -298,7 +293,7 @@ sold them those goods.
 
 Dead-eyed, slack-jawed
 Justyn (NE male Illuskan human
-[*thug*](http://journal.roll20.net/character/-LIO10T4ztQcyWQe81IB)) grew
+thug) grew
 up in the toughest neighborhood in the Field Ward and has the scars to
 prove it. The guild doesn't pay him enough for him to afford a residence
 in the North Ward, and going to that part of the city fills his heart
@@ -366,7 +361,7 @@ Carpenters', Roofers', and Plaisterers' Guild. Then he offended a member
 of the Cellarers' and Plumbers' Guild by comparing the dwarf's beard to
 barnacles on a ship.
 
-<span id="_b57mwahoxpui" class="anchor"></span>
+
 
 ##### Goals
 
@@ -392,39 +387,29 @@ nefarious dealings in the past. He pays the halflings to hinder the
 characters' efforts while he works feverishly to manage his own
 business.
 
-<span id="_6w0dmvdy8h9c" class="anchor"></span>
-
 Four gang members have
 been assigned to work with Emmek: two males named Kelso Fiddlewick and
 Dasher Snobeedle, and two females named Danika Fiddlewick (Kelso's
-younger sister) and Brynn Hilltopple. These halflings are
-[*wererats*](http://journal.roll20.net/character/-LIO2JFkWfu9nH27ACFy),
+younger sister) and Brynn Hilltopple. These halflings are wererats,
 with these changes:
 
--   Each wererat is Small
-    > and has 27 (6d6 + 6) hit points.
-
--   It has these racial
-    > traits: It can move through the space of a Medium or
-    > larger creature. It has advantage on saving throws against
-    > being frightened. It speaks Common and Halfling, and it knows
-    > thieves' cant.
+-   Each wererat is Small > and has 27 (6d6 + 6) hit points.
+-   It has these racial traits:
+  - It can move through the space of a Medium or larger creature.
+  - It has advantage on saving throws against being frightened.
+  - It speaks Common and Halfling, and it knows thieves' cant.
 
 Emmek's strategy for
 ruining the competition and the consequences for putting it into action
 are summarized in the table below.
 
-<span id="_b7skti1xf8bk" class="anchor"></span>
-
-<span id="_euxp4mdqfyza" class="anchor"></span>
-
 #### Emmek's Plans
 
-  **Element**   **Description**
-  ----------------------------------------------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Event         The wererats scope out the characters’ tavern in halfling forms and might try to get jobs there.
-  Event         The wererats plant morsels of food inside the characters’ place and bore tiny holes in the outside walls to attract rats, creating an infestation.
-  Action        Emmek spreads rumors that the characters’ tavern is rat-infested, which is why he didn’t buy it. Apply a −10 penalty on the next three rolls characters make on the Running a Business table (see “Tavern Keeping Expenses” above).
-  Event         The Shard Shunners claim they’ve done enough for their coin and demand more.
-  Action        Emmek pays the wererats another 50 gp to creep around the characters’ tavern at night in hybrid and rat form, carve rat faces into the doors of neighbors, and otherwise draw attention to themselves.
-  Action        Emmek convinces several local residents to sign a letter he has drafted, then dispatches it to the City Watch. The letter accuses the characters of running a front for a guild of wererat thieves and urges the Watch to close their establishment.
+  |**Element**|**Description**|
+  |---------------------------|
+  |Event|         The wererats scope out the characters’ tavern in halfling forms and might try to get jobs there.|
+  |Event|         The wererats plant morsels of food inside the characters’ place and bore tiny holes in the outside walls to attract rats, creating an infestation.|
+  |Action|        Emmek spreads rumors that the characters’ tavern is rat-infested, which is why he didn’t buy it. Apply a −10 penalty on the next three rolls characters make on the Running a Business table (see “Tavern Keeping Expenses” above).|
+  |Event|         The Shard Shunners claim they’ve done enough for their coin and demand more.|
+  |Action|        Emmek pays the wererats another 50 gp to creep around the characters’ tavern at night in hybrid and rat form, carve rat faces into the doors of neighbors, and otherwise draw attention to themselves.|
+  |Action|        Emmek convinces several local residents to sign a letter he has drafted, then dispatches it to the City Watch. The letter accuses the characters of running a front for a guild of wererat thieves and urges the Watch to close their establishment.|
