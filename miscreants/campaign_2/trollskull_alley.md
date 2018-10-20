@@ -1,3 +1,5 @@
+# Trollskull Alley
+
 Trollskull Alley is filled with people who can shape the characters'
 day-to-day lives in Waterdeep. The characters will likely return to
 Trollskull Alley many times during the adventure and get to know their
@@ -20,7 +22,7 @@ the abandoned building is one of the grandest in Trollskull Alley.
 Characters can refurnish, rebuild, rename, and otherwise personalize
 their new stronghold to their heart's content.
 
-### Tavern Rooms 
+### Tavern Rooms
 
 When the characters first arrive, the tavern's taproom is filled with
 broken furniture, tarnished silverware, casks of wine that have turned
