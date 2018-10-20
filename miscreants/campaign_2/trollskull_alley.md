@@ -1,3 +1,22 @@
+<!-- TOC START min:1 max:3 link:true update:true -->
+- [Trollskull Alley](#trollskull-alley)
+    - [Tavern Rooms](#tavern-rooms)
+    - [Spirit on Tap](#spirit-on-tap)
+    - [Appeasing Lif](#appeasing-lif)
+    - [Services](#services)
+    - [Services](#services-1)
+    - [Services](#services-2)
+    - [Fala's Potions](#falas-potions)
+    - [Services](#services-3)
+    - [Services](#services-4)
+    - [Spells for Sale](#spells-for-sale)
+    - [Tavern Keeping Expenses](#tavern-keeping-expenses)
+    - [Profit or Loss](#profit-or-loss)
+    - [Sample Guild Representatives](#sample-guild-representatives)
+    - [Business Rival: Emmek Frewn](#business-rival-emmek-frewn)
+
+<!-- TOC END -->
+
 # Trollskull Alley
 
 Trollskull Alley is filled with people who can shape the characters'
@@ -10,35 +29,7 @@ The locations described below are keyed to the map of Trollskull Alley
 rowhouses that serve as private residences for upper-middle class
 Waterdavians who can afford housekeepers, groundskeepers, and nannies.
 
-<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-- [Trollskull Alley](#trollskull-alley)
-		- [Tavern Rooms](#tavern-rooms)
-		- [Spirit on Tap](#spirit-on-tap)
-		- [Appeasing Lif](#appeasing-lif)
-		- [Services](#services)
-		- [Services](#services)
-		- [Services](#services)
-		- [Fala's Potions](#falas-potions)
-		- [Services](#services)
-		- [Services](#services)
-		- [Spells for Sale](#spells-for-sale)
-		- [Tavern Keeping Expenses](#tavern-keeping-expenses)
-				- [One-Time Expenses](#one-time-expenses)
-				- [Regular Expenses](#regular-expenses)
-		- [Profit or Loss](#profit-or-loss)
-		- [Sample Guild Representatives](#sample-guild-representatives)
-			- [Broxley Fairkettle](#broxley-fairkettle)
-			- [Hammond Kraddoc](#hammond-kraddoc)
-			- [Justyn Rassk](#justyn-rassk)
-			- [Ulkoria Stonemarrow](#ulkoria-stonemarrow)
-		- [Business Rival: Emmek Frewn](#business-rival-emmek-frewn)
-				- [Goals](#goals)
-				- [Assets](#assets)
-				- [Plans](#plans)
-			- [Emmek's Plans](#emmeks-plans)
-
-<!-- /TOC -->
 
 T1. Trollskull Manor
 --------------------
