@@ -5,7 +5,13 @@ DM Tips
 * Forego the Recap, in favor of… *When last we left our heroes…*
 * Set a stage for the players...
   * Describe the sights, sounds, and smells of the environment.
-  * The actions of other people around (Notable NPCs).
+    * It is helpful to use at least three of the five senses (taste, touch, smell, sight, sound)
+    > *As you walk into the tavern, you are greeted by the smell of roasted lamb and stale beer. The fire crackles and conversations are quiet, you feel the warmth of the fire radiating from the hearth and there is a feeling of comfort and acceptance from the patrons.*
+
+    * The actions of other people around (Notable NPCs).
+    > *You see a brawny orc type behind the bar nod in your direction as you walk in to the tavern. A bard is hard at work to the left of the state writing furiously in a book. A young woman is engaged in some quarrel with a man in the far corner of the room.*
+    
+
 
 ## Rolls and When or When the aren’t Required
 
