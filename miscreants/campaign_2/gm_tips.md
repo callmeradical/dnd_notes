@@ -3,17 +3,20 @@ DM Tips
 
 ## Starting the Game
 * Forego the Recap, in favor of… *When last we left our heroes…*
+  * If players do want a recap, encourage one of the players to give the recap. This gives you as a DM additional information about how the players may have perceived events differently. It also allows you create different improvisations in the story based upon something your player has said. (Missing treasure on the caravan...)
+
+  
 * Set a stage for the players...
   * Describe the sights, sounds, and smells of the environment.
     * It is helpful to use at least three of the five senses (taste, touch, smell, sight, sound)
     > *As you walk into the tavern, you are greeted by the smell of roasted lamb and stale beer. The fire crackles and conversations are quiet, you feel the warmth of the fire radiating from the hearth and there is a feeling of comfort and acceptance from the patrons.*
 
-    * The actions of other people around (Notable NPCs).
+    * The actions of other people around (Notable NPCs, such as those that might provide something to do, side quest or otherwise.
     > *You see a brawny orc type behind the bar nod in your direction as you walk in to the tavern. A bard is hard at work to the left of the state writing furiously in a book. A young woman is engaged in some quarrel with a man in the far corner of the room.*
-    
 
 
-## Rolls and When or When the aren’t Required
+
+## Rolls and When or When they aren’t Required
 
 * Example: Straight up numbers for people around - no check needed
 * Before using passive perception scores… When traveling, ask players what they are doing, and rule accordingly. (adv/disadv for focusing on task)
@@ -38,7 +41,7 @@ Combat
 ------
 * Combat should last around 3-5 Rounds
 * Should still be challenging
-* Encounters, set a DC for sneak attacks or ambushes,
+* Encounters, set a DC for sneak attacks or ambushes
   * Roll perception, less than X is surprised.
 
 
