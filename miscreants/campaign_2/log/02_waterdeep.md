@@ -66,3 +66,7 @@ The party successfully dispatched all enemies but the Mind Flayer. After he atta
 > When last we left our heroes, they had successfully rescued one of the nobility in Waterdeep. The scion of House Blagmaar, Floon. They had been put to task by the famed explorer and writer, Volothamp Geddarm, affectionately known in the public as simply "Volo". Volo was extremely grateful for rescuing his friend and was admittedly short on funds to pay our heroes. Instead he handed over the deed of a tavern he was hoping to fix up. Trollkull Manor.
 
   (This session may take place entirely in Waterdeep... if not bring in the Mere of Dead Men, perhaps remind them of Ardred Brifferhew, convert notes from Mere, Carnath RoadHouse, etc...)
+
+### Outcomes
+The party questioned Frulam and the Orc sorcerer. Finding information about Chult, Xanathar, Niholoor (The Stone Eye). They explored and paid for the restoration of Trollskull Manor. They have named the tavern "The Haunted Hand" after appeasing Lif. Introduced Ulkoria, Vincent (Tiger Eye), Tally (The Bent Nail). A humongous black dragon flew over Waterdeep putting the city into a stir.
+> War has been declared, Neverwinter in ruins, Army on the March!
