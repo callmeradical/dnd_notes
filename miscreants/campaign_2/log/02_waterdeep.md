@@ -1,3 +1,19 @@
+<!-- TOC START min:1 max:3 link:true update:true -->
+- [Waterdeep](#waterdeep)
+  - [Monday September 24th, 2018 - Arrival in Waterdeep](#monday-september-24th-2018---arrival-in-waterdeep)
+  - [Monday October 1st, 2018 - Waterdeep](#monday-october-1st-2018---waterdeep)
+    - [Outcomes](#outcomes)
+  - [Monday October 8th, 2018 - Waterdeep](#monday-october-8th-2018---waterdeep)
+    - [Outcomes](#outcomes-1)
+  - [Monday October 15th, 2018 - Waterdeep, the search for Floon](#monday-october-15th-2018---waterdeep-the-search-for-floon)
+    - [Outcomes](#outcomes-2)
+  - [Monday October 22nd, 2018 - Waterdeep, Trollskull Manor and...](#monday-october-22nd-2018---waterdeep-trollskull-manor-and)
+    - [Outcomes](#outcomes-3)
+- [Events Unfolding](#events-unfolding)
+
+<!-- TOC END -->
+
+
 
 # Waterdeep
 
@@ -68,5 +84,12 @@ The party successfully dispatched all enemies but the Mind Flayer. After he atta
   (This session may take place entirely in Waterdeep... if not bring in the Mere of Dead Men, perhaps remind them of Ardred Brifferhew, convert notes from Mere, Carnath RoadHouse, etc...)
 
 ### Outcomes
-The party questioned Frulam and the Orc sorcerer. Finding information about Chult, Xanathar, Niholoor (The Stone Eye). They explored and paid for the restoration of Trollskull Manor. They have named the tavern "The Haunted Hand" after appeasing Lif. Introduced Ulkoria, Vincent (Tiger Eye), Tally (The Bent Nail). A humongous black dragon flew over Waterdeep putting the city into a stir.
+The party questioned Frulam and the Orc sorcerer. Finding information about Chult, Xanathar, Niholoor (The Stone Eye). They explored and paid for the restoration of Trollskull Manor. They have named the tavern "The Haunted Hand" after appeasing Lif. Introduced Ulkoria, Vincent (Tiger Eye), Tally (The Bent Nail). A humongous black dragon flew over Waterdeep putting the city into a stir.  
 > War has been declared, Neverwinter in ruins, Army on the March!
+
+# Events Unfolding
+With the events of previous session we will *Jump into the Council of Waterdeep.* from Rise of Tiamat.
+
+Re-uniting Onthar Frume and Leosin Erlanthar. Onthar Frume was resurrected shortly after events unfolded at Baldur's Gate. Leosin had a talisman that could cast the spell *True Ressurection*. Onthar is unaffected by the Death Curse. Leosin on the other hand shows severe signs of the disease, opting to wear a porcelain mask that covers the majority of his face.
+
+The Council of Waterdeep will serve to give the characters a glimpse into the future and provide some guidance around the *Draakhorn*, Leosin has information about what the treasure is supposedly being used for. The treasure is to appease the jailer of the nine hells, Orcus, the treasure hoard is a bribe. The treasure is not for Tiamat herself.
