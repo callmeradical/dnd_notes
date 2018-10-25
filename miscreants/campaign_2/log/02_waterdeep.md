@@ -9,7 +9,7 @@
     - [Outcomes](#outcomes-2)
   - [Monday October 22nd, 2018 - Waterdeep, Trollskull Manor and...](#monday-october-22nd-2018---waterdeep-trollskull-manor-and)
     - [Outcomes](#outcomes-3)
-- [Events Unfolding](#events-unfolding)
+  - [Monday October 29th, 2018 - Waterdeep, The Cult of the Dragon Exposes Itself](#monday-october-29th-2018---waterdeep-the-cult-of-the-dragon-exposes-itself)
 
 <!-- TOC END -->
 
@@ -87,7 +87,18 @@ The party successfully dispatched all enemies but the Mind Flayer. After he atta
 The party questioned Frulam and the Orc sorcerer. Finding information about Chult, Xanathar, Niholoor (The Stone Eye). They explored and paid for the restoration of Trollskull Manor. They have named the tavern "The Haunted Hand" after appeasing Lif. Introduced Ulkoria, Vincent (Tiger Eye), Tally (The Bent Nail). A humongous black dragon flew over Waterdeep putting the city into a stir.  
 > War has been declared, Neverwinter in ruins, Army on the March!
 
-# Events Unfolding
+## Monday October 29th, 2018 - Waterdeep, The Cult of the Dragon Exposes Itself
+
+> When last we left our heroes, they had with some degree of success questioned two corpses. They had explored the new property and met a cast of characters. Our heroes also saw a large black dragon flying overhead. When investigating and looking for Valerian, he was already outside. The town criers have begun to shout from every corner *War has been declared, Neverwinter in ruins, army is on the march!*
+
+**TODO:**
+* Volo needs to return to hand over the deed.
+* Introduce Council of Waterdeep (Ser Isteval, Leosin and Onthar, Lady Laeral Silverhand, Dagult Neverember)
+* The events of what occurred in Neverwinter.
+* Introduce Draakhorn
+* Purpose of the Treasure Hoard
+* Skip the events in the Mere of Dead Men? (Carnathi Roadhouse)
+
 With the events of previous session we will *Jump into the Council of Waterdeep.* from Rise of Tiamat.
 
 Re-uniting Onthar Frume and Leosin Erlanthar. Onthar Frume was resurrected shortly after events unfolded at Baldur's Gate. Leosin had a talisman that could cast the spell *True Ressurection*. Onthar is unaffected by the Death Curse. Leosin on the other hand shows severe signs of the disease, opting to wear a porcelain mask that covers the majority of his face.
