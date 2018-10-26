@@ -2,13 +2,14 @@
 
 There are number of things that come up in game that need to be adjudicated.
 
-## Combat
+## Regaining Hit dice
+On a long rest the character also regains spent Hit Dice, up to a number of dice equal to half of the character’s total number of them (minimum of one die). (p 67)
 
+## Combat
 ### Called Shots
 If you want to call your shot for additional effect. You must hit with both d20 rolls for your attack. If the attack hits it is a critical, and an additional effect is applied depending on the circumstance. A called shot is always a critical.
 
-Casting Spells
---------------
+## Casting Spells
 ### Observing the Effect of a Friendly Spell:
 
 At this point, the party has been traveling a sufficiently long enough time, you know the effects of your spells and knows what to watch for in combat.
