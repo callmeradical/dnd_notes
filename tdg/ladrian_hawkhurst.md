@@ -48,7 +48,7 @@ I am fighting on the side of Stone and Storm Giants. I seem to be a veteran or c
 
 Arrive at the town of Sil. A large board with several spears skewered it. THe Skewered Boar Tavern. There is an election or rebellion going on.
 - Widoric, village elder type.
-- Trapper - Dal, governor, noble type.
+- Trapper, Dal, governor, noble type.
 - Tally, Widoric's wife, old lady with brutes.
 - Arannis - Priest of Cyric
 
@@ -57,4 +57,3 @@ A plague about. Black ichor from the lungs, quarantine. Stay away from the house
 Trapper feels guilty about something.
 
 **Need to ask Brian about the name of my Village**
-(Create Village)
