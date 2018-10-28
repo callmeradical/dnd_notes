@@ -4,6 +4,7 @@
   - [Characters](#characters)
     - [Ladrian Hawkhurst.](#ladrian-hawkhurst)
   - [Session Notes](#session-notes)
+  - [Hometown - Port Dyminar](#hometown---port-dyminar)
 
 <!-- TOC END -->
 
@@ -57,3 +58,5 @@ A plague about. Black ichor from the lungs, quarantine. Stay away from the house
 Trapper feels guilty about something.
 
 **Need to ask Brian about the name of my Village**
+
+## Hometown - Port Dyminar
