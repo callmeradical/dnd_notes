@@ -1,12 +1,13 @@
 <!-- TOC START min:1 max:3 link:true update:true -->
-- [Beregost](#beregost)
-- [Greenest](#greenest)
-  - [The Bandit Camp](#the-bandit-camp)
-  - [The Dragon Hatchery](#the-dragon-hatchery)
-- [Elturel](#elturel)
-- [Baldur's Gate](#baldurs-gate)
-- [Session Notes](#session-notes)
+- [Chapter 1: Greenest](#chapter-1-greenest)
+  - [Beregost](#beregost)
+    - [Travlers arrive in Beregost](#travlers-arrive-in-beregost)
+  - [Greenest](#greenest)
+- [Chapter 2: Raiders' Camp](#chapter-2-raiders-camp)
+- [Chapter 3: The Dragon Hatchery](#chapter-3-the-dragon-hatchery)
 - [Chapter 4: On the Road](#chapter-4-on-the-road)
+  - [Elturel](#elturel)
+  - [Baldur's Gate](#baldurs-gate)
   - [Monday July 30th, 2018 - Day 3 on the Road](#monday-july-30th-2018---day-3-on-the-road)
   - [Monday August 6th, 2018 - Day 6 on the Road](#monday-august-6th-2018---day-6-on-the-road)
   - [Monday August 13th, 2018 - Day 12 on the Road](#monday-august-13th-2018---day-12-on-the-road)
@@ -14,7 +15,8 @@
   - [Monday August 27th, 2018 - Day 32 On The Road](#monday-august-27th-2018---day-32-on-the-road)
   - [Monday September 3rd, 2018 - Day 62 On The Road](#monday-september-3rd-2018---day-62-on-the-road)
   - [Monday September 10th, 2018 - Day 65 On The Road](#monday-september-10th-2018---day-65-on-the-road)
-- [Chapter 5: Beginning in Waterdeep](#chapter-5-beginning-in-waterdeep)
+  - [Monday September 17th, 2018 - Arrival in DaggerFord](#monday-september-17th-2018---arrival-in-daggerford)
+- [Chapter 5: Construction Head, Beginning in Waterdeep (Dragonheist)](#chapter-5-construction-head-beginning-in-waterdeep-dragonheist)
   - [Monday September 24th, 2018 - Arrival in Waterdeep](#monday-september-24th-2018---arrival-in-waterdeep)
   - [Monday October 1st, 2018 - Waterdeep](#monday-october-1st-2018---waterdeep)
   - [Monday October 8th, 2018 - Exploring Waterdeep](#monday-october-8th-2018---exploring-waterdeep)
@@ -27,19 +29,27 @@
 
 
 
-# Beregost
+# Chapter 1: Greenest
+## Beregost
 
-The travelers arrive in Beregost and stay in the local tavern. The tiefling twins Gavin and Enara, run the tavern. Gavin is a warlock that never needs to sleep. Enara is a valor bard.
+### Travlers arrive in Beregost
+After many weeks on the road, in cold and damp circumstances, much of the party has arrived in Beregost.
 
-Lucky attempted to bed a married woman and nearly killed her husband.
+* The travelers arrive in Beregost and stay in the local tavern. The tiefling twins Gavin and Enara, run the tavern. Gavin is a warlock that never needs to sleep. Enara is a valor bard.
 
-Introduced Stilgar, a cleric from a far land that serves as a wagon master between Beregost and Greenest.
+* Lucky attempted to bed a married woman and nearly killed her husband.
 
-# Greenest
-Greenest is in flames and under attack by a humongous dragon. The party goes through various events. They defeat Cyanwrath Landregosa.
+* Introduced Stilgar, a cleric from a far land that serves as a wagon master between Beregost and Greenest.
 
-## The Bandit Camp
-After defeating Cyanwrath the cult of the dragon and their mercenaries. The party was found out by a roaming patrol, they "silenced" him and snuck in.
+## Greenest
+Greenest is in flames and under attack by a humongous dragon. The party decides to advance under the cover of night to infiltrate the town. During the course of which they had saved a family and proceeded to have a chase to the keep. Afterwards the party goes through various events. They defeat Cyanwrath Landregosa.
+
+
+# Chapter 2: Raiders' Camp
+After defeating Cyanwrath, the cult of the dragon and their mercenaries in Greenest, the mayor had asked the party to recover some of the goods if they were able to track the bandits. A young monk asks the party to find Leosin Erlanthar, a monk from Berdusk, they believe he had been taken as well.
+
+**The Bandit Camp:**
+After a day or so the party managed to find their camp. The party was found out by a roaming patrol, they "silenced" him and snuck in.
 
 While in the camp they see Leosin Erlanthar being tortured.
 
@@ -48,19 +58,32 @@ They also see a number of members of the Cult of the Dragon.
 * Frulum Mondath
 * Rath Modar  
 
-## The Dragon Hatchery
+# Chapter 3: The Dragon Hatchery
+Important events that happen in the dragon hatchery.
 
-# Elturel
+* Witnessed a half-dragon (Cyanwrath risen) praying at this black orb of sorts.
+* Recovered a dragon hatchling (Valerian)
+* Killed (presumably) Frulam Mondath in a collapse.
+* Freed Lennithon from the clutches.
+  * Had created a story where Lennithon was being held against her will because the safety of her children relied on her obedience.
+
+# Chapter 4: On the Road
+
+## Elturel
 
 When the party arrives in Elturel they meet Onthar Frume. This is the place where the party members first became acquainted with the Paladin and are introduced to the factions of Order of the Gauntlet, and The Harpers.
 
-# Baldur's Gate
-TBA
-
-
-# Session Notes
-
-# Chapter 4: On the Road
+## Baldur's Gate
+Important Events:
+* Learn more about the cult.
+* Introduced the Zhentarim
+* Introduced Arcos and Phrixus (Fernando Backstory)
+* Shieldmeet and Midsummer festibal
+* Created Laucian's father, Ulder Brightwood:
+  * Second-highest ranking officer in the Flaming Fist, and warden of Wyrm's Rock.
+  * Very practical and purpose driven.
+  * Does not believe in personal ornamentation.
+  * Forgets nothing and forgives less.
 
 ## Monday July 30th, 2018 - Day 3 on the Road
 
@@ -184,10 +207,11 @@ confronted with the encounter "No Room at the Inn" You have made short work of t
 
 ## Monday September 10th, 2018 - Day 65 On The Road
 >When last we left our heroes... They had just pulled into "The Way Inn", a rather noted establishment along the Trade Way leading to Daggerford and Waterdeep beyond. When attempting to procure lodging the party encountered a group of individuals that seemed to take issue with the parties purchasing of their rooms. A fight ensued. You made short work of these would-be assassins and while dragging the bodies towards the door, Isteval has mentioned that these were no simple sellswords, the poison seemed to be too potent and very effective the weapons were recently prepared, they were not likely here by accident... Now, what would you like to do?
+
 ## Monday September 17th, 2018 - Arrival in DaggerFord  
 Secured passage by boat, skill checks, secured an account at the Bank of the Swordcoast (name escapes me) in the vault supplied by Elminster and Mirt.
 
-# Chapter 5: Beginning in Waterdeep
+# Chapter 5: Construction Head, Beginning in Waterdeep (Dragonheist)
 
 ## Monday September 24th, 2018 - Arrival in Waterdeep
 After a tumultuous bout on the high seas with the sea itself the party
@@ -246,11 +270,13 @@ The party questioned Frulam and the Orc sorcerer. Finding information about Chul
 * Volo needs to return to hand over the deed.
 * Introduce Council of Waterdeep (Ser Isteval, Leosin and Onthar, Lady Laeral Silverhand, Dagult Neverember)
 * The events of what occurred in Neverwinter.
-* Introduce Draakhorn
 * Purpose of the Treasure Hoard
-* Skip the events in the Mere of Dead Men? (Carnathi Roadhouse)
 
-With the events of previous session we will *Jump into the Council of Waterdeep.* from Rise of Tiamat.
+With the events of previous session we will *Jump into the Council of Waterdeep.* from Rise of Tiamat...
+* Neverwinter has been sacked. The cult of the dragon currently occupies Neverwinter, and has spread out from the Mere of Dead Men.
+* They will inform the party that a nearby construction depot has been taken over by The Cult of the Dragon. Ardred Briferhew has been brought in as a witness and consultant.
+* A few scouts have been sent out but none have returned.
+* The fight in the south at Dragonspear has been quelled. Forces are embattled but are winning. They defeated the dracolich with the help of an old friend... Onthar.
 
 Re-uniting Onthar Frume and Leosin Erlanthar. Onthar Frume was resurrected shortly after events unfolded at Baldur's Gate. Leosin had a talisman that could cast the spell *True Ressurection*. Onthar is unaffected by the Death Curse. Leosin on the other hand shows severe signs of the disease, opting to wear a porcelain mask that covers the majority of his face.
 
