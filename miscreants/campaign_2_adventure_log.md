@@ -1,3 +1,31 @@
+<!-- TOC START min:1 max:3 link:true update:true -->
+- [Beregost](#beregost)
+- [Greenest](#greenest)
+  - [The Bandit Camp](#the-bandit-camp)
+  - [The Dragon Hatchery](#the-dragon-hatchery)
+- [Elturel](#elturel)
+- [Baldur's Gate](#baldurs-gate)
+- [Session Notes](#session-notes)
+- [Chapter 4: On the Road](#chapter-4-on-the-road)
+  - [Monday July 30th, 2018 - Day 3 on the Road](#monday-july-30th-2018---day-3-on-the-road)
+  - [Monday August 6th, 2018 - Day 6 on the Road](#monday-august-6th-2018---day-6-on-the-road)
+  - [Monday August 13th, 2018 - Day 12 on the Road](#monday-august-13th-2018---day-12-on-the-road)
+  - [Monday August 20th, 2018 - Day 22 on the Road - Dragonspear](#monday-august-20th-2018---day-22-on-the-road---dragonspear)
+  - [Monday August 27th, 2018 - Day 32 On The Road](#monday-august-27th-2018---day-32-on-the-road)
+  - [Monday September 3rd, 2018 - Day 62 On The Road](#monday-september-3rd-2018---day-62-on-the-road)
+  - [Monday September 10th, 2018 - Day 65 On The Road](#monday-september-10th-2018---day-65-on-the-road)
+- [Chapter 5: Beginning in Waterdeep](#chapter-5-beginning-in-waterdeep)
+  - [Monday September 24th, 2018 - Arrival in Waterdeep](#monday-september-24th-2018---arrival-in-waterdeep)
+  - [Monday October 1st, 2018 - Waterdeep](#monday-october-1st-2018---waterdeep)
+  - [Monday October 8th, 2018 - Exploring Waterdeep](#monday-october-8th-2018---exploring-waterdeep)
+  - [Monday October 15th, 2018 - Waterdeep, the search for Floon](#monday-october-15th-2018---waterdeep-the-search-for-floon)
+  - [Monday October 22nd, 2018 - Waterdeep, Trollskull Manor and...](#monday-october-22nd-2018---waterdeep-trollskull-manor-and)
+  - [Monday October 29th, 2018 - Waterdeep, The Cult of the Dragon Exposes Itself](#monday-october-29th-2018---waterdeep-the-cult-of-the-dragon-exposes-itself)
+
+<!-- TOC END -->
+
+
+
 
 # Beregost
 
@@ -20,6 +48,7 @@ They also see a number of members of the Cult of the Dragon.
 * Frulum Mondath
 * Rath Modar  
 
+## The Dragon Hatchery
 
 # Elturel
 
@@ -31,116 +60,48 @@ TBA
 
 # Session Notes
 
-Currently in Episode 4: On the Road
------------------------------------
+# Chapter 4: On the Road
 
-### Planned Events Thus Far:
+## Monday July 30th, 2018 - Day 3 on the Road
 
--   Recognized
+Currently the party is traveling on the road and just managed to kill Azbara Jos and expose the cult of the dragon to the rest of the Caravan.
+ -   Fernando exposed himself as a member of the Zhentarim.
+ -   Haka was the first to attack.
 
--   Unwanted Attention
+Jamna is not going to be pleased about this. The Zhentarim has such strength because it does things discreetly, and from the shadows. The
+rest of the time with the rest of the caravan is going to be looking to get its hands on the gold.
 
--   Who's your friend
+## Monday August 6th, 2018 - Day 6 on the Road
 
-### Random Events Done Thus Far:
+The party is travelling towards Waterdeep with a group of caravans. They just confronted one of the caravans containing loot. Killing Azbara Jos via disintegration in the process. The party managed to convince the caravan that these people were members of the cult of the dragon.
 
--   Everything Has a Price
+Fernando attempted to dissuade the caravan from taking part in the spoils but with less than stellar results. The rest of the caravan made a dash for some of the loot while others chased after Lasfelro, the silent merchant with the gargoyle. Eventually they chased him off thinking him to also be part of the cult. Some of the caravan's company seems to hold you in regard while others look in contempt.
 
--   Animal Abuse
+**Session Recap:**
+Bavarious and Laucian managed to captivate the hearts and minds of about 60% of the caravan. More wagons have joined since leaving Baldur's Gate. The cart secured in the previous session gives the party a wagon and 4 draft horses. Fernando cut free the remaining horses from Aldor's wagon, the knight and mage with him paid little mind.
 
--   Bane of the Mountains
-
--   Stranded
-
--   Fungus Humungous
-
-Monday July 30^th^, 2018 - Day 3 on the Road
---------------------------------------------
-
-Currently the party is traveling on the road and just managed to kill
-Azbara Jos and expose the cult of the dragon to the rest of the Caravan.
-
--   Fernando exposed himself as a member of the Zhentarim.
-
--   Haka was the first to attack.
-
-Jamna is not going to be pleased about this. The Zhentarim has such
-strength because it does things discreetly, and from the shadows. The
-rest of the time with the rest of the caravan is going to be looking to
-get its hands on the gold.
-
-Monday August 6^th^, 2018 - Day 6 on the Road
----------------------------------------------
-
-### Opening Recap:
-
-The party is travelling towards Waterdeep with a group of caravans. They
-just confronted one of the caravans containing loot. Killing Azbara Jos
-via disintegration in the process. The party managed to convince the
-caravan that these people were members of the cult of the dragon.
-Fernando attempted to dissuade the caravan from taking part in the
-spoils but with less than stellar results. The rest of the caravan made
-a dash for some of the loot while others chased after Lasfelro, the
-silent merchant with the gargoyle. Eventually they chased him off
-thinking him to also be part of the cult. Some of the caravan's company
-seems to hold you in regard while others look in contempt.
-
-### Session Recap:
-
-Bavarious and Laucian managed to captivate the hearts and minds of about
-60% of the caravan. More wagons have joined since leaving Baldur's Gate.
-The cart secured in the previous session gives the party a wagon and 4
-draft horses. Fernando cut free the remaining horses from Aldor's wagon,
-the knight and mage with him paid little mind.
-
-Eve (Everett) was approached by a merchant (Sam) that was trying to
-forcefully purchase her pendant. She refused and Haka interjected,
-accidentally pointing out that Everett is a girl. Sam accuses them of
-being frauds and charlatans or people that are generally hiding
+* Eve (Everett) was approached by a merchant (Sam) that was trying to forcefully purchase her pendant. She refused and Haka interjected,
+accidentally pointing out that Everett is a girl. Sam accuses them of being frauds and charlatans or people that are generally hiding
 something. Haka intimidates him, causing him to retreat.
-
-After conversing with the party, they all decide to eventually search
-him out. They find his tent along with his guard (Pole). They have some
+* After conversing with the party, they all decide to eventually search him out. They find his tent along with his guard (Pole). They have some
 words but Bavarious intimidates them sufficiently.
-
-In the evening since, the pendant went missing. Haka wakes up and
-notices Valerian sleeping, it only appeared he was, Valerian screeches
-as Haka approached, awaking Eve, who finds that her pendant is gone. She
-begins to make way to Sam's tent. Lucky was able to track the pendant to
-a small boy who had described Sam as the person who gave it to him. They
-realized that this was too easy and was likely a decoy. They head back
-to the wagon to find 1000gp missing. Lucky casts locate object on the
-charm bracelet that Sam wears. They come to find Sam and Pole were
-sleeping in the tent. Pole wields a magic spear and there are a number
-of other magical items in Sam's tent. They accuse them publicly, and Sam
+* In the evening since, the pendant went missing. Haka wakes up and notices Valerian sleeping, it only appeared he was, Valerian screeches
+as Haka approached, awaking Eve, who finds that her pendant is gone. She begins to make way to Sam's tent. Lucky was able to track the pendant to
+a small boy who had described Sam as the person who gave it to him. They realized that this was too easy and was likely a decoy. They head back
+to the wagon to find 1000gp missing. Lucky casts locate object on the charm bracelet that Sam wears. They come to find Sam and Pole were
+sleeping in the tent. Pole wields a magic spear and there are a number of other magical items in Sam's tent. They accuse them publicly, and Sam
 is enraged and embarrassed.
-
-They eventually find that the tracks of the would be thieves were wiped
-clean. Lucky casts speak with animals and converses with some nearby
+* They eventually find that the tracks of the would be thieves were wiped clean. Lucky casts speak with animals and converses with some nearby
 woodland friends that tell him...
+  * The gold levitated out of the wagon and disappeared.
+  * The footprints that were there were stationary and small.
+  * The footprints walked in a circle before disappearing.
 
--   The gold levitated out of the wagon and disappeared.
+They did apologize to Sam. After packing up the cart, Haka and Fernando, partake in the gruel from Enom's chow line. Jamna interrupts Fernando, "Who's your friend?" unfolds. The party gets back on the road, Jamna wants to meet in the evening. (Opening Next Session)
 
--   The footprints that were there were stationary and small.
-
--   The footprints walked in a circle before disappearing.
-
-They did apologize to Sam. After packing up the cart, Haka and Fernando,
-partake in the gruel from Enom's chow line. Jamna interrupts Fernando,
-"Who's your friend?" unfolds. The party gets back on the road, Jamna
-wants to meet in the evening. (Opening Next Session)
-
-Monday August 13th, 2018 - Day 12 on the Road
----------------------------------------------
-
-### Completed:
-
--   Fungus Humungous in the Trollclaws
-
-### Session Recap:
-
-Fernando helped a mercenary load a wagon, and noticed a very peculiar
-and supposedly dangerous cargo. The party opted to trounce through the
+## Monday August 13th, 2018 - Day 12 on the Road
+ **Session Recap:**
+Fernando helped a mercenary load a wagon, and noticed a very peculiar and supposedly dangerous cargo. The party opted to trounce through the
 trollclaws narrowly avoiding the wrath of a huge storm that lasted for
 the better part of two days. While taking refuge in the ruins of a
 watchtower the party was taken by surprise in their sleep. A wall of
@@ -172,28 +133,20 @@ skip ahead 10 days.
 #### Notable People:
 
 1.  Wulfa: Male Human Paladin, Good. Str 14, Dex 11, Con 8, Int 11, Wis
-    > 8, Cha 12. Wulfa has tangled silver hair and sharp amber eyes. He
-    > wears scale mail and wields a longsword and shield, but has a
-    > short sword on his waist. Wulfa was magically imprisoned for a
-    > hundred years. He is protecting Bayla's cargo. Unknowningly
-    > working for the Cult.
+     8, Cha 12. Wulfa has tangled silver hair and sharp amber eyes. He
+     wears scale mail and wields a longsword and shield, but has a
+     short sword on his waist. Wulfa was magically imprisoned for a
+     hundred years. He is protecting Bayla's cargo. Unknowningly
+     working for the Cult.
 
 2.  Bayla: Male Dragonborn Sorcerer, LG. Str 6, Dex 10, Con 12, Int 9,
-    > Wis 8, Cha 16. Bela is tall and willowy, with bronze scales and
-    > bright gray eyes. He wears modest garments and wields a dagger and
-    > light crossbow. He is disguised as a merchant but is a member of
-    > the Cult of the Dragon. He is transporting this material (Black
-    > Ooze) to Severin Silrajin.
+     Wis 8, Cha 16. Bela is tall and willowy, with bronze scales and
+     bright gray eyes. He wears modest garments and wields a dagger and
+     light crossbow. He is disguised as a merchant but is a member of
+     the Cult of the Dragon. He is transporting this material (Black
+     Ooze) to Severin Silrajin.
 
-Monday August 20th, 2018 - Day 22 on the Road - Dragonspear
------------------------------------------------------------
-
-### Plans:
-
--   Jump ahead a ten-day, narrate the information they have gleaned
-    > about the travelers and their stories.
-
--   Arrive in Dragonspear\...
+## Monday August 20th, 2018 - Day 22 on the Road - Dragonspear
 
 Fernando helped a mercenary load a wagon, and noticed a very peculiar
 and supposedly dangerous cargo. The party opted to trounce through the
@@ -210,20 +163,7 @@ it was pulled from the ground. Fernando and Eve made quick work of the
 fungus much to the delight of the caravan and merchants. We are going to
 skip ahead 10 days.
 
-Monday August 27th, 2018 - Day 32 On The Road
----------------------------------------------
-
-### Plans:
-
--   "No Room at the Inn" happens between Dragonspear and Daggerford at
-    > "The Way Inn" along the Trade way.
-
--   Spiderwoods happens just after "No Room at the Inn"
-
--   Investigative checks after Spiderwoods (Which carts)
-
--   "A terror in our midst" - If lucky uses his Divine Sense, this will
-    > happen sooner.
+## Monday August 27th, 2018 - Day 32 On The Road
 
 The party made their way to Dragonspear from the Trollclaws. Upon
 arriving at the fortified structure, Haka regained some of his memories.
@@ -237,105 +177,56 @@ even slaying the dragon. (He now uses a dragon tooth as a cane.
 They battled the ooze and the skulks, recovering the party treasure and
 loading up on some goodies.
 
- Monday September 10th, 2018 - Day 62 On The Road
-=================================================
+## Monday September 3rd, 2018 - Day 62 On The Road
 
-The party made their way back to Dragonspear uncovering the "Death
-Curse". Haka was afflicted because of his previous resurrection. Haka
-had a vision in which he was introduced to Bahamut, in this vision he
-was restrained and his body began to decay. In a fit of rage Haka awoke
-with radiant fire pouring from his mouth. The hordes under Dragonspear
-broke free during this time. Sir Isteval and the party manage to escape
-from Dragonspear, leaving the castle in the control of the hordes from
-below. They eventually made their way up the coast to "The Way Inn" when
-confronted with the encounter "No Room at the Inn" You have made short
-work of these would-be assassins. Closing on the 4th day of the Fading -
-Eleint.
+The party made their way back to Dragonspear uncovering the "Death Curse". Haka was afflicted because of his previous resurrection. Haka had a vision in which he was introduced to Bahamut, in this vision he was restrained and his body began to decay. In a fit of rage Haka awoke with radiant fire pouring from his mouth. The hordes under Dragonspear broke free during this time. Sir Isteval and the party manage to escape from Dragonspear, leaving the castle in the control of the hordes from below. They eventually made their way up the coast to "The Way Inn" when
+confronted with the encounter "No Room at the Inn" You have made short work of these would-be assassins. Closing on the 4th day of the Fading - Eleint.
 
-Monday September 10th, 2018 - Day 65 On The Road
-================================================
+## Monday September 10th, 2018 - Day 65 On The Road
+>When last we left our heroes... They had just pulled into "The Way Inn", a rather noted establishment along the Trade Way leading to Daggerford and Waterdeep beyond. When attempting to procure lodging the party encountered a group of individuals that seemed to take issue with the parties purchasing of their rooms. A fight ensued. You made short work of these would-be assassins and while dragging the bodies towards the door, Isteval has mentioned that these were no simple sellswords, the poison seemed to be too potent and very effective the weapons were recently prepared, they were not likely here by accident... Now, what would you like to do?
+## Monday September 17th, 2018 - Arrival in DaggerFord  
+Secured passage by boat, skill checks, secured an account at the Bank of the Swordcoast (name escapes me) in the vault supplied by Elminster and Mirt.
 
-When last we left our heroes... They had just pulled into "The Way Inn",
-a rather noted establishment along the Trade Way leading to Daggerford
-and Waterdeep beyond. When attempting to procure lodging the party
-encountered a group of individuals that seemed to take issue with the
-parties purchasing of their rooms. A fight ensued. You made short work
-of these would-be assassins and while dragging the bodies towards the
-door, Isteval has mentioned that these were no simple sellswords, the
-poison seemed to be too potent and very effective the weapons were
-recently prepared, they were not likely here by accident... Now, what
-would you like to do?
-
-Monday September 17th, 2018 - Arrival in DaggerFord
-===================================================
-
-Secured passage by boat, skill checks, secured an account at the Bank of
-the Swordcoast (name escapes me) in the vault supplied by Elminster and
-Mirt.
-
-
-
-# Waterdeep
+# Chapter 5: Beginning in Waterdeep
 
 ## Monday September 24th, 2018 - Arrival in Waterdeep
 After a tumultuous bout on the high seas with the sea itself the party
 arrived late in the evening.
 
 ## Monday October 1st, 2018 - Waterdeep
->You find yourselves in the fabled Yawning Portal. A tavern with a portal
-to another plane of existence. A portal leading to the infamous dungeon
-of the Mad Mage Halaster Blackcloak. You arrived here to meet a summons
-from a figure known as Jarlaxle Baenre. The summons came after Fernando
+>You find yourselves in the fabled Yawning Portal. A tavern with a portal to another plane of existence. A portal leading to the infamous dungeon
+of the Mad Mage Halaster Blackcloak. You arrived here to meet a summons from a figure known as Jarlaxle Baenre. The summons came after Fernando
 had managed to spirit away his rather impressive looking hat.
 >
-> While waiting you have witnessed a small gang fight break out between
-two opposing factions. As the bar brawl was coming to an end a large,
-lumbering, gangly green mass steps out of the portal. Bat-like creatures
-with long pointed beaks of sort flying about the room. You can see that
+> While waiting you have witnessed a small gang fight break out between two opposing factions. As the bar brawl was coming to an end a large,
+lumbering, gangly green mass steps out of the portal. Bat-like creatures with long pointed beaks of sort flying about the room. You can see that
 a number of the creatures are stuck to the larger mass.
 >
 > A patron yells out "Troll!"
 
-### Outcomes
-They dispatched the troll and associated vermin. Shortly after they met
-with Jarlaxle Baenre who gave them some details about the upcoming
-perils, and some background on Rezmir (Caelin's Journal, it details her
-turmoil with her decisions and seems to hint that she is doing much of
-this out of desperation.)
+**Outcomes:**
+They dispatched the troll and associated vermin. Shortly after they met with Jarlaxle Baenre who gave them some details about the upcoming perils, and some background on Rezmir Caelin's Journal, it details her turmoil with her decisions and seems to hint that she is doing much of this out of desperation.
 
-Haka and Fernando met with Lady Laeral Silverhand (open lord/lady of
-Waterdeep), securing a line of credit to a vendor in Arun's Alley, a
-shop known as Yewgrowl, with an enchantress named Ziri Cogswheel.
+Haka and Fernando met with Lady Laeral Silverhand open lord/lady of Waterdeep, securing a line of credit to a vendor in Arun's Alley, a shop known as Yewgrowl, with an enchantress named Ziri Cogswheel.
 
 
-## Monday October 8th, 2018 - Waterdeep
+## Monday October 8th, 2018 - Exploring Waterdeep
 
-> When last we left our heroes...
-> Eve had uncovered something big in the Great Harbor of Waterdeep and
-made some personal connection with something or someone. The rest of the
-party had put in a rather large order with Ziri Cogswheel of Yewgrowl, a
-magic shop with a couple of colorful characters.
+> When last we left our heroes... Eve had uncovered something big in the Great Harbor of Waterdeep andmade some personal connection with something or someone. The rest of the party had put in a rather large order with Ziri Cogswheel of Yewgrowl, a magic shop with a couple of colorful characters.
 
-### Outcomes
+**Outcomes:**
+They had visited the temple that Eve had discovered, solved some puzzles and got a glimpse of what Eve's heritage or background is.
 
-They had visited the temple that Eve had discovered, solved some puzzles
-and got a glimpse of what Eve's heritage or background is.
-
-While waiting for their order from Ziri Cogswheel of Yewgrowl Fernando
-and Company were approached by Volothamp "Volo" Geddarm. He is asking
-them to search for his friend Floon and has offered to pay them
+While waiting for their order from Ziri Cogswheel of Yewgrowl Fernando and Company were approached by Volothamp "Volo" Geddarm. He is asking them to search for his friend Floon and has offered to pay them
 considerably.
 
-This led the party in a series of events... first uncovering a
-kidnapping perpetrated seemingly by the Zhentarim. Tracking the thugs
-down to a hideout, a scuffle ensued, the Xanathar's guild seems likely,
-followed signs in the sewer that led them to a ladder that went up to
+This led the party in a series of events... first uncovering a kidnapping perpetrated seemingly by the Zhentarim. Tracking the thugs down to a hideout, a scuffle ensued, the Xanathar's guild seems likely, followed signs in the sewer that led them to a ladder that went up to
 the tavern in the Docks Ward known as the Spouting Fish.
 
 ## Monday October 15th, 2018 - Waterdeep, the search for Floon
 After a healthy recap of the events that transpired, the party was led into a dungeon delving adventure in the sewers of Waterdeep. After dispatching goblins, duergar, and a doppleganger. They came in contact with an intellect devourer, a mindfalyer (Nihiloor), Frulum Mondath and an Orcish wizard. They were questioning Floon about some treasure. (Dragonheist material)
 
-### Outcomes
+**Outcomes:**
 The party successfully dispatched all enemies but the Mind Flayer. After he attacked he promptly exited through the black door. The party has brought the orc and Frulum's corpses with them to the Yawning Portal. After informing Volo that they had found Floon, he handed over the deed to Trollskull manor. Trudging through the city and arriving in Trollskull alley in the night. The party is beginning to investigate their new property.
 
 ## Monday October 22nd, 2018 - Waterdeep, Trollskull Manor and...
@@ -343,7 +234,7 @@ The party successfully dispatched all enemies but the Mind Flayer. After he atta
 
   (This session may take place entirely in Waterdeep... if not bring in the Mere of Dead Men, perhaps remind them of Ardred Brifferhew, convert notes from Mere, Carnath RoadHouse, etc...)
 
-### Outcomes
+**Outcomes:**
 The party questioned Frulam and the Orc sorcerer. Finding information about Chult, Xanathar, Niholoor (The Stone Eye). They explored and paid for the restoration of Trollskull Manor. They have named the tavern "The Haunted Hand" after appeasing Lif. Introduced Ulkoria, Vincent (Tiger Eye), Tally (The Bent Nail). A humongous black dragon flew over Waterdeep putting the city into a stir.  
 > War has been declared, Neverwinter in ruins, Army on the March!
 
