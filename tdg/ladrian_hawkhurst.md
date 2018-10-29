@@ -1,18 +1,58 @@
 # The Dying Gods Campaign
+
 <!-- TOC START min:1 max:3 link:true update:true -->
 - [The Dying Gods Campaign](#the-dying-gods-campaign)
-  - [Characters](#characters)
-    - [Ladrian Hawkhurst.](#ladrian-hawkhurst)
-  - [Session Notes](#session-notes)
-  - [Hometown - Port Dyminar](#hometown---port-dyminar)
+  - [The Story So Far](#the-story-so-far)
+  - [The Belly of the Beast](#the-belly-of-the-beast)
+  - [A New Chapter](#a-new-chapter)
+- [Ladrian Hawkhurst Backstory](#ladrian-hawkhurst-backstory)
+  - [Character Cliff Notes](#character-cliff-notes)
+  - [Hometown - Port Niavarro](#hometown---port-niavarro)
+  - [The Origins of The Pact (Jörmungandr)](#the-origins-of-the-pact-jörmungandr)
+  - [Details](#details)
+- [Session Notes](#session-notes)
+  - [Airship Battle? (Drazhan)](#airship-battle-drazhan)
+  - [Town of Sil](#town-of-sil)
 
 <!-- TOC END -->
 
 
-## Characters
-### Ladrian Hawkhurst.
 
-#### The Origins of The Pact (Jörmungandr)
+## The Story So Far
+Whisper had traveled to Waterdeep after being on the road for some time searching for his home. He took a rest at a tavern in the Docks Ward, performing for a stay. After leaving the tavern he was attacked, captured, and enslaved.
+
+After many weeks at sea at the mercy of a ruthless man named Merta, he finally managed to make some semblance of escape. Only to be swallowed by sea monster.
+
+Now in the belly of the beast. We came upon a survivor that was apparently being terrorized by other denizens of this beast. A group of scaly fish-like people. We have slain the chieftain and any remnants of the tribe. During the process of which we have recovered the keys to the slave collars.
+
+## The Belly of the Beast
+Now... We have removed the collars and are in the process of searching the remnants and trash piles.
+
+Heading back towards the stomach. I attached the collar to Selena, she seemed to obey my command. After we  Grumash apparently can't swim. Seráph transforms into a Dire Wolf and saves him.
+
+> Selena tells us that the cow was meant to be a sacrifice. Now we are the sacrifice
+
+We get back to the stomach with Berhardt. There is a pool of acid. Lady smears poop on the wall of the stomach and attempts to get the monster to spew. The stomach then shifts and contracts.
+
+I attempted to slip the collar on him. Turns out he is a vampire of some sort. Whisper died in glorious fashion.
+
+## A New Chapter
+Time to create a new character!
+
+
+# Ladrian Hawkhurst Backstory
+
+## Character Cliff Notes
+*Ladrian is a reluctant hero that keeps up a calm and carefree demeanor. He has a few character mannerisms and values that he keeps up.*
+
+* He is reluctant to use his powers.
+* He will not show outward acts of generosity.
+* He makes things about profit and what benefits him.
+
+## Hometown - Port Niavarro
+Port Niavarro is a small port town mainly known for skilled fisherman. The number of inhabitants is fairly small for a port town, a mere 200 souls. Their main goods are fish, and dried fruits (Cranberries).
+
+## The Origins of The Pact (Jörmungandr)
 In your desperation to escape your masters, you attempted to lead a coup aboard the Seven Suns ship you were on. The coup failed and all of the leaders of the coup were sentenced to death, dumped over the side of the ship with a heavy chain and weight around their neck. Before you were pushed over the side, you called out to your god, Jörmungandr, offering your life in service if he would spare you. As you were  being wrestled to the side of the ship, you noticed tendrils of shadow begin to snake around the sword of one of the sailors. Grabbing the sword, you could feel the shadow take hold of you, filling you with a strength and power you'd never known. After that, it was if your were possessed and you only remember what followed as if it were a dream or the experience of someone else. You became one with the blade, wielding it with a deadly grace you'd never possessed before. The ship itself shook as it seemed something had caught hold of it and you remember feeling the spine of the ship crack and begin to break into two under your feet as you whirled in a deadly dance of blood and steel. Hurled from the deck as the ship sunk beneath the waves, you only faintly remember plunging into the dark depths of the ocean, pulled by the weight around your neck, before a giant yellow eye twice the size of a ship opened within a few feet of you. You remember clearly a deep, smooth voice filling your mind before you lost consciousness and the water began filling your lungs "You will be a tool for my revenge".
 
 When you awoke you found yourself on the shores of Albion, the Island of kings in Eredaya, the weapon from the ship laying next to you and the iron band around your neck but the weight snapped off. In your mind there is a presence that as you feel as if you can mentally reach out to and probe. If feels as if it is a coiled mass of shadow, calling to you with the power you experienced in the ship. As you explore this new found power, you develop the ability to channel it, using its magic to cast spells and proficiency with weapons. The power frightens you though as each time you use it is becomes harder and harder to give it up. You feel that if you let it, it could overtake and control you. From there you wander until you come across a remote fishing village on the coast. You work for a time as a fisherman until your able to save up enough to buy your own skiff.
@@ -20,7 +60,7 @@ When you awoke you found yourself on the shores of Albion, the Island of kings i
 #### Intro into the Campaign
 That will be where we'll bring your into the story. Perhaps there's been some time since you've bought your skiff that you've developed a reputation as someone who can "get just about anything" or perhaps this is your first attempt to strike out on your own and make a big score after you've left the profession of fishing.
 
-#### Details
+## Details
 - When you tap into your power, wisps of shadow emit from your skin and your weapon that aren't visible to anyone but you.
 
 - Since the spellplague and the return of Eredaya to Toril, there are rumors of monsters lurking in the deep waters surrounding Eredaya and the fishermen of your village fear to travel to far from the coast.
@@ -33,8 +73,8 @@ That will be where we'll bring your into the story. Perhaps there's been some ti
 
 - You would also know then that the Seven Sun Trade Costar had contacted the priests of Aegir to find a reliable way to sail beyond the shores of Eredaya as they had taken heavy losses attempting to send out ships when Eredaya had returned to Toril. The priests were the ones that had instructed the Seven suns that they needed to make a living sacrifice in order to appease the creatures of the deep whom they saw as a sign that Aegir was once again working in the world. It was common for a priest of the order of Aegir to have a place aboard Seven Sun ships to ensure Aegir was honored. While it wasn't fool proof, there was a considerable reduction in losses to the trade guild and the priesthood of Aegir began to gain wealth and influence due to their new partnership.
 
-## Session Notes
-#### Airship Battle? (Drazhan)
+# Session Notes
+## Airship Battle? (Drazhan)
 I am in a battle as Drazhan. I think of my family, and the well-being of Eradaya. Figures begin charging the shield wall.
 
 There are Giants and Airships, and we are doing battle on the coast of Eradaya.
@@ -47,6 +87,7 @@ There are Giants and Airships, and we are doing battle on the coast of Eradaya.
 I am fighting on the side of Stone and Storm Giants. I seem to be a veteran or commander of sorts.
 
 
+## Town of Sil
 Arrive at the town of Sil. A large board with several spears skewered it. THe Skewered Boar Tavern. There is an election or rebellion going on.
 - Widoric, village elder type.
 - Trapper, Dal, governor, noble type.
@@ -56,7 +97,3 @@ Arrive at the town of Sil. A large board with several spears skewered it. THe Sk
 A plague about. Black ichor from the lungs, quarantine. Stay away from the houses with X. Week and a half. No new visitors.
 
 Trapper feels guilty about something.
-
-**Need to ask Brian about the name of my Village**
-
-## Hometown - Port Dyminar
