@@ -281,3 +281,13 @@ With the events of previous session we will *Jump into the Council of Waterdeep.
 Re-uniting Onthar Frume and Leosin Erlanthar. Onthar Frume was resurrected shortly after events unfolded at Baldur's Gate. Leosin had a talisman that could cast the spell *True Ressurection*. Onthar is unaffected by the Death Curse. Leosin on the other hand shows severe signs of the disease, opting to wear a porcelain mask that covers the majority of his face.
 
 The Council of Waterdeep will serve to give the characters a glimpse into the future and provide some guidance around the *Draakhorn*, Leosin has information about what the treasure is supposedly being used for. The treasure is to appease the jailer of the nine hells, Orcus, the treasure hoard is a bribe. The treasure is not for Tiamat herself.
+
+**Outcomes:**
+
+The party is summoned to the first council of Waterdeep.
+* Neverwinter is in ruins.
+* Onthar Frume is alive and well, leading the council.
+* The party has been given charge to clear out the Carnathi Roadhouse and prevent a forward advance base.
+* Volo transfers the deed.
+* The party thus becomes named The Fist Of Beregost.
+* Been given the heads up on the Draakhorn.
