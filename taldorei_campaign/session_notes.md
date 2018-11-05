@@ -145,7 +145,7 @@ Rustic Nail Inn was set on fire
 
 Prudence at the Maiden’s Wish in the back
 Kymal’s Fortune -
-FIne office overlooking the casino floor.
+Fine office overlooking the casino floor.
 Prudence is gray skinned, fine dress.
 Myriad, stoic, then uncomfortable.
 Some reports, bold not a good sign.
@@ -221,6 +221,9 @@ First the Suude, and then local wells. Each batch is the size of a softball. Bee
 
 **Horse's Shoe Blacksmith Teemira**
 *A large sturdy door, typically blacksmith's shop, a minotaur is working.*
+* Got warhammer silvered
+* Bought a whispers
+* Got some flasks of oil
 
 ##### Leads of Alfine (employee/servant at Vel's Family Castle)
 Alfine: She has been out of town. Bitris. (human in late 50s)
@@ -233,3 +236,6 @@ She escaped with a few different people. She may be the only one who made it. 6 
 * They would change shift a couple hours before dawn.
 * The castle is in The Dawn Mist Pines. Follow the Black Valley River leads to an abandoned village on the outskits of the castle.
 * The Flying one, purple cover with spikes, killed the other ones. Jumped into the river and went downstream before.
+* The name of the Castle is... Dawnmist Castle.
+* Heading into the Dawnmist Bay.
+*
