@@ -8,7 +8,7 @@
     - [Kymal](#kymal)
     - [Westruun](#westruun)
     - [Turst Fields](#turst-fields)
-  - [Missions](#missions)
+  - [Previous Missions](#previous-missions)
     - [Back in Kymal](#back-in-kymal)
   - [October 28th, 2018](#october-28th-2018)
     - [Gametime](#gametime)
@@ -185,12 +185,11 @@ Unusual character in the street, dark clothing, hood. They are trying not to be 
 ### Arrival in Westruun
 The World Market (Westruun), Beyond the Veil (Magic Shop), Tazma's (Arms)
 
-
 More caravans attacked by the hurd of storms, are the Goliaths back, plague is gripping the Trust Fields. 5 things you would not believe about the Council of Emon, Where has Vox Machina gone, have they abandoned us? Random people going mad for short periods of time. Arrived at about Dusk in Westruun.
 
 ### Arrival In Turst Fields
 
-Noticed posted curfew in Turst Fields, all citizens are required to barracade themselves after sundown.
+Noticed posted curfew in Turst Fields, all citizens are required to barricade themselves after sundown.
 In the town. It is approaching dusk. Tavern/Inn the Elf and the Gnoll. Standard size wooden tavern.
 Bartenders Azbun and Halura.
 
@@ -200,13 +199,37 @@ What is the curfew for? The past few weeks people have been going crazy and beco
 The shields have been investigating, and are being...
 A couple here and there, and now it is once a night.
 Captain of the Shields Gearhardt Bern.
+
 ##### Attack at The Elf and Gnoll Tavern/Inn
 Some of the patrons of the tavern had turned in the course of the night. We subdued the, and searched their persons. We found a street drug known as Suude. Scanlan used this, Something is mixed in looks biological, bile.  
+
 ##### Following up on Plague/Outbreak
 * Half-elf, two humans, farmers, sketchy. Buy from the apothecary in town. Halfling, Finzin, potions and salves shop.
 * Carrying tied people, over a dozen back to the barracks.
 * Known drug-addicts first, then later.
+
 More information, investigation, for Finzin.
+
+* Working with the clasp, lady in green.
+* How much gold.
+* She's the other ones.
+  * The Myriad
+* Her name is Iselda
+* She wanted to scare people out of the town so the Myriad could buy up the town.
+
+First the Suude, and then local wells. Each batch is the size of a softball. Been given three, mostly just in Suude, and a few potions. Then she told him to start putting it in the wells.
+
+**Horse's Shoe Blacksmith Teemira**
+*A large sturdy door, typically blacksmith's shop, a minotaur is working.*
 
 ##### Leads of Alfine (employee/servant at Vel's Family Castle)
 Alfine: She has been out of town. Bitris. (human in late 50s)
+* Dirty, Cot in the corner, seems like she has been here for a little while.
+
+Mercenaries, Not men or tiefling. Maids and cooks were talking about them as if they were some sort of devils. A beard like snakes.
+She escaped with a few different people. She may be the only one who made it. 6 of them. Carts being pulled out dripping blood.
+
+**Information about the Castle**
+* They would change shift a couple hours before dawn.
+* The castle is in The Dawn Mist Pines. Follow the Black Valley River leads to an abandoned village on the outskits of the castle.
+* The Flying one, purple cover with spikes, killed the other ones. Jumped into the river and went downstream before.
