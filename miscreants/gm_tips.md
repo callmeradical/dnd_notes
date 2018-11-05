@@ -1,11 +1,13 @@
 <!-- TOC START min:1 max:3 link:true update:true -->
   - [Campaign Organization](#campaign-organization)
   - [Starting the Game](#starting-the-game)
+  - [Experience Points](#experience-points)
   - [Rolls and When or When they aren’t Required](#rolls-and-when-or-when-they-arent-required)
   - [General Table Play](#general-table-play)
   - [Pacing the Story](#pacing-the-story)
 
 <!-- TOC END -->
+
 
 
 DM Tips
@@ -42,6 +44,22 @@ If the characters have a ship or stronghold, record its name and whereabouts, as
     > *You see a brawny orc type behind the bar nod in your direction as you walk in to the tavern. A bard is hard at work to the left of the state writing furiously in a book. A young woman is engaged in some quarrel with a man in the far corner of the room.*
 
 
+## Experience Points
+Character Marks = Each time a character has a moment that either drives the story forward, or beats a skill challenge, character gets a mark. This is for RP XP. The following equation is to provide players with experience for other than combat, and a different means of advancement. This is to encourage roleplay.
+
+```
+Experience Points = Character Level * 15 * Marks
+```
+
+Every session a character is given 1 mark to start. New places discovered, encounters, skill challenges (charisma based roles) can incur character marks.
+
+|Action or Event| Character Marks Awarded|
+|---------------|------------------------|
+| Adventure Milestone| 100 |
+| Showing Up | 1 |
+| Encounter | 5 |
+| Charisma Challenge | 5 |
+| Skill Challenge | 5 |
 
 ## Rolls and When or When they aren’t Required
 
@@ -51,7 +69,7 @@ If the characters have a ship or stronghold, record its name and whereabouts, as
 
 ## General Table Play
 * *Yes, and...* or *No, but...*
-* Roll Initiative to maintain balance in interactions
+* Roll Initiative to maintain balance in interactions, but outside of Roleplay.
 
 ## Pacing the Story
 * Encourage Role Play between characters, no need to make it rushed, the players are having fun.

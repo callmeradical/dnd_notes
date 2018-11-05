@@ -7,6 +7,7 @@
   - [Traps and Damage](#traps-and-damage)
     - [Save DCs and Attack Bonuses](#save-dcs-and-attack-bonuses)
     - [Damage Severity and Level](#damage-severity-and-level)
+  - [Experience and advancement](#experience-and-advancement)
 
 <!-- TOC END -->
 
@@ -75,3 +76,27 @@
 |5th-10th|2d10|4d10|10d10|
 |11th-16th|4d10|10d10|18d10|
 |17th-20th|10d10|18d10|24d10|
+
+## Experience and advancement
+|Level|Experience Points|
+|----------|------------|
+|1|0|
+|2|300|
+|3|900|
+|4|2,700|
+|5|6,500|
+|6|14,000|
+|7|23,000|
+|8|34,000|
+|9|48,000|
+|10|64,000|
+|11|85,000|
+|12|100,000|
+|13|120,000|
+|14|140,000|
+|15|165,000|
+|16|195,000|
+|17|225,000|
+|18|265,000|
+|19|305,000|
+|20|355,000|

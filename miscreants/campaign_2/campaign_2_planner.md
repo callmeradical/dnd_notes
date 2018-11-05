@@ -75,3 +75,6 @@ Dagult was off rebuilding the city of Neverwinter when the other Lords of Waterd
 The Stone of Golorr is actually an aboleth transformed by magic. In this inanimate state, the aboleth can read the mind of any creature that attunes to the stone, as well as modify that creature's memory. A creature attuned to the stone can also extract information from the aboleth, including lore about Neverember's vault.
 
 Built long ago by dwarves, the vault is warded against all forms of magical detection and intrusion. Its current protector is an adult gold dragon named Aurinax, who is also the current wielder and guardian of the dragonstaff of Ahghairon, which has the power to prevent other dragons from entering the city. In exchange for the staff, Aurinax promised to guard the gold until such time as Neverember or his appointed vassals removed it.
+
+# After Tyranny of Dragons (level 15+)
+A spectacular quest that brings them into the dungeon of Undermountain. The last known phylactery exists in the care of Halaster Blackcloak. If you wish to defeat the lich Acererak, you must defeat Halaster, his minions, and Acererak himself.
