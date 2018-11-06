@@ -23,8 +23,13 @@
   - [Monday October 15th, 2018 - Waterdeep, the search for Floon](#monday-october-15th-2018---waterdeep-the-search-for-floon)
   - [Monday October 22nd, 2018 - Waterdeep, Trollskull Manor and...](#monday-october-22nd-2018---waterdeep-trollskull-manor-and)
   - [Monday October 29th, 2018 - Waterdeep, The Cult of the Dragon Exposes Itself](#monday-october-29th-2018---waterdeep-the-cult-of-the-dragon-exposes-itself)
+  - [Monday November 5th, 2018 - North of Waterdeep, on the High Road](#monday-november-5th-2018---north-of-waterdeep-on-the-high-road)
+    - [Experience Awarded](#experience-awarded)
+    - [Notes: Skipped Castle Naerytar, going right to the Lodge.](#notes-skipped-castle-naerytar-going-right-to-the-lodge)
 
 <!-- TOC END -->
+
+
 
 
 
@@ -291,3 +296,30 @@ The party is summoned to the first council of Waterdeep.
 * Volo transfers the deed.
 * The party thus becomes named The Fist Of Beregost.
 * Been given the heads up on the Draakhorn.
+
+## Monday November 5th, 2018 - North of Waterdeep, on the High Road
+
+### Experience Awarded
+|Character|Marks| Encounter XP| Total|
+|------|-------|--------|------|
+|Eve|8|380|11,450|
+|Bavarious |9|380|11,540|
+|Haka|6|380|11,270|
+|Fernando|9|380|11,540|
+|Laucian|7|380|11,360|
+
+While traveling the wilderness the party came across the lair of a Balhannoth. The characters began to chase after that which they most covet.
+
+| Character | Object|
+|-----------|-------|
+| Eve| Temple of Selune|
+|Bavarious| Knowledge|
+|Haka| Killroy|
+|Fernando | Rezmir/Caelin|
+|Laucian| First Love|
+
+**Outcomes:**
+
+The characters dealt a swift death to the inhabitants of the Carnathi Roadhouse. Found a secret passage that led them to Castle Naerytar. They were ambushed by a black dragon (Voaraghamanath). They almost died, found out that the liquid is the blood of a stillborn dragon. This is the liquid used to make half-dragons.
+
+### Notes: Skipped Castle Naerytar, going right to the Lodge.
