@@ -121,13 +121,13 @@ In my campaigns I provide a means to create and purchase magical gear. The acqui
 # New Magic Items
 
 ## Blade of the Wastes (Major Item, Very Rare)
-* *Short Sword +2 (Requires Attunement)*
+* *Short Sword +3 (Requires Attunement)*
 * *Increased Crit Range (19-20)*
 * *As a bonus action you may grant yourself advantage on your next attack. You may use this ability a number of times equal to your constitution modifier (minimum of 1) per long rest.*
 
 **Description:** A finely crafted short sword, or at least at one point it was. The blade is rusty and dry, you can see bits of it crumbling away.
 
-**Cursed:** Once this blade draws blood, the thirst is unquenchable. The blade never becomes wet, all moisture is drawn into the blade. Every day that goes by without scoring a critical hit you take 1 point of exhaustion. Every critical hit removes all exhaustion levels.
+**Cursed:** Once this blade draws blood (first critical after attuned), the thirst is unquenchable. The blade never becomes wet, all moisture is drawn into the blade. Every day that goes by without scoring a critical hit you take 1 point of exhaustion. Every critical hit removes all exhaustion levels.
 
 Lifting the curse requires the user to dip the sword into a small body of fresh water. The sword will absorb all the water leaving a small riverbed/pond/stream/lakebed.
 

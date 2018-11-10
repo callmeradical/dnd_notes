@@ -16,6 +16,11 @@
     - [Leaving Kymal (Again)](#leaving-kymal-again)
     - [Arrival in Westruun](#arrival-in-westruun)
     - [Arrival In Turst Fields](#arrival-in-turst-fields)
+  - [November 4th, 2018](#november-4th-2018)
+    - [Following up on Plague/Outbreak](#following-up-on-plagueoutbreak)
+    - [Leads of Alfine (employee/servant at Vel's Family Castle)](#leads-of-alfine-employeeservant-at-vels-family-castle)
+    - [Information about the Castle](#information-about-the-castle)
+  - [November 11, 2018](#november-11-2018)
 
 <!-- TOC END -->
 
@@ -203,7 +208,8 @@ Captain of the Shields Gearhardt Bern.
 ##### Attack at The Elf and Gnoll Tavern/Inn
 Some of the patrons of the tavern had turned in the course of the night. We subdued the, and searched their persons. We found a street drug known as Suude. Scanlan used this, Something is mixed in looks biological, bile.  
 
-##### Following up on Plague/Outbreak
+## November 4th, 2018
+### Following up on Plague/Outbreak
 * Half-elf, two humans, farmers, sketchy. Buy from the apothecary in town. Halfling, Finzin, potions and salves shop.
 * Carrying tied people, over a dozen back to the barracks.
 * Known drug-addicts first, then later.
@@ -225,17 +231,18 @@ First the Suude, and then local wells. Each batch is the size of a softball. Bee
 * Bought a whispers
 * Got some flasks of oil
 
-##### Leads of Alfine (employee/servant at Vel's Family Castle)
+### Leads of Alfine (employee/servant at Vel's Family Castle)
 Alfine: She has been out of town. Bitris. (human in late 50s)
 * Dirty, Cot in the corner, seems like she has been here for a little while.
 
 Mercenaries, Not men or tiefling. Maids and cooks were talking about them as if they were some sort of devils. A beard like snakes.
 She escaped with a few different people. She may be the only one who made it. 6 of them. Carts being pulled out dripping blood.
 
-**Information about the Castle**
+### Information about the Castle
 * They would change shift a couple hours before dawn.
 * The castle is in The Dawn Mist Pines. Follow the Black Valley River leads to an abandoned village on the outskits of the castle.
 * The Flying one, purple cover with spikes, killed the other ones. Jumped into the river and went downstream before.
 * The name of the Castle is... Dawnmist Castle.
 * Heading into the Dawnmist Bay.
-*
+
+## November 11, 2018
