@@ -127,7 +127,7 @@ In my campaigns I provide a means to create and purchase magical gear. The acqui
 
 **Description:** A finely crafted short sword, or at least at one point it was. The blade is rusty and dry, you can see bits of it crumbling away.
 
-**Cursed:** Once this blade draws blood, the thirst is unquenchable. The blade never becomes wet, all moisture is drawn into the blade. Every day that goes by without scoring a critical hit you take 1 point of exhation. Every critical hit removes all exhaustion levels.
+**Cursed:** Once this blade draws blood, the thirst is unquenchable. The blade never becomes wet, all moisture is drawn into the blade. Every day that goes by without scoring a critical hit you take 1 point of exhaustion. Every critical hit removes all exhaustion levels.
 
 Lifting the curse requires the user to dip the sword into a small body of fresh water. The sword will absorb all the water leaving a small riverbed/pond/stream/lakebed.
 
