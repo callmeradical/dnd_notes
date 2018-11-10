@@ -1,4 +1,17 @@
+<!-- TOC START min:1 max:3 link:true update:true -->
+- [War-torn: Steel and Shadows](#war-torn-steel-and-shadows)
+  - [The World](#the-world)
+  - [The Stormreach Setting](#the-stormreach-setting)
+  - [Story-Arch 1: Stormreach, Resentful Dead](#story-arch-1-stormreach-resentful-dead)
+  - [Rough Outline](#rough-outline)
+    - [Plot](#plot)
+  - [Adventure Hook](#adventure-hook)
+
+<!-- TOC END -->
+
 # War-torn: Steel and Shadows
+
+
 
 ## The World
 The world of Eberron exists in between Pirates of the Caribbean, Lord of The
@@ -34,6 +47,15 @@ entire sections of ancient cities preserved from the ravages of time.
 
 
 ## Story-Arch 1: Stormreach, Resentful Dead
+
+## Rough Outline
+The characters are attending the annual games at the Red Ring, just before the first match starts there is an attack. A rogue undead bites a spectator, then turns his eyes on the party.
+
+After the undead is taken care of, the games are put on hold.
+
+A day goes by, more people begin to turn. News spread fast, which introduces the family of the experiments.
+
+This kicks off the rest of the story.
 
 ### Plot
 Jolan Tankran, a Karrnathi war criminal who pushed his experiments with the
@@ -117,10 +139,3 @@ Khorvaire, he rises again as one of the undead. Those who hunted him become the
 hunted themselves. His new necromantic powers increase his previous abilities
 with the undead, and he and his new experiments seek revenge upon both
 Stormreach and the characters.
-
-# Rough Outline
-The characters are attending the annual games at the Red Ring, just before the first match starts there is an attack. A rogue undead bites a spectator, then turns his eyes on the party.
-
-After the undead is taken care of, the games are put on hold.
-
-A day goes by, more people begin to turn. News spread fast, which introduces the family of the experiments.
