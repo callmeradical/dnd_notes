@@ -25,7 +25,9 @@
   - [Monday October 29th, 2018 - Waterdeep, The Cult of the Dragon Exposes Itself](#monday-october-29th-2018---waterdeep-the-cult-of-the-dragon-exposes-itself)
   - [Monday November 5th, 2018 - North of Waterdeep, on the High Road](#monday-november-5th-2018---north-of-waterdeep-on-the-high-road)
     - [Experience Awarded](#experience-awarded)
-    - [Notes: Skipped Castle Naerytar, going right to the Lodge.](#notes-skipped-castle-naerytar-going-right-to-the-lodge)
+- [Chapter 7: The Hunting Lodge](#chapter-7-the-hunting-lodge)
+  - [Retcon: Voaraghamanath, Dralmorrer Borngray, Rezmir, Bonebinder...](#retcon-voaraghamanath-dralmorrer-borngray-rezmir-bonebinder)
+  - [Notes: Skipped Castle Naerytar, going right to the Lodge.](#notes-skipped-castle-naerytar-going-right-to-the-lodge)
 
 <!-- TOC END -->
 
@@ -308,7 +310,8 @@ The party is summoned to the first council of Waterdeep.
 |Fernando|9|380|11,540|
 |Laucian|7|380|11,360|
 
-While traveling the wilderness the party came across the lair of a Balhannoth. The characters began to chase after that which they most covet.
+While traveling the wilderness the party came across the lair of a Balhannoth.
+The characters began to chase after that which they most covet.
 
 | Character | Object|
 |-----------|-------|
@@ -320,6 +323,47 @@ While traveling the wilderness the party came across the lair of a Balhannoth. T
 
 **Outcomes:**
 
-The characters dealt a swift death to the inhabitants of the Carnathi Roadhouse. Found a secret passage that led them to Castle Naerytar. They were ambushed by a black dragon (Voaraghamanath). They almost died, found out that the liquid is the blood of a stillborn dragon. This is the liquid used to make half-dragons.
+The characters dealt a swift death to the inhabitants of the Carnathi Roadhouse.
+Found a secret passage that led them to Castle Naerytar. They were ambushed by a
+black dragon (Voaraghamanath). They almost died, found out that the liquid is
+the blood of a stillborn dragon. This is the liquid used to make half-dragons.
 
-### Notes: Skipped Castle Naerytar, going right to the Lodge.
+# Chapter 7: The Hunting Lodge
+
+## Retcon: Voaraghamanath, Dralmorrer Borngray, Rezmir, Bonebinder...
+
+
+
+* The Dark Sermons of Strongor Bonebinder
+* Ring held by Borngray - one of the five rings of Myrkul.
+* Teleportation circle
+* Mirror is not a portal, it is a scrying device that you can view a
+teleportation circle.
+Voaraghamanthar seems to know everything that goes on in the swamp and is so
+fast he seems nearly to be in two places at once. Some sly lizardfolk heard
+Voaraghamanthar talking to himself. A former Dragon Cultist and worshiper of
+Myrkul named Strongor Bonebinder came to the Mere. Myrkul was killed during the
+Time of Troubles, roughly 100 years ago, and his essence came to the Mere.
+Strongor created numerous Rings of Myrkul and wrote a set of sermons known as
+the Dark Sermons of Strongor Bonebinder. Voaraghamanthar seeks these rings and
+has two in his possession already. The Dark Sermons of Strongor Bonebinder
+contain information that Severin used to locate the Dragon Masks and spoke of
+their power. Voaraghamanthar believes the sermons contain information on the
+other three Rings of Myrkul that he does not have in his possession and speaks
+to the location of the lost ruins of the Uthtower where these artifacts may
+reside. Severin gave Rezmir the Sermons to protect. Rezmir put them in the altar
+to Tiamat in Castle Naerytar under the protection of Borngray. Borngray wears
+one of the rings of Myrkul, a Ring of Evasion.
+
+If you're looking for another interesting and challenging encounter, consider
+putting the black-dragon-skinned tome, the Dark Sermons of Strongor Bonebinder,
+on an altar to Tiamat in the south-eastern tower. When the PCs do anything to
+the book, it resurrects (in gory reverse dissection detail) the priest of the
+Dragon Cult, Strongor Bonebinder himself.
+
+Use the stat block for Talis the White, give him an 18 strength, and change his
+cold stuff to necrotic stuff. He can be accompanied by a spectre for each PC
+above 4 to make life interesting. Though fresh from death, Strongor is not very
+likely to listen to the PCs and instead wishes to make them his first new
+sacrifices to Myrkul before joining his cultist brethren.
+## Notes: Skipped Castle Naerytar, going right to the Lodge.
