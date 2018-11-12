@@ -245,4 +245,21 @@ She escaped with a few different people. She may be the only one who made it. 6 
 * The name of the Castle is... Dawnmist Castle.
 * Heading into the Dawnmist Bay.
 
+Our friend the Orc is named Dag.
 ## November 11, 2018
+Stepping through the tree line. We see a handful of collapsed and broken buildings.
+
+*There are 8 buildings in the town...*
+
+* Feel a heaviness in the air, and it begins to rain...
+* Found a temple and an inn that look like we can take shelter.
+* The temple is of the Raven Queen, or once was... a small graveyard behind the temple.
+* A heavy storm is coming... the room is leaking a little bit.
+* In the backroom, it had been ransacked, the carpet had been moved.
+* Mass grave in the hold (trap door), about 15 bodies...
+* Found some Fanatics or Cultists, killed 'em. (4)
+* Found a holy symbol, Mephistopheles, Lord of Cana, 8th level of hell.
+* Found a spined devil, harvested its teeth and 12 spines.
+* Investigated the tavern as well, we are ambushed!
+
+I am going to attempt to use Val as a hostage.
