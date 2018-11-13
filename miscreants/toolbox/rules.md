@@ -14,6 +14,12 @@ If you want to call your shot for additional effect. You must hit with both d20 
 
 At this point, the party has been traveling a sufficiently long enough time, you know the effects of your spells and knows what to watch for in combat.
 
+### Bonus Action spells
+A spell cast with a bonus action is especially swift. You must use a bonus
+action on your turn to cast the spell, provided that you haven't already taken a
+bonus action this turn. You can't cast another spell during the same turn,
+except for a cantrip with a casting time of 1 action.
+
 ### Material Components
 
 When a specific reagent is called out for a specific spell, such as a pearl worth 25gp, that reagent needs to be purchased or at least be present.

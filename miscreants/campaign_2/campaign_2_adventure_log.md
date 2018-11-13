@@ -332,28 +332,32 @@ the blood of a stillborn dragon. This is the liquid used to make half-dragons.
 
 ## Retcon: Voaraghamanath, Dralmorrer Borngray, Rezmir, Bonebinder...
 
-
-
 * The Dark Sermons of Strongor Bonebinder
 * Ring held by Borngray - one of the five rings of Myrkul.
 * Teleportation circle
 * Mirror is not a portal, it is a scrying device that you can view a
 teleportation circle.
+
+
 Voaraghamanthar seems to know everything that goes on in the swamp and is so
 fast he seems nearly to be in two places at once. Some sly lizardfolk heard
 Voaraghamanthar talking to himself. A former Dragon Cultist and worshiper of
 Myrkul named Strongor Bonebinder came to the Mere. Myrkul was killed during the
 Time of Troubles, roughly 100 years ago, and his essence came to the Mere.
 Strongor created numerous Rings of Myrkul and wrote a set of sermons known as
-the Dark Sermons of Strongor Bonebinder. Voaraghamanthar seeks these rings and
-has two in his possession already. The Dark Sermons of Strongor Bonebinder
-contain information that Severin used to locate the Dragon Masks and spoke of
-their power. Voaraghamanthar believes the sermons contain information on the
-other three Rings of Myrkul that he does not have in his possession and speaks
-to the location of the lost ruins of the Uthtower where these artifacts may
-reside. Severin gave Rezmir the Sermons to protect. Rezmir put them in the altar
-to Tiamat in Castle Naerytar under the protection of Borngray. Borngray wears
-one of the rings of Myrkul, a Ring of Evasion.
+the Dark Sermons of Strongor Bonebinder.
+
+Voaraghamanthar seeks these rings and has two in his possession already. The
+Dark Sermons of Strongor Bonebinder contain information that Severin used to
+locate the Dragon Masks and spoke of their power.
+
+Voaraghamanthar believes the sermons contain information on the other three
+Rings of Myrkul that he does not have in his possession and speaks to the
+location of the lost ruins of the Uthtower where these artifacts may reside.
+Severin gave Rezmir the Sermons to protect.
+
+Rezmir put them in the altar to Tiamat in Castle Naerytar under the protection
+of Borngray. Borngray wears one of the rings of Myrkul, a Ring of Evasion.
 
 If you're looking for another interesting and challenging encounter, consider
 putting the black-dragon-skinned tome, the Dark Sermons of Strongor Bonebinder,
