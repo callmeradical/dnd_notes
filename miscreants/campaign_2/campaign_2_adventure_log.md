@@ -390,3 +390,10 @@ Evasion, Dark Sermon Of Strongor Bonebinder (Necromantic Tome), Strongor's Scale
 Mail.
 * They also managed to learn that the Floating Castle (Skyreach Castle) will
  arrive in Parnast in 1 months time.
+
+Travelling to Parnast is 618 miles by the way of the river, heading through
+Secomber, Loudwater, and Llorkh before crossing through the Greypeak mountains.
+It will take just under 26 days, arriving in the afternoon.
+
+**TODO:** Plan some encounters for the road (skill challenges),
+Random encounters (ambush on the road), Narration (weather events to go with skill challenges), Dream sequence for Eve, Visit from Milil for Laucian. Vampire Stalker (vampire from Skyreach Castle), Rumors of other Wyrmspeakers (Dragons, cult activity, details about Parnast being occupied by an army)
