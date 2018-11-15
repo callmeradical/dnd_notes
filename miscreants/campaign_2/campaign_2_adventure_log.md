@@ -25,9 +25,11 @@
   - [Monday October 29th, 2018 - Waterdeep, The Cult of the Dragon Exposes Itself](#monday-october-29th-2018---waterdeep-the-cult-of-the-dragon-exposes-itself)
   - [Monday November 5th, 2018 - North of Waterdeep, on the High Road](#monday-november-5th-2018---north-of-waterdeep-on-the-high-road)
     - [Experience Awarded](#experience-awarded)
-- [Chapter 7: The Hunting Lodge](#chapter-7-the-hunting-lodge)
-  - [Retcon: Voaraghamanath, Dralmorrer Borngray, Rezmir, Bonebinder...](#retcon-voaraghamanath-dralmorrer-borngray-rezmir-bonebinder)
-  - [Notes: Skipped Castle Naerytar, going right to the Lodge.](#notes-skipped-castle-naerytar-going-right-to-the-lodge)
+- [Chapter 6: Beneath Castle Naerytar](#chapter-6-beneath-castle-naerytar)
+  - [Voaraghamanath, Dralmorrer Borngray, Rezmir, Bonebinder...](#voaraghamanath-dralmorrer-borngray-rezmir-bonebinder)
+    - [Backstory](#backstory)
+  - [Monday November 12th, 2018 - Beneath Castle Naerytar](#monday-november-12th-2018---beneath-castle-naerytar)
+    - [Experience Awarded](#experience-awarded-1)
 
 <!-- TOC END -->
 
@@ -63,7 +65,7 @@ While in the camp they see Leosin Erlanthar being tortured.
 They also see a number of members of the Cult of the Dragon.
 * Rezmir
 * Frulum Mondath
-* Rath Modar  
+* Rath Modar
 
 # Chapter 3: The Dragon Hatchery
 Important events that happen in the dragon hatchery.
@@ -215,7 +217,7 @@ confronted with the encounter "No Room at the Inn" You have made short work of t
 ## Monday September 10th, 2018 - Day 65 On The Road
 >When last we left our heroes... They had just pulled into "The Way Inn", a rather noted establishment along the Trade Way leading to Daggerford and Waterdeep beyond. When attempting to procure lodging the party encountered a group of individuals that seemed to take issue with the parties purchasing of their rooms. A fight ensued. You made short work of these would-be assassins and while dragging the bodies towards the door, Isteval has mentioned that these were no simple sellswords, the poison seemed to be too potent and very effective the weapons were recently prepared, they were not likely here by accident... Now, what would you like to do?
 
-## Monday September 17th, 2018 - Arrival in DaggerFord  
+## Monday September 17th, 2018 - Arrival in DaggerFord
 Secured passage by boat, skill checks, secured an account at the Bank of the Swordcoast (name escapes me) in the vault supplied by Elminster and Mirt.
 
 # Chapter 5: Construction Head, Beginning in Waterdeep (Dragonheist)
@@ -266,7 +268,7 @@ The party successfully dispatched all enemies but the Mind Flayer. After he atta
   (This session may take place entirely in Waterdeep... if not bring in the Mere of Dead Men, perhaps remind them of Ardred Brifferhew, convert notes from Mere, Carnath RoadHouse, etc...)
 
 **Outcomes:**
-The party questioned Frulam and the Orc sorcerer. Finding information about Chult, Xanathar, Niholoor (The Stone Eye). They explored and paid for the restoration of Trollskull Manor. They have named the tavern "The Haunted Hand" after appeasing Lif. Introduced Ulkoria, Vincent (Tiger Eye), Tally (The Bent Nail). A humongous black dragon flew over Waterdeep putting the city into a stir.  
+The party questioned Frulam and the Orc sorcerer. Finding information about Chult, Xanathar, Niholoor (The Stone Eye). They explored and paid for the restoration of Trollskull Manor. They have named the tavern "The Haunted Hand" after appeasing Lif. Introduced Ulkoria, Vincent (Tiger Eye), Tally (The Bent Nail). A humongous black dragon flew over Waterdeep putting the city into a stir.
 > War has been declared, Neverwinter in ruins, Army on the March!
 
 ## Monday October 29th, 2018 - Waterdeep, The Cult of the Dragon Exposes Itself
@@ -328,17 +330,16 @@ Found a secret passage that led them to Castle Naerytar. They were ambushed by a
 black dragon (Voaraghamanath). They almost died, found out that the liquid is
 the blood of a stillborn dragon. This is the liquid used to make half-dragons.
 
-# Chapter 7: The Hunting Lodge
+# Chapter 6: Beneath Castle Naerytar
 
-## Retcon: Voaraghamanath, Dralmorrer Borngray, Rezmir, Bonebinder...
+## Voaraghamanath, Dralmorrer Borngray, Rezmir, Bonebinder...
 
 * The Dark Sermons of Strongor Bonebinder
 * Ring held by Borngray - one of the five rings of Myrkul.
 * Teleportation circle
-* Mirror is not a portal, it is a scrying device that you can view a
-teleportation circle.
+* Mirror is not a portal, it is a scrying device that you can view a teleportation circle.
 
-
+### Backstory
 Voaraghamanthar seems to know everything that goes on in the swamp and is so
 fast he seems nearly to be in two places at once. Some sly lizardfolk heard
 Voaraghamanthar talking to himself. A former Dragon Cultist and worshiper of
@@ -370,4 +371,22 @@ cold stuff to necrotic stuff. He can be accompanied by a spectre for each PC
 above 4 to make life interesting. Though fresh from death, Strongor is not very
 likely to listen to the PCs and instead wishes to make them his first new
 sacrifices to Myrkul before joining his cultist brethren.
-## Notes: Skipped Castle Naerytar, going right to the Lodge.
+
+## Monday November 12th, 2018 - Beneath Castle Naerytar
+
+### Experience Awarded
+|Character|Marks| Encounter XP| Total|
+|------|-------|--------|------|
+|Eve|5|6,465|6,990|
+|Bavarious |5|6,465|6,990|
+|Haka|5|6,465|6,990|
+|Fernando|10|6,465|7,515|
+|Laucian|5|6,465|6,990|
+
+**Outcomes:**
+* Rezmir has met her end at the hands of the Fist of Beregost.
+* The party recovered the Black Dragon Mask, a Legendary Greatsword, Ring of
+Evasion, Dark Sermon Of Strongor Bonebinder (Necromantic Tome), Strongor's Scale
+Mail.
+* They also managed to learn that the Floating Castle (Skyreach Castle) will
+ arrive in Parnast in 1 months time.
