@@ -19,6 +19,10 @@
   - [Durendal (Major Item, Legendary)](#durendal-major-item-legendary)
   - [Book of Ziri's Dimensional door](#book-of-ziris-dimensional-door)
   - [Javelin of Backbiting (Major Item, Rare)](#javelin-of-backbiting-major-item-rare)
+  - [Hazirawn (Major Item, Legendary)](#hazirawn-major-item-legendary)
+  - [Ring of Evasion (Major Item, Rare)](#ring-of-evasion-major-item-rare)
+  - [Frost Brand Spear (Major Item, Very Rare)](#frost-brand-spear-major-item-very-rare)
+  - [Bonebinder's Scale Mail (Major Item, Very Rare)](#bonebinders-scale-mail-major-item-very-rare)
 
 <!-- TOC END -->
 
@@ -115,8 +119,8 @@ In my campaigns I provide a means to create and purchase magical gear. The acqui
 | Item Type | Common | Uncommon | Rare | Very Rare | Legendary |
 |-----------|--------|----------|------|-----------|-----------|
 |Minor Items| 10     | 3        | 0    | 1         | 0         |
-|Major Items| -      | 5        | 9    | 1         | 1         |
-|Total      | 10     | 8        | 9    | 2         | 1         |
+|Major Items| -      | 5        | 10   | 3         | 2         |
+|Total      | 10     | 8        | 10   | 4         | 2         |
 
 # New Magic Items
 
@@ -163,4 +167,49 @@ When you drink this bitter potion, your arms are transformed into tentacles, whi
 
 ## Javelin of Backbiting (Major Item, Rare)
 * *+1 Javelin*
-* *When you throw it, its normal and long ranges both increase by 30 feet, and it deals one extra die of damage on a hit. After you throw it and it hits or misses, it flies back to your hand immediately.
+* *When you throw it, its normal and long ranges both increase by 30 feet, and it deals one extra die of damage on a hit.
+* After you throw it and it hits or misses, it flies back to your hand immediately.
+
+## Hazirawn (Major Item, Legendary)
+*Weapon (greatsword), legendary, requires attunement*
+
+A sentient (neutral evil) greatsword, Hazirawn is capable
+of speech in Common and Netherese.
+
+* Even if you aren’t attuned to the sword, you gain a +1 bonus on attack rolls and damage rolls made with this weapon. If you are attuned to Hazirawn, you deal an extra 1d6 necrotic damage when you hit with the weapon.
+
+* Increased Potency. While you are attuned to this
+weapon, its bonus on attack rolls and damage rolls
+increases to +2, and a hit deals an extra 2d6 necrotic
+damage (instead of 1d6).
+
+* Spells. Hazirawn has 4 charges to cast spells. As long
+as the sword is attuned to you and you are holding it in
+your hand, you can cast detect magic (1 charge), detect
+evil and good (1 charge), or detect thoughts (2 charges).
+Each night at midnight, Hazirawn regains 1d4 expended
+charges.
+* Wounding. While you are attuned to the weapon,
+any creature that you hit with Hazirawn can’t regain
+hit points for 1 minute. The target can make a DC 15
+Constitution saving throw at the end of each of its turns,
+ending this effect early on a success.
+
+## Ring of Evasion (Major Item, Rare)
+*Requires Attunement*
+
+This ring has 3 charges, and it regains 1d3 expended charges daily at dawn. When you fail a Dexterity saving throw while wearing it, you can use your reaction to expend 1 of its charges to succeed on that saving throw instead.
+
+## Frost Brand Spear (Major Item, Very Rare)
+*Requires Attunement*
+
+* When you hit with an attack using this magic spear, the target takes an extra 1d6 cold damage. In addition, while you hold the spear, you have resistance to fire damage.
+
+* In freezing temperatures, the spearhead sheds bright light in a 10-foot radius and dim light for an additional 10 feet.
+
+* When you draw this weapon, you can extinguish all nonmagical flames within 30 feet of you. This property can be used no more than once per hour.
+
+## Bonebinder's Scale Mail (Major Item, Very Rare)
+* You have a +1 bonus to AC while wearing this armor.
+* Once per day, you may grant yourself advantage on any Arcana skill check.
+* You gain resistance to Acid Damage
