@@ -13,6 +13,7 @@
 - [Session Notes](#session-notes)
   - [Airship Battle? (Drazhan)](#airship-battle-drazhan)
   - [Town of Sil](#town-of-sil)
+    - [Temple of Cyric - Arranaeus](#temple-of-cyric---arranaeus)
 
 <!-- TOC END -->
 
@@ -97,3 +98,33 @@ Arrive at the town of Sil. A large board with several spears skewered it. THe Sk
 A plague about. Black ichor from the lungs, quarantine. Stay away from the houses with X. Week and a half. No new visitors.
 
 Trapper feels guilty about something.
+Rumors have it that dwarves are responsible.
+Closest town is two weeks away.
+
+a woman, he would pay us for, move some barrels, ladrian would paid for him.
+Lost key... bumped into lady on the way.
+Come to the gate, Sul, Tully.
+
+Murta's sister stole the governor's horse and directed the guards.
+She also stole my skiff. Several Hundred yards to the west I can see a piece of wood sticking out of the water, top of the mast is sticking in the water.
+And sank it.
+
+Younger boy (Jasper) and half-orc (Tormok) in the southern of town.
+Jasper saw something in the woods... A strange fellow out in the woods... disappeared into thin air, an elf...
+
+The culling (x painted on the door) quarantine inside...
+The woodsman guild (source of Aranaeus power), Trapper, Aranaeus, is deciding when the X gets painted.Living off of the Silverstem forest.
+
+Petunia, old lady at the tavern, drinks tea... she's gesturing, with her hands, but she is making motions, like a sign language, she is speaking in thieves cant, a master thief would know, she is identifying herself as a master thief. Fruitstand and has an apple orchard. See her at the temple of Cyric? Horseshit priest, wouldn't catch me dead... visit her at her fruit stand.
+
+### Temple of Cyric - Arranaeus
+Purple sunburst, with a picture of a jawless skull.
+In these times of hardship let us remember the god of Cyric... he ascended to godhood by his own hands.
+The rot lung plague. Mystra killed him.
+Temple of Cyric no bueno on castorino.
+They are casting spells.
+Type of people that worship Cyric.
+Plague has been around for about 2 weeks ago...three whole families...
+Widoric doesn't see the need for religion.
+
+Trapper meeting with Arannaeus, two voices shouting. Trapper was meeting with him regularly.
