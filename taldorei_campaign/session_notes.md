@@ -263,3 +263,6 @@ Stepping through the tree line. We see a handful of collapsed and broken buildin
 * Investigated the tavern as well, we are ambushed!
 
 I am going to attempt to use Val as a hostage.
+
+Killed Noralore (Vel's dad's right hand man.)
+Found a gnome (Salpose) that makes donuts, wearing a hunters get-up, he has a wife in the castle named Brigitte 
