@@ -30,6 +30,10 @@
     - [Backstory](#backstory)
   - [Monday November 12th, 2018 - Beneath Castle Naerytar](#monday-november-12th-2018---beneath-castle-naerytar)
     - [Experience Awarded](#experience-awarded-1)
+  - [Monday November 19th, 2018 - Audition with the Gods.](#monday-november-19th-2018---audition-with-the-gods)
+    - [Experience awarded](#experience-awarded-2)
+    - [Events of Note](#events-of-note)
+    - [Prep for next Session...](#prep-for-next-session)
 
 <!-- TOC END -->
 
@@ -396,4 +400,61 @@ Secomber, Loudwater, and Llorkh before crossing through the Greypeak mountains.
 It will take just under 26 days, arriving in the afternoon.
 
 **TODO:** Plan some encounters for the road (skill challenges),
-Random encounters (ambush on the road), Narration (weather events to go with skill challenges), Dream sequence for Eve, Visit from Milil for Laucian. Vampire Stalker (vampire from Skyreach Castle), Rumors of other Wyrmspeakers (Dragons, cult activity, details about Parnast being occupied by an army)
+Random encounters (ambush on the road), Narration (weather events to go with
+skill challenges), Dream sequence for Eve, Visit from Milil for Laucian. Vampire
+Stalker (vampire from Skyreach Castle), Rumors of other Wyrmspeakers (Dragons,
+cult activity, details about Parnast being occupied by an army)
+
+## Monday November 19th, 2018 - Audition with the Gods.
+
+### Experience awarded
+Based on the small enounter they had and the story developing, the party amassed 1,395 xp.
+
+### Events of Note
+* Laucian received Sharptongue
+  * "A jealous sword, you must not speak it's name"
+  * He has yet to awaken his ability as a hexblade (next session)
+* Introduced each to a patron deity
+  * Eve worships Selune
+  * Haka worships Bahamut
+  * Bavarious worships Ohgma
+  * Laucian worships Milil
+  * Fernando worships Mystra
+* This group of Deities is known as the "Silver String"
+* Fernando received a boon of 20 hp from Mystra for his reverence.
+* Eve learned about her past lives, and Evendur Highcastle.
+
+The party entered the realm of the gods and emerged in a snowy area near Parnast
+25 days later. They decided to attempt to enlist the help of Talis the White,
+and searched for the hunting lodge. Upon discovering the hunting lodge the party
+was beset with a party of trolls and drakes. After defeating the trolls and a
+number of drakes, Talis herself came to the door, whistled, and called off the
+drakes. She has invited them inside to talk.
+
+### Prep for next Session...
+
+#### Talis The White
+She believes she is the rightful bearer of the White Dragon Mask, and that she
+was deeply wronged when custody of the mask went to her hated rival, the dwarf
+Varram, a foolish creature whom Talis considers insultingly incompetent and
+worthless. She’s been watching the cult’s hoard grow, and she hopes to still
+make her move to become a major figure within the cult hierarchy—certainly she
+has a lot of support among cultists.
+
+Talis feels strongly that she belongs in Severin’s “inner circle,” but Severin
+doesn’t trust her and recently appointed a dwarf named Varram as his wyrmspeaker
+in charge of recovering the White Dragon Mask. The adventurers meet Talis and
+her servants, and they could end up fighting Talis and her crew in the lodge.
+They might also bargain and make a deal with Talis, striking against those who
+oppose her ascension. If they do the latter, she helps the party reach the
+nearby village of Parnast and aboard Skyreach Castle— but negotiations are
+fairly hazardous and might easily result in combat rather than a deal.
+
+* The rest of the cultists have left for Skyreach Castle at this point.
+* She is extremely sensitive and prideful.
+* Talis is very beautiful, she has a somewhat intense looking gaze, she lets
+ that drop for the slightest of moments. She is going to have a thing for
+ Laucian.
+   * She reminds you of someone, a first love, maybe?
+ * She will play tough initially, but if they can play to her hatred and
+ * insecurities they will win her as an ally.

@@ -1,44 +1,64 @@
-Cities are one of the most fun places to experience the game. They are also extremely difficult for a DM to administer due to the lack of monsters (usually) and terrain. They are seen as boring, and only good for having a character home or party base-of-operations, a place to put the PlawtHooke Tavern, and a giant Wal-Mart for dumping all your treasure. For some types of groups, this is fine. I, however, like my cities to teem with experiences that the players simply cannot experience out in the wild. I drew my first city as a lark. I was a brand-spanking new DM and needed a place for the party to begin their adventuring lives. I wanted to use a city, so they could all be from the same area and so that they all knew each other without having to do some elaborate riverdance with their backstories to get them together.
+# Building cities
 
-The city was born. It was a single sheet of graph with a bunch of boxes with numbers in them. I know I have it in my archives somewhere still. I wrote down all the usual places I had seen in cities and towns from all the modules I had played in over the preceeding years. Then came the time to actually run the game. Know what I spent a ton of time doing? Looking up numbers on my list. We ended up circling one of them (the tavern. big surprise eh?) just so I didn't have to keep looking it up.
+## Tools
+* Fantasy City Map Generator;
+ https://watabou.itch.io/medieval-fantasy-city-generator
 
-It was a pain in the ass.
+> The city was born. It was a single sheet of graph with a bunch of boxes with
+> numbers in them. I know I have it in my archives somewhere still. I wrote down
+> all the usual places I had seen in cities and towns from all the modules I had
+> played in over the preceeding years. Then came the time to actually run the
+> game. Know what I spent a ton of time doing? Looking up numbers on my list. We
+> ended up circling one of them (the tavern. big surprise eh?) just so I didn't
+> have to keep looking it up.
+>
+> It was a pain in the ass.
+>
+>So I redrew the city and made bigger boxes this time. Ones I could write in.
+>Bliss. Over time, as the campaign grew and grew, and the party kept returning
+>to the city, I kept adding things, like street names. I added statues and parks
+>in the blank areas of the map. Any place I had a tiny bit of white paper, I
+>tried to put something there. Over time the city became its own unique place.
+>Sure it had a blacksmith, and a weapons merchant, an inn and several taverns (I
+>branched out), and the Fighter's Guild, all the usual places, but the Fighter's
+>Guild was on Salt Street, next to Mareth Park, and I knew that a group of
+>homeless kids hung out round the back at night because the party had had
+>several run-ins with them over the months, and the encounters always seemed to
+>happen near the Guild. I knew that Fat Teddy had a sausages-in-rolls stall near
+>the alleyway to Trenchtown because one of the party members had a shouting
+>match with him (when he was just Ted) and everytime the character went by, he'd
+>yell out, "Eat shit, Fat Teddy" (it always sounded like a capitol "F" to my
+>ears, anyway).
 
-So I redrew the city and made bigger boxes this time. Ones I could write in. Bliss. Over time, as the campaign grew and grew, and the party kept returning to the city, I kept adding things, like street names. I added statues and parks in the blank areas of the map. Any place I had a tiny bit of white paper, I tried to put something there. Over time the city became its own unique place. Sure it had a blacksmith, and a weapons merchant, an inn and several taverns (I branched out), and the Fighter's Guild, all the usual places, but the Fighter's Guild was on Salt Street, next to Mareth Park, and I knew that a group of homeless kids hung out round the back at night because the party had had several run-ins with them over the months, and the encounters always seemed to happen near the Guild. I knew that Fat Teddy had a sausages-in-rolls stall near the alleyway to Trenchtown because one of the party members had a shouting match with him (when he was just Ted) and everytime the character went by, he'd yell out, "Eat shit, Fat Teddy" (it always sounded like a capitol "F" to my ears, anyway).
 
-This wasn't just a city. This was my city.
+## Questions
 
-Here's how you can build yours.
+* Where is this city in the world?
 
-If you have seen my comments lately (and how could you not, I'm like bad breath, turn around and I'm there), you'll know that my DM style comes from the "Ask Questions" School of Design. So let's ask ourselves some.
+* Why is it there?
 
-Where is this city in the world?
+* How many people live there?
 
-Why is it there?
+* What is the racial makeup?
 
-How many people live there?
+* Is the city walled? Or protected by any natural features?
 
-What is the racial makeup?
+* What is the government?
 
-Is the city walled? Or protected by any natural features?
+* What kind of legal system, if any, is there?
 
-What is the government?
+* What are the main Temples/Shrines/Cults/Whatevers?
 
-What kind of legal system, if any, is there?
+* What is the city's means of income? Do they produce raw goods, or finished, or luxury, or all three?
 
-What are the main Temples/Shrines/Cults/Whatevers?
+* How does the city get its food?
 
-What is the city's means of income? Do they produce raw goods, or finished, or luxury, or all three?
+* What is the economy like? Is the city rich? Or poor? Or somewhere in-beween?
 
-How does the city get its food?
+* Are there any Guilds?
 
-What is the economy like? Is the city rich? Or poor? Or somewhere in-beween?
 
-Are there any Guilds?
-
-These are basic questions. They are boring as shit, I know. But by doing this, you'll make a city that makes sense to you and your players. It will operate along the same lines that you are used to reading about, and experiencing on a daily basis in the real world. Once you get a grasp on that, then you can branch out and start actually getting to the good bit.
-
-SHOPS AND BUILDINGS AND HOUSES OH MY
+## Shops
 
 Once you have decided how large your city will be, then you can get down to deciding how many buildings there should be. People like to build their cities large, when thinking about population, and I think that's because our modern cities are massive, so they scale down from there, but you should really scale that down again, because the larger you go, the more buildings you need to draw, and trust me when I say this, there is nothing more terrifying than 4 huge sheets of paper taped together covering the entire table and 800 boxes to fill in and you got NO IDEA WHERE TO BEGIN.
 
@@ -53,6 +73,8 @@ Now the fun bit. Shops and other stuff.
 The larger your city, the more stuff there is to do, buy, visit and potentially rob, burn down, send to another plane of existance or use as a focal point to raise Cthulhu (again).
 
 Break your building list into general categories. I use these:
+
+### Categories
 
 • Merchants
 
@@ -82,6 +104,8 @@ Start with a basic list though, and fill them in first. If you start doing multi
 
 So let's examine the categories and give some examples, although most will be obvious.
 
+#### Examples
+
 • Merchants sell goods of any kind to the public. Examples include jewelry stores, furniture stores, weapon dealers, armor dealers, decorative items stores, clothing and book stores.
 
 • Entertainment includes anything that is fun and isn't drinking or sex. Examples include zoos, libraries, museums, art galleries, circuses, sporting arenas, dance halls, theaters, music halls, and even blood sports.
@@ -110,8 +134,6 @@ Now the hard part. Names. Oh yes. You need to do a LOT of naming, and its not ea
 
 So you've drawn your map. You've made your buildings list and you've actually filled everything in. Now what? Now you will need encounters to bring it all to life. I have a large city encounter table that I posted previously that can serve as a template for you to customize for your own cities. Every city's encounter tables should be different in many areas. Sure, some things can be the same, but the interesting bits of your city should get entries on the table. Mine, for instance, have specific religious encounters that are specific to my deities and temples/shrines/cults.
 
-/u/Tunafishsam had a great comment and I asked his permission to add this to the main body of the post.
-
 Couple thoughts to add. First, most cities have a distinct lack of urban planning and no building codes. Thus, buildings will butt up against each other and form long blocks.
 
 Twisty alleys will snake between them. Knowing what alleys go where and which ones dead end is pretty handy information in a chase scene or running fight.
@@ -123,7 +145,3 @@ Sewers also are fantasy staple. They are usually only present in large, well dev
 Another thing to think about is whether streets are cobbled. Most small towns will just have mud in between buildings. Fancy buildings might build boardwalks to keep the high and mighty out of the muck. Only bigger/wealthier cities will have cobbled streets. If they are, that means there's also a quarry nearby that supplies rocks, or there might be giant kilns that churn clay into bricks.
 
 You can use the parameters from this post and just scale them down to just be for the events in the city, instead of on a global level
-
-Here is an example of one of my city maps
-
-I hope this has helped breathe a little life into your imaginations. If you have any questions, or would like advice, comment below or PM me anytime.
