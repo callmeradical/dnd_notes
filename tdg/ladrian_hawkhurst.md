@@ -15,6 +15,8 @@
   - [Town of Sil](#town-of-sil)
     - [Temple of Cyric - Arranaeus](#temple-of-cyric---arranaeus)
   - [Before Next Session](#before-next-session)
+    - [Roleplaying Ladrian](#roleplaying-ladrian)
+    - [Questions of the Monk](#questions-of-the-monk)
 
 <!-- TOC END -->
 
@@ -227,9 +229,33 @@ him regularly.
 * How much did we make away with from Arranis' room?
 * Experience Point system?
 
+### Roleplaying Ladrian
+* Low Intelligence - Not interested in scholarly or historical information
+(don't go chasing after INT rolls)
+  * Not Interested in Investigating.
+  * Not Schooled.
+* High Charisma - People skills, insight with cha?
+  * Dealmaker
+  * Negotiator
+
+
 ### Questions of the Monk
-* What is your name?
-* How long have you worshiped Cyric?
-* How long have you been in Sil?
-* What do you know about the Rot Lung?
-* What is going on between Trapper and Arranis?
+* Mundane
+  * What is your name?
+  * How long have you worshiped Cyric?
+  * How long have you been in Sil?
+* More Pressing
+  * What do you know about the cause of the Rot Lung?
+  * What is going on between Trapper and Arranis?
+
+Halfling with tattoos and close cropped hair.
+Talen's house, Orsik
+
+Roughly dressed with a leather vest with green tunic, some sort of skullcap
+Patternd shirt slightly taller.
+
+Tired waiting for the next shift.
+
+Going to north gate, checking out the elf in the north woods.
+Widoric is gone. No Breakfast made.
+Jasper came into the woods with us, ran into Balin (Jimmy), and fought a bunch of boar.
