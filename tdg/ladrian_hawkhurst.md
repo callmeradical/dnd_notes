@@ -14,6 +14,7 @@
   - [Airship Battle? (Drazhan)](#airship-battle-drazhan)
   - [Town of Sil](#town-of-sil)
     - [Temple of Cyric - Arranaeus](#temple-of-cyric---arranaeus)
+  - [Before Next Session](#before-next-session)
 
 <!-- TOC END -->
 
@@ -211,15 +212,24 @@ Fruitstand and has an apple orchard. See her at the temple of Cyric? Horseshit
 priest, wouldn't catch me dead... visit her at her fruit stand.
 
 ### Temple of Cyric - Arranaeus
-Purple sunburst, with a picture of a jawless skull.
-In these times of hardship let us remember the god of Cyric... he ascended to
-godhood by his own hands.
-The rot lung plague. Mystra killed him.
-Temple of Cyric no bueno on castorino.
-They are casting spells.
-Type of people that worship Cyric.
-Plague has been around for about 2 weeks ago...three whole families...
-Widoric doesn't see the need for religion.
+Purple sunburst, with a picture of a jawless skull. In these times of hardship
+let us remember the god of Cyric... he ascended to godhood by his own hands. The
+rot lung plague. Mystra killed him. Temple of Cyric no bueno on castorino. They
+are casting spells. Type of people that worship Cyric. Plague has been around
+for about 2 weeks ago...three whole families... Widoric doesn't see the need for
+religion.
 
 Trapper meeting with Arannaeus, two voices shouting. Trapper was meeting with
 him regularly.
+
+## Before Next Session
+* What was on the blank parchment that I grabbed?
+* How much did we make away with from Arranis' room?
+* Experience Point system?
+
+### Questions of the Monk
+* What is your name?
+* How long have you worshiped Cyric?
+* How long have you been in Sil?
+* What do you know about the Rot Lung?
+* What is going on between Trapper and Arranis?
