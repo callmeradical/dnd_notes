@@ -33,7 +33,8 @@
   - [Monday November 19th, 2018 - Audition with the Gods.](#monday-november-19th-2018---audition-with-the-gods)
     - [Experience awarded](#experience-awarded-2)
     - [Events of Note](#events-of-note)
-    - [Prep for next Session...](#prep-for-next-session)
+  - [Monday December 3rd, 2018 - Meeting the Ice Queen...](#monday-december-3rd-2018---meeting-the-ice-queen)
+    - [Talis The White](#talis-the-white)
 
 <!-- TOC END -->
 
@@ -431,9 +432,22 @@ was beset with a party of trolls and drakes. After defeating the trolls and a
 number of drakes, Talis herself came to the door, whistled, and called off the
 drakes. She has invited them inside to talk.
 
-### Prep for next Session...
+## Monday December 3rd, 2018 - Meeting the Ice Queen...
 
-#### Talis The White
+>When last we left our heroes, they had managed to track down a snowy lodge in
+>the mountains near Parnast. They have just killed two trolls and a number of
+>guard drakes... A woman whistles from the door calling off the attack, and
+>calls for you to come inside.
+
+### Talis The White
+
+**Key Points**
+* She wants the Black Dragon Mask.
+  * This is to use the black dragons in the Mere of Dead Men to exact revenge on
+  Vorram.
+* She is already thought to be conspiring against Severin.
+* She finds Bavarious attractive.
+
 She believes she is the rightful bearer of the White Dragon Mask, and that she
 was deeply wronged when custody of the mask went to her hated rival, the dwarf
 Varram, a foolish creature whom Talis considers insultingly incompetent and
