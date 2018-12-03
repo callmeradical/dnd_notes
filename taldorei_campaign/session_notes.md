@@ -235,8 +235,10 @@ First the Suude, and then local wells. Each batch is the size of a softball. Bee
 Alfine: She has been out of town. Bitris. (human in late 50s)
 * Dirty, Cot in the corner, seems like she has been here for a little while.
 
-Mercenaries, Not men or tiefling. Maids and cooks were talking about them as if they were some sort of devils. A beard like snakes.
-She escaped with a few different people. She may be the only one who made it. 6 of them. Carts being pulled out dripping blood.
+Mercenaries, Not men or tiefling. Maids and cooks were talking about them as if
+they were some sort of devils. A beard like snakes.
+She escaped with a few different people. She may be the only one who made it. 6
+of them. Carts being pulled out dripping blood.
 
 ### Information about the Castle
 * They would change shift a couple hours before dawn.
@@ -265,4 +267,18 @@ Stepping through the tree line. We see a handful of collapsed and broken buildin
 I am going to attempt to use Val as a hostage.
 
 Killed Noralore (Vel's dad's right hand man.)
-Found a gnome (Salpose) that makes donuts, wearing a hunters get-up, he has a wife in the castle named Brigitte 
+Found a gnome (Salpose) that makes donuts, wearing a hunters get-up, he has a
+wife in the castle named Brigitte.
+
+currently breaking ankles of jailer, asking about sisters...
+
+Dorla in her room. Niri is the other sister...
+How many guards are on duty? Maybe a dozen, how many demons, 6-7 he has seen,
+who knows?
+
+Have you seen the master of the house fight before? What does he use to kill his
+victims, points at them?
+
+Val's sister kills the guard before I am able to smash his skull.
+
+We fought Val's dad and she died...
