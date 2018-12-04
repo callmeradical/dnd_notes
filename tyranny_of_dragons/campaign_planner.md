@@ -74,4 +74,4 @@ wyverns are faster than the castle in flight, and they can catch up to it.
 ### SkyReach castle
 
 **Lower Courtyard:**  The only entrance to the courtyard is going to be the
-tables. The wyverns once handled fly here.
+tables. The wyverns once handled fly here

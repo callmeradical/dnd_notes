@@ -1,4 +1,4 @@
-<!-- TOC START min:1 max:3 link:true update:true -->
+<!-- TOC START min:1 max:4 link:true update:true -->
 - [Chapter 1: Greenest](#chapter-1-greenest)
   - [Beregost](#beregost)
     - [Travlers arrive in Beregost](#travlers-arrive-in-beregost)
@@ -11,6 +11,8 @@
   - [Monday July 30th, 2018 - Day 3 on the Road](#monday-july-30th-2018---day-3-on-the-road)
   - [Monday August 6th, 2018 - Day 6 on the Road](#monday-august-6th-2018---day-6-on-the-road)
   - [Monday August 13th, 2018 - Day 12 on the Road](#monday-august-13th-2018---day-12-on-the-road)
+      - [Downtime Activities:](#downtime-activities)
+      - [Notable People:](#notable-people)
   - [Monday August 20th, 2018 - Day 22 on the Road - Dragonspear](#monday-august-20th-2018---day-22-on-the-road---dragonspear)
   - [Monday August 27th, 2018 - Day 32 On The Road](#monday-august-27th-2018---day-32-on-the-road)
   - [Monday September 3rd, 2018 - Day 62 On The Road](#monday-september-3rd-2018---day-62-on-the-road)
@@ -33,15 +35,12 @@
   - [Monday November 19th, 2018 - Audition with the Gods.](#monday-november-19th-2018---audition-with-the-gods)
     - [Experience awarded](#experience-awarded-2)
     - [Events of Note](#events-of-note)
+- [Chapter 7: The Hunting Lodge](#chapter-7-the-hunting-lodge)
   - [Monday December 3rd, 2018 - Meeting the Ice Queen...](#monday-december-3rd-2018---meeting-the-ice-queen)
     - [Talis The White](#talis-the-white)
+  - [Outcomes](#outcomes)
 
 <!-- TOC END -->
-
-
-
-
-
 
 # Chapter 1: Greenest
 ## Beregost
@@ -432,6 +431,8 @@ was beset with a party of trolls and drakes. After defeating the trolls and a
 number of drakes, Talis herself came to the door, whistled, and called off the
 drakes. She has invited them inside to talk.
 
+# Chapter 7: The Hunting Lodge
+
 ## Monday December 3rd, 2018 - Meeting the Ice Queen...
 
 >When last we left our heroes, they had managed to track down a snowy lodge in
@@ -472,3 +473,21 @@ fairly hazardous and might easily result in combat rather than a deal.
    * She reminds you of someone, a first love, maybe?
  * She will play tough initially, but if they can play to her hatred and
  * insecurities they will win her as an ally.
+
+## Outcomes
+ The party killed Talis and her bodyguards, they were able to find out how to
+ enter the Skyreach Castle safely if it is still docked in Parnast.
+
+ However during the fight an explosion from Eve's fireball spell rocked the
+ lodge and blew out a few walls, Sandesyl the vampire was caught in the blast
+ and fought the party.
+
+ Sandesyl is returning to Skyreach, and they are going to make preparations to
+ leave right away.
+
+ When the party gets to Parnast the castle has already taken flight.
+
+ The party will have to go to Parnast and question the people in town to find
+ the location and/or highjack Wyverns to fly to the castle.
+
+ # Monday December 10th, 2018 - The City of Parnast
