@@ -28,8 +28,8 @@ sincere in her plan.
 
 If the characters refuse she stalls for a few moments, and opens with an attack.
 
-This also gives Sandesyl an opening to attack as well and will join in after the
-first round.
+This also gives Sandesyl an opening to attack as well and will join in after
+the first round.
 
 **Vampire Sandesyl:** A spy in the midst!
 The vampire is spying on Talis. The vampire will attempt to go unnoticed. The
