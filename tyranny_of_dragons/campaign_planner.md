@@ -1,6 +1,5 @@
 # Campaign Planner
 
-
 ## Overarching Quest
 
 Stop the Cult of the Dragon from resurrecting or releasing Tiamat, the goddess
@@ -16,9 +15,11 @@ of dragons, from the Nine Hells.
 ## Hoard of the Dragon Queen Complications
 
 ### SkyReach Castle
+
 The party must gain access to SkyReach Castle.
 
 #### Negotiating With Talis
+
 Talis is willing to help them but wants the Black Dragon Mask in return. She is
 willing to team up with the Dragons in the Mere of Dead Men to hunt Varram the
 White.
@@ -41,6 +42,7 @@ If the vampire is not dealt with The castle will begin to make preparations to
 depart, and informing their agents in Parnast.
 
 #### The City of Parnast
+
 The party must gain access to SkyReach Castle, but the City of Parnast is
 completely occupied by the Cult of the Dragon.
 
