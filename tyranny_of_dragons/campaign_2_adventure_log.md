@@ -39,6 +39,9 @@
   - [Monday December 3rd, 2018 - Meeting the Ice Queen...](#monday-december-3rd-2018---meeting-the-ice-queen)
     - [Talis The White](#talis-the-white)
   - [Outcomes](#outcomes)
+- [Monday December 10th, 2018 - The City of Parnast](#monday-december-10th-2018---the-city-of-parnast)
+    - [Highlights](#highlights)
+    - [Experience Rewarded](#experience-rewarded)
 
 <!-- TOC END -->
 
@@ -490,8 +493,28 @@ fairly hazardous and might easily result in combat rather than a deal.
  The party will have to go to Parnast and question the people in town to find
  the location and/or highjack Wyverns to fly to the castle.
 
- # Monday December 10th, 2018 - The City of Parnast
+# Monday December 10th, 2018 - The City of Parnast
 
-Craggnor was working for Varram, soul captured by Acererak. Accererak issues them a warning.
-Made it on to the castle by way of Dimension door.
-2250 + character marks + 500 for exploration
+The party found a group of prisoners in the basement of the lodge, one of which
+was a dwarf named Craggnor. THe other prisoners were a pair on a pilgrimage for
+Amauanator, the light bringer.
+
+After appropriately dealing with the prisoners and Craggnor, the party proceeded
+to Parnast. The town seemd to be operating normally as the group ventured into
+the Golden Tankard Tavern. After getting some drink, some food, and playing a
+few games of chance. The party realized they were being lead on by the
+proprietor, Raggnar Redtooth.
+
+### Highlights
+* Craggnor was working for Varram, soul captured by Acererak.
+* Accererak issued them a warning.
+* Made it on to the castle by way of Dimension door.
+* Killed a group of cultists in what looks to be some type of barracks.
+
+### Experience Rewarded
+
+| Type | Amount |
+|------|--------|
+| Combat | 2250 |
+| Exploration | 500 |
+| Marks | 360 | 
