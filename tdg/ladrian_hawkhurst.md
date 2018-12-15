@@ -17,6 +17,7 @@
   - [Before Next Session](#before-next-session)
     - [Roleplaying Ladrian](#roleplaying-ladrian)
     - [Questions of the Monk](#questions-of-the-monk)
+    - [Continuing on in the Silverstem forest](#continuing-on-in-the-silverstem-forest)
 
 <!-- TOC END -->
 
@@ -259,3 +260,6 @@ Tired waiting for the next shift.
 Going to north gate, checking out the elf in the north woods.
 Widoric is gone. No Breakfast made.
 Jasper came into the woods with us, ran into Balin (Jimmy), and fought a bunch of boar.
+
+
+### Continuing on in the Silverstem forest

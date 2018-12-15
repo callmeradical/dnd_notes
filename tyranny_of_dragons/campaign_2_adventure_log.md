@@ -491,3 +491,7 @@ fairly hazardous and might easily result in combat rather than a deal.
  the location and/or highjack Wyverns to fly to the castle.
 
  # Monday December 10th, 2018 - The City of Parnast
+
+Craggnor was working for Varram, soul captured by Acererak. Accererak issues them a warning.
+Made it on to the castle by way of Dimension door.
+2250 + character marks + 500 for exploration
