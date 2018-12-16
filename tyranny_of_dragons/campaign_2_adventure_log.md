@@ -517,4 +517,5 @@ proprietor, Raggnar Redtooth.
 |------|--------|
 | Combat | 2250 |
 | Exploration | 500 |
-| Marks | 360 | 
+| Marks | 360 |
+| Total | 3,110 | 
