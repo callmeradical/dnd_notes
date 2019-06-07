@@ -6,7 +6,7 @@
 * [Campaign Hook](#campaign-hook)
 * [The Six Truths of Your World](#the-six-truths-of-your-world)
 * [Campaign Fronts](#campaign-fronts)
-    * [Kalarel THe Vile (Based on Halaster Blackcloak)](#kalarel-the-vile-based-on-halaster-blackcloak)
+    * [Kalarel The Vile (Based on Halaster Blackcloak)](#kalarel-the-vile-based-on-halaster-blackcloak)
         * [Grim Portents](#grim-portents)
     * [Lady Candiano, The Lady of Whispers](#lady-candiano-the-lady-of-whispers)
         * [Grim Portents](#grim-portents-1)
@@ -14,6 +14,8 @@
         * [Grim Portents](#grim-portents-2)
     * [Syrino Alunno](#syrino-alunno)
         * [Grim Portents](#grim-portents-3)
+    * [Bastion Itself](#bastion-itself)
+        * [Grim Portents](#grim-portents-4)
 
 <!-- vim-markdown-toc -->
 
@@ -49,14 +51,14 @@ itself.
 
 **What are the major moving forces in this campaign?**
 
-### Kalarel THe Vile (Based on Halaster Blackcloak)
+### Kalarel The Vile (Based on Halaster Blackcloak)
 
-**Goal:**
+**Goal:** Searching for fabled relics of Presides the Great (Key, Cloak, Chest)
 
 #### Grim Portents
 
-1. A sphere of dark energy complete levels a portion of Invernale, and extends Hope's End
-2.
+1. 
+2. 
 3.
 
 ### Lady Candiano, The Lady of Whispers
@@ -75,7 +77,7 @@ itself.
 
 #### Grim Portents
 
-1. War breaking out with Alunno.
+1. War breaking out with Alunno in Invernale, and occupies the town.
 2.
 3.
 
@@ -88,3 +90,17 @@ itself.
 1. Incredible firepower, tanks and other weapons of war in the battle against Marivaldi.
 2.
 3.
+
+### Bastion Itself
+
+Bastion itself is a front and the characters must deal with the collapse of
+their home and the last hold of civilization.
+
+**Goal:** Bastion is breaking down and is failing.
+
+#### Grim Portents
+
+1. Cagliari stops moving
+2. The plate above stops moving
+3. The highest plates also stop moving.
+4. The Spire becomes unstable and eventually plummet into the land of the Endless Sea.
