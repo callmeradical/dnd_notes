@@ -1,5 +1,22 @@
 # Bastion: The Last City
 
+
+<!-- vim-markdown-toc GFM -->
+
+* [Campaign Hook](#campaign-hook)
+* [The Six Truths of Your World](#the-six-truths-of-your-world)
+* [Campaign Fronts](#campaign-fronts)
+    * [Kalarel THe Vile (Based on Halaster Blackcloak)](#kalarel-the-vile-based-on-halaster-blackcloak)
+        * [Grim Portents](#grim-portents)
+    * [Lady Candiano, The Lady of Whispers](#lady-candiano-the-lady-of-whispers)
+        * [Grim Portents](#grim-portents-1)
+    * [Julia Marivaldi](#julia-marivaldi)
+        * [Grim Portents](#grim-portents-2)
+    * [Syrino Alunno](#syrino-alunno)
+        * [Grim Portents](#grim-portents-3)
+
+<!-- vim-markdown-toc -->
+
 ## Campaign Hook
 
 **What is this campaign about?** *What is the goal?*
