@@ -48,8 +48,9 @@ If the characters have a ship or stronghold, record its name and whereabouts, as
 Character Marks = Each time a character has a moment that either drives the story forward, or beats a skill challenge, character gets a mark. This is for RP XP. The following equation is to provide players with experience for other than combat, and a different means of advancement. This is to encourage roleplay.
 
 ```
-Experience Points = Character Level * 15 * Marks
+*DEPRECATED* Experience Points = Character Level * 15 * Marks
 ```
+*This experience system is not in use anymore. Instead there is a base 100 system based on three pillar experience.*
 
 Every session a character is given 1 mark to start. New places discovered, encounters, skill challenges (charisma based roles) can incur character marks.
 
