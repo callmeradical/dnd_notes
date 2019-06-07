@@ -38,7 +38,7 @@ itself.
 
 #### Grim Portents
 
-1.
+1. A sphere of dark energy complete levels a portion of Invernale, and extends Hope's End
 2.
 3.
 
@@ -56,8 +56,18 @@ itself.
 
 **Goal:** To restore rule of Bastion to the Royal Family, her family.
 
-### Grim Portents
+#### Grim Portents
 
 1. War breaking out with Alunno.
+2.
+3.
+
+### Syrino Alunno
+
+**Goal:** Solidify control of Precinct 6, and eliminate the other merchant houses.
+
+#### Grim Portents
+
+1. Incredible firepower, tanks and other weapons of war in the battle against Marivaldi.
 2.
 3.
