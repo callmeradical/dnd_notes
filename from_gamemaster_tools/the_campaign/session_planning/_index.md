@@ -1,0 +1,14 @@
++++
+title = "Session Planning"
+weight = 5 
++++
+
+## Who are the characters?
+
+- Takklin, a suicidal war cleric with a gambling problem, that is hunting for an unspeakable evil
+- Eris, a lore bard with a checkered past, on the run from her former lover (Cassius Nox)
+- Lakelyn, druid barbarian that is trying to make a better life for her people and protect them from outsiders
+- Oloric, life cleric that has issues with others personal space, looking to stop Alunno from invading his home
+- Brauga, orcish bounty hunter with a keen eye and connections to the underworld
+- Dr. Eins, a disgraced professor of the University always in the pursuit of invention
+
