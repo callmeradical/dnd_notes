@@ -1,0 +1,6 @@
+site_name: DnD Notes
+docs_dir: .
+theme:
+  name: material
+nav:
+  - Home: index.md
