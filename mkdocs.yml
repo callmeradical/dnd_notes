@@ -27,12 +27,12 @@ plugins:
   - search
   - tags
   - blog:
+      blog_dir: .
       categories_name: Topics
   - macros:
       include_dir: .
 nav:
-  - Notes:
-      - blog/index.md
+  - Session Notes: index.md
   - Resources:
       - NPC Names: resources/npc_names.md
       - DM Screen: resources/dm_screen.md
