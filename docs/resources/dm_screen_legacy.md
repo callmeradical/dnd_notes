@@ -1,19 +1,13 @@
 <!-- vim-markdown-toc GFM -->
 
-* [Actions (2024 Rules)](#actions-2024-rules)
-* [Conditions (2024 Rules)](#conditions-2024-rules)
 * [General Play](#general-play)
     * [Setting a DC](#setting-a-dc)
     * [Tracking DC](#tracking-dc)
     * [Object Hit Points](#object-hit-points)
     * [Object Armor Class](#object-armor-class)
-    * [Improvised Damage](#improvised-damage)
-    * [Damage by Character Level](#damage-by-character-level)
+    * [Damage by Level and Severity](#damage-by-level-and-severity)
 * [Traps](#traps)
     * [Save DCs and Attack Bonuses](#save-dcs-and-attack-bonuses)
-* [Skills by Action](#skills-by-action)
-* [Jump Mechanics](#jump-mechanics)
-* [Concentration](#concentration)
 * [City Environments](#city-environments)
     * [City Decorations](#city-decorations)
     * [City Locations](#city-locations)
@@ -26,42 +20,6 @@
     * [Standard Rules](#standard-rules)
 
 <!-- vim-markdown-toc -->
-
-## Actions (2024 Rules)
-
-| Action     | Description                                                    |
-|------------|----------------------------------------------------------------|
-| Attack     | Make one or more attacks (includes weapon equipping)           |
-| Dash       | Gain extra movement equal to your Speed                        |
-| Disengage  | Your movement doesn't provoke opportunity attacks              |
-| Dodge      | Advantage on Dex saves, attacks against you have disadvantage  |
-| Help       | Give advantage on ability check, attack roll, or provide aid   |
-| Hide       | Make a Dexterity (Stealth) check                               |
-| Influence  | Make a social interaction using Charisma or Wisdom skills      |
-| Magic      | Cast a spell, activate magic item, or use magical feature      |
-| Ready      | Choose a trigger and response to use later                     |
-| Search     | Make a Wisdom-based check using Investigation or Perception    |
-| Study      | Make an Intelligence-based check for detailed analysis         |
-| Utilize    | Use a nonmagical object (activate, manipulate, or employ)      |
-
-## Conditions (2024 Rules)
-
-| Condition     | Effects                                                                     |
-|---------------|-----------------------------------------------------------------------------|
-| Blinded       | Can't see; auto-fail sight-based checks; attacks against you have advantage |
-| Charmed       | Can't attack charmer; charmer has advantage on social interactions          |
-| Deafened      | Can't hear; auto-fail hearing-based ability checks                          |
-| Frightened    | Disadvantage on checks while source visible; can't move closer              |
-| Grappled      | Speed becomes 0; disadvantage on attacks against others                     |
-| Incapacitated | Can't take actions or reactions                                             |
-| Invisible     | Can't be seen; your attacks have advantage, others disadvantage             |
-| Paralyzed     | Incapacitated + can't move/speak; auto-fail Str/Dex saves; advantage vs you |
-| Petrified     | Transformed to stone; incapacitated; resistance to all damage               |
-| Poisoned      | Disadvantage on attack rolls and ability checks                             |
-| Prone         | Crawling movement; disadvantage on attacks; melee advantage, ranged disadvantage vs you |
-| Restrained    | Speed 0; disadvantage on attacks and Dex saves; advantage on attacks vs you |
-| Stunned       | Incapacitated + can't move; limited speech; auto-fail Str/Dex saves         |
-| Unconscious   | Incapacitated + prone + can't move/speak; unaware; auto-fail saves          |
 
 ## General Play
 
@@ -107,25 +65,14 @@
 | Mithral             | 21                                                                                                |
 | Adamantine          | 23                                                                                                |
 
-### Improvised Damage
+### Damage by Level and Severity
 
-| Damage | Examples                                                   |
-|--------|------------------------------------------------------------|
-| 1d10   | Burned by coals, falling bookcase, poison needle           |
-| 2d10   | Lightning strike, falling into fire pit                    |
-| 4d10   | Falling rubble, vat of acid                                |
-| 10d10  | Compacting walls, steel blades, wading through lava        |
-| 18d10  | Submerged in lava, flying fortress crash                   |
-| 24d10  | Fire vortex, godlike creature's jaws                       |
-
-### Damage by Character Level
-
-| Character Level | Nuisance | Deadly |
-|-----------------|----------|--------|
-| 1-4             | 5 (1d10) | 11 (2d10) |
-| 5-10            | 11 (2d10) | 22 (4d10) |
-| 11-16           | 22 (4d10) | 55 (10d10) |
-| 17-20           | 55 (10d10) | 99 (18d10) |
+| Level | Setback | Dangerous | Deadly |
+|-------|---------|-----------|--------|
+| 1-4   | 1d10    | 2d10      | 4d10   |
+| 5-10  | 2d10    | 4d10      | 10d10  |
+| 11-16 | 4d10    | 10d10     | 18d10  |
+| 17-20 | 10d10   | 18d10     | 24d10  |
 
 ## Traps
 ### Save DCs and Attack Bonuses
@@ -135,40 +82,6 @@
 | Dangerous    | 12-15   | +6 to +8     |
 | Deadly       | 16-20   | +9 to +12    |
 
-## Skills by Action
-
-| Action    | Common Skills                                           |
-|-----------|---------------------------------------------------------|
-| Influence | Deception, Intimidation, Persuasion, Animal Handling    |
-| Search    | Investigation, Perception, Medicine, Nature, Survival   |
-| Study     | Arcana, History, Nature, Religion, Investigation        |
-
-## Jump Mechanics
-
-### Long Jump
-
-- **Running start (10+ feet):** Jump up to your Strength score in feet
-- **Standing:** Jump up to half your Strength score in feet
-- **High obstacle:** DC 10 Athletics check to clear obstacle up to 1/4 jump distance
-
-### High Jump
-
-- **Running start (10+ feet):** Jump up to 3 + Strength modifier feet
-- **Standing:** Jump up to half that distance
-- **Grabbing ledge:** Reach 1.5 times your height above the ground
-
-## Concentration
-
-### Breaking Concentration
-
-- Taking damage: Constitution save (DC = 10 or half damage, whichever is higher)
-- Incapacitated or killed: Concentration ends
-- Casting another concentration spell: Previous spell ends
-
-### Concentration Save DCs
-
-- **Damage taken:** DC 10 or half the damage (whichever is higher)
-- **Multiple damage sources:** Separate save for each source
 
 ## City Environments
 
