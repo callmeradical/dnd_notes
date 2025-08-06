@@ -1,3 +1,9 @@
+---
+tags:
+  - campaigns
+  - archive
+---
+
 # Campaign Archive
 
 Completed and past campaign materials organized by setting and era.

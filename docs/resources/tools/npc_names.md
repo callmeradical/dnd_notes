@@ -1,3 +1,10 @@
+---
+tags:
+  - resources
+  - tools
+  - npc
+---
+
 ## Male Names
 
 - Brando Di Giulio

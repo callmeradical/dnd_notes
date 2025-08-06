@@ -1,3 +1,10 @@
+---
+tags:
+  - planning
+  - utilities
+  - dungeon
+---
+
 # Dungeon 001
 
 ### Entrance

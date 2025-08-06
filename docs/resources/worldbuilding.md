@@ -1,3 +1,9 @@
+---
+tags:
+  - resources
+  - worldbuilding
+---
+
 # Worldbuilding Resources
 
 Setting elements, locations, and reference materials for creating immersive campaign worlds.
@@ -10,11 +16,11 @@ Setting elements, locations, and reference materials for creating immersive camp
     * [City Services](#city-services)
 * [Adventure Locations](#adventure-locations)
     * [Dungeon Settings](#dungeon-settings)
-    * [Tavern Goods & Services](#tavern-goods--services)
+    * [Tavern Goods & Services](#tavern-goods-services)
     * [Traps](#traps)
         * [Save DCs and Attack Bonuses](#save-dcs-and-attack-bonuses)
         * [Damage Severity by Level](#damage-severity-by-level)
-* [Travel & Exploration](#travel--exploration)
+* [Travel & Exploration](#travel-exploration)
     * [Travel Pace](#travel-pace)
 
 <!-- vim-markdown-toc -->

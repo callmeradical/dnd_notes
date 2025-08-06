@@ -1,3 +1,10 @@
+---
+tags:
+  - planning
+  - future-campaigns
+  - stormreach
+---
+
 <!-- TOC START min:1 max:3 link:true update:true -->
 - [Additional Campaign 3 Ideas](#additional-campaign-3-ideas)
   - [Breland Adventure](#breland-adventure)

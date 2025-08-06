@@ -1,3 +1,9 @@
+---
+tags:
+  - planning
+  - future-campaigns
+---
+
 # Future Campaign Ideas
 
 Concepts and plans for upcoming campaigns.

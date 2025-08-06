@@ -1,3 +1,9 @@
+---
+tags:
+  - resources
+  - rules
+---
+
 # Rules Reference
 
 This document contains both the official 2024 D&D Rules Glossary and custom house rules used in campaigns.
@@ -5,7 +11,7 @@ This document contains both the official 2024 D&D Rules Glossary and custom hous
 <!-- vim-markdown-toc GFM -->
 
 * [Rules Glossary (2024 PHB)](#rules-glossary-2024-phb)
-* [House Rules & Mechanics](#house-rules--mechanics)
+* [House Rules & Mechanics](#house-rules-mechanics)
     * [Combat Rules](#combat-rules)
         * [Spell Damage](#spell-damage)
         * [Casting Spells](#casting-spells)
@@ -19,7 +25,7 @@ This document contains both the official 2024 D&D Rules Glossary and custom hous
         * [Hit Dice Recovery](#hit-dice-recovery)
     * [Skill Checks](#skill-checks)
         * [Critical Failures and Success](#critical-failures-and-success)
-    * [Conditions & Effects](#conditions--effects)
+    * [Conditions & Effects](#conditions-effects)
         * [Drunkenness](#drunkenness)
         * [Poisoning](#poisoning)
             * [Poison Types](#poison-types)
