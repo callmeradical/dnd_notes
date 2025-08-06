@@ -5,6 +5,7 @@ theme:
   palette:
     scheme: default
   features:
+    - navigation.indexes
     - navigation.sections
     - navigation.top
     - search.highlight
@@ -16,27 +17,30 @@ theme:
   favicon: assets/dnd-ampersand.png
 extra_css:
   - stylesheets/dnd-theme.css
+markdown_extensions:
+  - attr_list
+  - admonition
+  - toc:
+      permalink: true
+  - pymdownx.superfences
 plugins:
   - search
   - tags
+  - blog:
+      categories_name: Topics
+  - macros:
+      include_dir: .
 nav:
-  - Home: index.md
-  - Campaigns:
-    - Overview: campaigns/index.md
-    - Archive:
-      - Archive Overview: campaigns/archive/index.md
-      - Bastion: campaigns/archive/bastion/index.md
-      - Taldorei: campaigns/archive/taldorei/index.md
-      - Tyranny of Dragons: campaigns/archive/tyranny-of-dragons/index.md
-      - Session Archive: campaigns/archive/sessions/index.md
+  - Notes:
+      - blog/index.md
   - Resources:
-    - Rules: resources/rules.md
-    - Worldbuilding: resources/worldbuilding.md
-    - DM Screen: resources/dm_screen.md
-    - Tools: resources/tools/index.md
-    - Tips: resources/tips.md
+      - NPC Names: resources/npc_names.md
+      - DM Screen: resources/dm_screen.md
+      - Rules: resources/rules.md
+      - Worldbuilding: resources/worldbuilding.md
+      - Tools: resources/tools/index.md
+      - Tips: resources/tips.md
   - Planning:
-    - Templates: planning/templates/index.md
-    - Future Campaigns: planning/future-campaigns/index.md
-    - Utilities: planning/utilities/index.md
-  - Tags: tags.md
+      - Templates: planning/templates/index.md
+      - Future Campaigns: planning/future-campaigns/index.md
+      - Utilities: planning/utilities/index.md
