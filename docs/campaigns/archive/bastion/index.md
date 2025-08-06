@@ -1,3 +1,10 @@
+---
+tags:
+  - campaigns
+  - archive
+  - bastion
+---
+
 # Bastion: The Last City
 
 Campaign materials for the Bastion setting.

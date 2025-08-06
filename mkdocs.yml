@@ -16,6 +16,9 @@ theme:
   favicon: assets/dnd-ampersand.png
 extra_css:
   - stylesheets/dnd-theme.css
+plugins:
+  - search
+  - tags
 nav:
   - Home: index.md
   - Campaigns:
@@ -30,10 +33,10 @@ nav:
     - Rules: resources/rules.md
     - Worldbuilding: resources/worldbuilding.md
     - DM Screen: resources/dm_screen.md
-    - DM Screen (Legacy): resources/dm_screen_legacy.md
     - Tools: resources/tools/index.md
     - Tips: resources/tips.md
   - Planning:
     - Templates: planning/templates/index.md
     - Future Campaigns: planning/future-campaigns/index.md
     - Utilities: planning/utilities/index.md
+  - Tags: tags.md

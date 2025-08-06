@@ -1,3 +1,9 @@
+---
+tags:
+  - resources
+  - dm-screen
+---
+
 <!-- vim-markdown-toc GFM -->
 
 * [Actions (2024 Rules)](#actions-2024-rules)

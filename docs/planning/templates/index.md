@@ -1,3 +1,9 @@
+---
+tags:
+  - planning
+  - templates
+---
+
 # Session & Campaign Templates
 
 Reusable templates for planning and organization.

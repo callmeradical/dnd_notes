@@ -1,3 +1,9 @@
+---
+tags:
+  - resources
+  - tips
+---
+
 # GM Tips & Best Practices
 
 Guidance and tips for running effective D&D games.

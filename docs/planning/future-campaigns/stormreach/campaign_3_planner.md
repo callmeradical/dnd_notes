@@ -1,3 +1,10 @@
+---
+tags:
+  - planning
+  - future-campaigns
+  - stormreach
+---
+
 <!-- TOC START min:1 max:3 link:true update:true -->
 - [War-torn: Steel and Shadows](#war-torn-steel-and-shadows)
   - [The World](#the-world)

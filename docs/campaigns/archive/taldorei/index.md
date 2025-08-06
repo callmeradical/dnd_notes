@@ -1,3 +1,10 @@
+---
+tags:
+  - campaigns
+  - archive
+  - taldorei
+---
+
 # Taldorei Campaign
 
 Campaign materials for the Taldorei setting.

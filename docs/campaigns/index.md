@@ -1,3 +1,8 @@
+---
+tags:
+  - campaigns
+---
+
 # Campaigns
 
 Campaign materials and archives from D&D games.
