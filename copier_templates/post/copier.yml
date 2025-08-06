@@ -1,27 +1,21 @@
 _subdirectory: .
 
-# Questions
 slug:
   type: str
-  help: "Filename for the post (without extension)"
+  help: Filename for the post (without extension)
   default: "new-post"
 
 title:
   type: str
-  help: "Title of the post"
+  help: Title of the post
   default: "New Post"
-
-date:
-  type: str
-  help: "Date of the post"
-  default: "{{ '%Y-%m-%d' | format(now()) }}"
 
 tags:
   type: str
-  help: "Comma separated list of tags"
+  help: Comma separated list of tags
   default: ""
 
 summary:
   type: str
-  help: "Short summary for the post"
+  help: Short summary for the post
   default: ""

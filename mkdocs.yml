@@ -34,6 +34,8 @@ plugins:
       include_dir: .
 nav:
   - Session Notes: index.md
+  - Campaigns:
+      - Londra: campaigns/londra.md
   - Tags: tags.md
   - Resources:
       - NPC Names: resources/npc_names.md
