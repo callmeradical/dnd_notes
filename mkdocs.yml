@@ -25,7 +25,8 @@ markdown_extensions:
   - pymdownx.superfences
 plugins:
   - search
-  - tags
+  - tags:
+      tags_file: tags.md
   - blog:
       blog_dir: .
       categories_name: Topics
@@ -33,6 +34,7 @@ plugins:
       include_dir: .
 nav:
   - Session Notes: index.md
+  - Tags: tags.md
   - Resources:
       - NPC Names: resources/npc_names.md
       - DM Screen: resources/dm_screen.md
