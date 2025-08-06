@@ -1,0 +1,306 @@
+/* D&D Beyond Theme CSS */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&family=Roboto+Slab:wght@400;500;700&display=swap');
+
+:root {
+  /* D&D Beyond Color Palette */
+  --ddb-red: #dc2626;            /* More vibrant red */
+  --ddb-red-dark: #b91c1c;       /* Darker red for hovers */
+  --ddb-red-light: #f87171;      /* Light red for accents */
+  --ddb-dark: #1a1a1a;           /* Dark background */
+  --ddb-dark-secondary: #2d2d2d; /* Secondary dark */
+  --ddb-dark-tertiary: #404040;  /* Tertiary dark */
+  --ddb-light: #f8f9fa;          /* Light text */
+  --ddb-gray: #6c757d;           /* Muted text */
+  --ddb-gray-light: #e9ecef;     /* Light gray */
+  --ddb-orange: #ff6b35;         /* D&D Beyond orange accent */
+  --ddb-blue: #4a90e2;           /* Info blue */
+  --ddb-green: #28a745;          /* Success green */
+  --ddb-border: #495057;         /* Border color */
+}
+
+/* Root styling - override Material theme */
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color: var(--ddb-red);
+  --md-primary-fg-color--light: var(--ddb-red);
+  --md-primary-fg-color--dark: var(--ddb-red-dark);
+  --md-accent-fg-color: var(--ddb-orange);
+  --md-default-bg-color: var(--ddb-dark);
+  --md-default-fg-color: var(--ddb-light);
+  --md-default-fg-color--light: var(--ddb-gray);
+  --md-code-bg-color: var(--ddb-dark-secondary);
+  --md-code-fg-color: var(--ddb-light);
+}
+
+/* Typography - Modern D&D Beyond style */
+body {
+  font-family: 'Roboto', -apple-system, BlinkMacSystemFont, sans-serif;
+  background-color: var(--ddb-dark);
+  color: var(--ddb-light);
+  line-height: 1.6;
+}
+
+/* Headers - Clean modern style like D&D Beyond */
+h1, h2, h3, h4, h5, h6, .md-header__title, .md-nav__title {
+  font-family: 'Roboto Slab', serif !important;
+  color: var(--ddb-light) !important;
+  font-weight: 500;
+}
+
+h1 { 
+  color: var(--ddb-red) !important; 
+  font-weight: 700;
+  border-bottom: 2px solid var(--ddb-red);
+  padding-bottom: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+
+h2 { 
+  color: var(--ddb-orange) !important; 
+  font-weight: 600;
+  margin-top: 2rem;
+}
+
+h3 {
+  color: var(--ddb-light) !important;
+  font-weight: 500;
+}
+
+/* Main header styling - D&D Beyond red */
+.md-header {
+  background: var(--ddb-red);
+  border-bottom: none;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.md-header__title {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: white !important;
+}
+
+/* Navigation styling - Minimal */
+.md-nav {
+  background-color: var(--ddb-dark);
+}
+
+.md-nav__title {
+  color: var(--ddb-light) !important;
+  font-weight: 600;
+}
+
+.md-nav__item--active > .md-nav__link {
+  color: var(--ddb-red);
+  font-weight: 500;
+}
+
+.md-nav__link {
+  color: var(--ddb-gray-light);
+  transition: color 0.2s ease;
+}
+
+.md-nav__link:hover {
+  color: var(--ddb-light);
+}
+
+/* Content area - Minimal style */
+.md-content {
+  background-color: var(--ddb-dark);
+}
+
+.md-content__inner {
+  background-color: var(--ddb-dark);
+  padding: 2rem;
+  margin: 0;
+}
+
+/* Tables - Minimal style */
+table {
+  color: var(--ddb-light);
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1rem 0;
+}
+
+table th {
+  color: var(--ddb-red);
+  font-family: 'Roboto', sans-serif;
+  font-weight: 600;
+  text-align: left;
+  padding: 0.75rem;
+  border-bottom: 1px solid var(--ddb-border);
+}
+
+table td {
+  padding: 0.75rem;
+  border-bottom: 1px solid var(--ddb-border);
+}
+
+table tr:hover {
+  background-color: rgba(231, 76, 60, 0.05);
+}
+
+/* Code blocks - Minimal style */
+.md-typeset code {
+  background-color: var(--ddb-dark-secondary);
+  color: var(--ddb-orange);
+  padding: 0.2rem 0.4rem;
+  font-size: 0.9em;
+}
+
+.md-typeset pre {
+  background-color: var(--ddb-dark-secondary);
+  padding: 1rem;
+  overflow-x: auto;
+}
+
+.md-typeset pre code {
+  background: none;
+  color: var(--ddb-light);
+  padding: 0;
+}
+
+/* Links - D&D Beyond red highlights */
+a {
+  color: var(--ddb-red);
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: var(--ddb-red-light);
+  text-decoration: underline;
+}
+
+/* Blockquotes - Minimal style */
+blockquote {
+  border-left: 3px solid var(--ddb-red);
+  padding-left: 1rem;
+  margin: 1.5rem 0;
+  color: var(--ddb-gray);
+  font-style: italic;
+}
+
+blockquote p {
+  margin: 0;
+}
+
+/* Buttons and interactive elements */
+.md-nav__button,
+.md-search__form,
+.md-header__button {
+  color: white;
+}
+
+.md-search__input {
+  background-color: rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  color: white;
+  border-radius: 4px;
+}
+
+.md-search__input::placeholder {
+  color: rgba(255, 255, 255, 0.7);
+}
+
+/* Footer */
+.md-footer {
+  background-color: var(--ddb-dark-secondary);
+  border-top: 1px solid var(--ddb-border);
+}
+
+.md-footer-meta {
+  background-color: var(--ddb-dark-tertiary);
+}
+
+/* Lists - Better spacing */
+ul, ol {
+  padding-left: 1.5rem;
+}
+
+li {
+  margin: 0.5rem 0;
+}
+
+/* Scrollbar styling - D&D Beyond theme */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--ddb-dark);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--ddb-border);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--ddb-red);
+}
+
+/* Custom components - D&D Beyond style cards */
+.ddb-card {
+  background-color: var(--ddb-dark-secondary);
+  border: 1px solid var(--ddb-border);
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin: 1rem 0;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.ddb-card h3 {
+  margin-top: 0;
+  color: var(--ddb-red);
+  border-bottom: 1px solid var(--ddb-border);
+  padding-bottom: 0.5rem;
+}
+
+/* Mobile responsiveness */
+@media screen and (max-width: 768px) {
+  .md-content__inner {
+    margin: 0.5rem;
+    padding: 1rem;
+  }
+  
+  table {
+    font-size: 0.9rem;
+  }
+  
+  .md-nav__title {
+    padding: 0.75rem;
+  }
+}
+
+/* Sidebar toggle */
+@media screen and (max-width: 1219px) {
+  .md-nav--primary .md-nav__title {
+    background-color: var(--ddb-red);
+  }
+}
+
+/* Print styles */
+@media print {
+  body {
+    background: white;
+    color: black;
+  }
+  
+  .md-content__inner {
+    background: white;
+    border: none;
+    box-shadow: none;
+  }
+  
+  table {
+    background: white;
+    color: black;
+  }
+  
+  table th {
+    background: #f5f5f5;
+    color: black;
+  }
+}
