@@ -1,0 +1,12 @@
+---
+title: {{ title }}
+date: {{ date }}
+{% if tags %}tags: [{{ tags|replace(' ', '') }}]
+{% else %}tags: []
+{% endif %}
+summary: {{ summary }}
+---
+
+# {{ title }}
+
+<!-- Your content starts here -->
