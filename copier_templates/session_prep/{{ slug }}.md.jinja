@@ -1,0 +1,132 @@
+---
+tags:
+  - session-prep
+  - {{ campaign_name | lower | replace(' ', '-') }}
+---
+
+# {{ campaign_name }} - Session {{ session_number }}: {{ session_title }}
+
+**Date:** {{ now().strftime('%Y-%m-%d') }}
+**Status:** Prep
+
+---
+
+## Strong Start
+
+{{ strong_start }}
+
+---
+
+## Scenes
+
+### 1. {{ scene1_title }}
+
+{{ scene1_desc }}
+
+**Key Elements:**
+- [ ] 
+- [ ] 
+- [ ] 
+
+### 2. {{ scene2_title }}
+
+{{ scene2_desc }}
+
+**Key Elements:**
+- [ ] 
+- [ ] 
+- [ ] 
+
+### 3. {{ scene3_title }}
+
+{{ scene3_desc }}
+
+**Key Elements:**
+- [ ] 
+- [ ] 
+- [ ] 
+
+### 4. {{ scene4_title }}
+
+{{ scene4_desc }}
+
+**Key Elements:**
+- [ ] 
+- [ ] 
+- [ ] 
+
+### 5. {{ scene5_title }}
+
+{{ scene5_desc }}
+
+**Key Elements:**
+- [ ] 
+- [ ] 
+- [ ] 
+
+---
+
+## NPCs
+
+{% if npc1_name %}
+### {{ npc1_name }}
+
+{{ npc1_details }}
+
+**Notes:**
+- 
+- 
+- 
+
+{% endif %}
+{% if npc2_name %}
+### {{ npc2_name }}
+
+{{ npc2_details }}
+
+**Notes:**
+- 
+- 
+- 
+
+{% endif %}
+{% if npc3_name %}
+### {{ npc3_name }}
+
+{{ npc3_details }}
+
+**Notes:**
+- 
+- 
+- 
+
+{% endif %}
+
+---
+
+## Session Notes
+
+### What Happened
+- 
+
+### Player Actions
+- 
+
+### Consequences & Follow-up
+- 
+
+---
+
+## Prep for Next Session
+
+### Cliffhangers/Hooks
+- 
+
+### NPCs to Develop
+- 
+
+### Locations to Detail
+- 
+
+### Rules to Review
+- 

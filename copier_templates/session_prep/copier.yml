@@ -1,0 +1,107 @@
+_templates_suffix: .jinja
+
+campaign_name:
+  type: str
+  help: "Campaign name (e.g., 'Bastion', 'Tyranny of Dragons')"
+
+session_number:
+  type: int
+  help: "Session number"
+
+session_title:
+  type: str
+  help: "Session title or theme"
+
+strong_start:
+  type: str
+  help: "Brief description of the strong start (1-2 sentences)"
+  multiline: true
+
+scene1_title:
+  type: str
+  help: "Title for Scene 1"
+
+scene1_desc:
+  type: str
+  help: "Brief description of Scene 1"
+  multiline: true
+
+scene2_title:
+  type: str
+  help: "Title for Scene 2"
+
+scene2_desc:
+  type: str
+  help: "Brief description of Scene 2"
+  multiline: true
+
+scene3_title:
+  type: str
+  help: "Title for Scene 3"
+
+scene3_desc:
+  type: str
+  help: "Brief description of Scene 3"
+  multiline: true
+
+scene4_title:
+  type: str
+  help: "Title for Scene 4"
+
+scene4_desc:
+  type: str
+  help: "Brief description of Scene 4"
+  multiline: true
+
+scene5_title:
+  type: str
+  help: "Title for Scene 5"
+
+scene5_desc:
+  type: str
+  help: "Brief description of Scene 5"
+  multiline: true
+
+npc1_name:
+  type: str
+  help: "Name of first key NPC (or leave blank)"
+  default: ""
+
+npc1_details:
+  type: str
+  help: "Brief details for first NPC (trait, goal, etc.)"
+  default: ""
+  multiline: true
+
+npc2_name:
+  type: str
+  help: "Name of second key NPC (or leave blank)"
+  default: ""
+
+npc2_details:
+  type: str
+  help: "Brief details for second NPC (trait, goal, etc.)"
+  default: ""
+  multiline: true
+
+npc3_name:
+  type: str
+  help: "Name of third key NPC (or leave blank)"
+  default: ""
+
+npc3_details:
+  type: str
+  help: "Brief details for third NPC (trait, goal, etc.)"
+  default: ""
+  multiline: true
+
+slug:
+  type: str
+  help: "File name slug (auto-generated from session info)"
+  default: "{{ campaign_name | lower | replace(' ', '-') }}-session-{{ '%02d' | format(session_number) }}"
+
+_envops:
+  block_start_string: "{%"
+  block_end_string: "%}"
+  variable_start_string: "{{"
+  variable_end_string: "}}"
