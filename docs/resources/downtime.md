@@ -25,7 +25,11 @@ Reference of downtime activities from *Xanathar's Guide to Everything*.
 <!-- TOC END -->
 
 ## Buying a Magic Item
+
+Each search for a magic item requires 1 workweek of downtime and 100 gp spent on gifts and rumors. At the end of the week, make a Charisma (Persuasion) check to see what sellers have. Spending additional workweeks or 100 gp grants a +1 bonus to the check, up to +10. The result determines which magic item tables to roll on and each item’s price. Complications might arise while negotiating the deal.
+
 Spend downtime and gold to locate sellers. Make a Charisma (Persuasion) check to determine available items; complications may arise.
+
 ### Buying Magic Items
 | Check Total | Items Acquired |
 | --- | --- |
@@ -67,7 +71,11 @@ Spend downtime and gold to locate sellers. Make a Charisma (Persuasion) check to
 **Might involve a rival*
 
 ## Carousing
+
+You mingle with the locals for a week of revelry. Choose a social class—lower, middle, or upper—and pay the related expenses (10 gp, 50 gp, or 250 gp). At week’s end, make a Charisma (Persuasion) check with the DC determined by the chosen class (10, 15, or 20). Every additional 10 gp spent grants a +1 bonus. The check result reveals how many useful contacts you made and whether any trouble found you.
+
 Socialize and spend gold to make contacts or rumors. Lifestyle affects results and potential trouble.
+
 ### Carousing
 | Check Total | Result |
 | --- | --- |
@@ -117,7 +125,11 @@ Socialize and spend gold to make contacts or rumors. Lifestyle affects results a
 **Might involve a rival*
 
 ## Crafting an Item
+
+To craft nonmagical gear, you must possess the relevant tool proficiency and materials worth half the item’s market price. Each workweek of downtime lets you make progress worth 25 gp, divided among any items you choose. Magic item crafting also requires a formula and special ingredients. The item’s rarity sets the time and gold needed, and failed progress can spawn complications. Brewing potions of healing uses the same rules with its own time and cost table.
+
 Craft mundane gear during downtime with required tools and materials. Includes rules for crafting magic items and brewing healing potions.
+
 ### Magic Item Ingredients
 | Item Rarity | CR Range |
 | --- | --- |
@@ -156,7 +168,10 @@ Craft mundane gear during downtime with required tools and materials. Includes r
 | Supreme healing | 4 workweeks | 10,000 gp |
 
 ## Crime
+Plotting a crime takes 1 workweek and 25 gp in bribes and supplies. Choose a target DC from the Loot Value table, then make three checks: Dexterity (Stealth), Dexterity using thieves’ tools, and your choice of Intelligence (Investigation) or Charisma (Deception). Each check uses the chosen DC. Two or more successes mean the job pays off; fewer successes risk capture or other consequences as determined by the DM.
+
 Attempt illicit deeds for profit. Make ability checks to determine success and reward, with risk of punishment.
+
 ### Loot Value
 | DC | Value |
 | --- | --- |
@@ -179,7 +194,11 @@ Attempt illicit deeds for profit. Make ability checks to determine success and r
 **Might involve a rival*
 
 ## Gambling
+
+You wager at least 100 gp on a week of games. Make three checks—Wisdom (Insight), Charisma (Deception), and Charisma (Intimidation)—against a DC set by the quality of the competition (typically 15). Tally the number of successes to determine winnings or losses and any complications from your time at the tables.
+
 Stake gold on games of chance. Success yields winnings; failure can result in losses or complications.
+
 ### Gambling Results
 | Result | Value |
 | --- | --- |
@@ -200,7 +219,11 @@ Stake gold on games of chance. Success yields winnings; failure can result in lo
 **Might involve a rival*
 
 ## Pit Fighting
+
+Fighting pits offer coin to those who survive a week of bouts. Over the workweek make three checks: Strength (Athletics), Dexterity (Acrobatics), and a Constitution saving throw against a DC set by the local talent (usually 15). Count the successes to see your total winnings and whether any rivals or injuries trouble you.
+
 Enter combat bouts for coin. Use consecutive ability checks to track performance and earnings.
+
 ### Pit Fighting Results
 | Result | Value |
 | --- | --- |
@@ -221,10 +244,13 @@ Enter combat bouts for coin. Use consecutive ability checks to track performance
 **Might involve a rival*
 
 ## Relaxation
+Sometimes the best use of downtime is doing nothing. Spend a workweek resting to automatically recover from the effects of long-term madness, reduce a level of exhaustion, and gain advantage on saving throws against disease or poison for the next workweek. No checks are required, though lingering threats could interrupt your peace.
 Take time off to recover stress. Gain advantage on saving throws against certain conditions and end persistent effects.
 
+
 ## Religious Service
-Serve a temple or faith community to gain divine favor. Earn favors or missions based on ability checks.
+You devote a workweek to serving a temple or performing rites for your deity. After paying any necessary tithes, make a DC 10 ability check using Intelligence (Religion), Wisdom (Insight), or Charisma (Persuasion) as appropriate to the faith. Your check total determines how many favors you earn, which can later be called in for aid, though missteps can invite divine complications.
+
 ### Religious Service
 | Check Total | Result |
 | --- | --- |
@@ -244,7 +270,10 @@ Serve a temple or faith community to gain divine favor. Earn favors or missions 
 **Might involve a rival*
 
 ## Research
+Delving into archives or questioning sages requires at least 1 workweek and 50 gp in expenses. Each additional 100 gp spent grants a +1 bonus to the effort. Make an Intelligence (Investigation) check to gauge how much lore you uncover, as noted on the outcomes table. Research can reveal multiple pieces of information but may also draw unwanted attention.
+
 Seek knowledge on a topic. Pay for access to libraries or sages and make Intelligence checks to uncover information.
+
 ### Research Outcomes
 | Check Total | Outcome |
 | --- | --- |
@@ -265,7 +294,11 @@ Seek knowledge on a topic. Pay for access to libraries or sages and make Intelli
 **Might involve a rival*
 
 ## Scribing a Spell Scroll
+
+If you know a spell and have the requisite level, you can inscribe it onto a scroll. Spend the time and gold listed on the Spell Scroll Costs table and make an Arcana check with a DC equal to 10 + the spell’s level. On a failure, the materials are wasted. Success creates a scroll that others can cast once before it crumbles.
+
 Copy a known spell into a scroll at the cost of time, materials, and a spellcasting ability check.
+
 ### Spell Scroll Costs
 | Spell Level | Time | Cost |
 | --- | --- | --- |
@@ -292,7 +325,11 @@ Copy a known spell into a scroll at the cost of time, materials, and a spellcast
 **Might involve a rival*
 
 ## Selling a Magic Item
+
+Locating a buyer for a magic item requires 1 workweek and 25 gp to advertise. At the end of that time, make a Charisma (Persuasion) check. The check total indicates the offer you receive compared to the item’s base price, as shown on the table, and might also spark complications with rivals or interested factions.
+
 Find buyers for a magic item. Charisma (Persuasion) check sets price and determines interest.
+
 ### Magic Item Base Prices
 | Rarity | Base Price* |
 | --- | --- |
@@ -322,7 +359,11 @@ Find buyers for a magic item. Charisma (Persuasion) check sets price and determi
 **Might involve a rival*
 
 ## Training
+
+With access to a knowledgeable instructor, you can learn a language or gain proficiency with a set of tools. Training requires 10 workweeks of study and 25 gp per week to cover tuition and supplies. After the training period, you gain the new proficiency. Interruptions or lack of a teacher can extend the required time.
+
 Learn a new language or tool proficiency over days of practice at a cost of 1 gp per day.
+
 ### Training Complications
 | d6 | Complication |
 | --- | --- |
@@ -336,7 +377,11 @@ Learn a new language or tool proficiency over days of practice at a cost of 1 gp
 **Might involve a rival*
 
 ## Work
+
+You can spend a workweek earning a living. The DM chooses an appropriate ability check, often tied to the job’s nature. Make the check and compare the result to the Wages table to see the lifestyle your earnings cover for that week. Complications on the job can reduce pay or draw you into local troubles.
+
 Take on a job to cover living expenses. Ability checks determine pay and potential complications.
+
 ### Wages
 | Check Total | Earnings |
 | --- | --- |
