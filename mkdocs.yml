@@ -15,8 +15,11 @@ theme:
     code: Roboto Mono
   logo: assets/dnd-ampersand.png
   favicon: assets/dnd-ampersand.png
+extra_javascript:
+  - js/toc-filter.js
 extra_css:
   - stylesheets/dnd-theme.css
+  - css/toc-filter.css
 markdown_extensions:
   - attr_list
   - admonition

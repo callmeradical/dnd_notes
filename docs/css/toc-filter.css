@@ -1,0 +1,27 @@
+.toc-filter {
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+  padding: 0.25rem 0.5rem 0.5rem 0.5rem;
+}
+
+.toc-filter input[type="search"] {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 0.4rem 0.6rem;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 0.25rem;
+  font: inherit;
+}
+
+.toc-filter button {
+  border: 0;
+  background: transparent;
+  font-size: 1.25rem;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.toc-filter--hidden {
+  display: none !important;
+}
