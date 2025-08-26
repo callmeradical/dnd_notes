@@ -1,5 +1,5 @@
 # D&D Notes Site Makefile
-.PHONY: help install build serve clean docker-build docker-serve docker-stop docker-logs
+.PHONY: help install build serve clean docker-build docker-serve docker-stop docker-logs new-post new-session
 
 # Default target
 help:
@@ -10,6 +10,10 @@ help:
 	@echo "  build        Build the static site"
 	@echo "  serve        Serve site locally (development mode)"
 	@echo "  clean        Clean build artifacts"
+	@echo ""
+	@echo "Content Creation:"
+	@echo "  new-post     Create a new post using copier template"
+	@echo "  new-session  Create a new session prep using copier template"
 	@echo ""
 	@echo "Docker Development:"
 	@echo "  docker-build       Build Docker image for the site"
@@ -78,3 +82,12 @@ docker-logs:
 docker-shell:
 	@echo "Opening shell in running container..."
 	docker exec -it dnd-notes-site /bin/sh
+
+# Content creation commands
+new-post:
+	@echo "Creating new post..."
+	copier copier_templates/post .
+
+new-session:
+	@echo "Creating new session prep..."
+	copier copier_templates/session_prep .

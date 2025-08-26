@@ -39,6 +39,7 @@ nav:
   - Session Notes: index.md
   - Campaigns:
       - Londra: campaigns/londra.md
+      - The Last Whisper of Steel: campaigns/tlwos.md
   - Tags: tags.md
   - Resources:
       - NPC Names: resources/npc_names.md
@@ -52,5 +53,6 @@ nav:
       - Tips: resources/tips.md
   - Planning:
       - Templates: planning/templates/index.md
-      - Future Campaigns: planning/future-campaigns/index.md
+      - TLWOS Arc 2: planning/tlwos-arc-2/index.md
       - Utilities: planning/utilities/index.md
+      - Future Campaigns: planning/future-campaigns/index.md
