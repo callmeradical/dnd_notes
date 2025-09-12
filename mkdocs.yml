@@ -1,4 +1,5 @@
 site_name: DnD Notes
+site_url: https://callmeradical.github.io/dnd_notes/ # Replace with your actual GitHub username
 docs_dir: docs
 theme:
   name: material
@@ -38,8 +39,10 @@ plugins:
 nav:
   - Session Notes: index.md
   - Campaigns:
-      - Londra: campaigns/londra.md
-      - The Last Whisper of Steel: campaigns/tlwos.md
+      - campaigns/index.md
+      - Londra: campaigns/londra/index.md
+      - The Last Whisper of Steel: campaigns/tlwos/index.md
+      - The Shadow in the Empire: campaigns/shadow-in-the-empire/index.md
   - Tags: tags.md
   - Resources:
       - NPC Names: resources/npc_names.md

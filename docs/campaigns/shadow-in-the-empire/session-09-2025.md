@@ -1,0 +1,345 @@
+---
+title: "TSITE Session 09.2025"
+tags:
+  - shadow-in-the-empire
+  - session-notes
+  - aufgeben
+  - fellion
+  - asmodeus
+  - dialogue
+---
+
+## Session Overview
+
+The party awakens from their three-year time skip in the ruins of Adderport,
+Q'barra. The wyrms now rule openly, and the world has fundamentally changed.
+Aufgeben grants the party their freedom as payment for fulfilling the Prophecy,
+while Fellion rejoins them with knowledge of the surrounding area and scheming
+advice about their next moves.
+
+## Session Purpose
+
+- Establish the **post-Avernus world state** (dragons rule, industry collapsed,
+  three years passed)
+- Grant players **freedom of agency** — they are no longer bound by prophecy
+- Present **meaningful destination choices** that will shape the campaign's direction
+- Introduce **Sharn as a long-term goal** through Asmodeus's dying words
+- Position Fellion as a **scheming ally** with his own agenda
+- Let players choose their path forward from several compelling options
+
+---
+
+## Strong Start
+
+> _The cavern yawns before you — a vast subterranean gulf, its walls slick with
+> condensation and streaked with veins of faintly glowing dragonshard. Mist
+> clings low to the ground, curling in tendrils around jagged stone
+> outcroppings. Stalactites hang like teeth overhead, dripping steadily into
+> black pools. A faint, salty breeze drifts through some unseen fissure,
+> carrying the smell of brine and ozone._
+>
+> _The air is heavy, pressing against your lungs. Each breath tastes metallic,
+> like lightning before a storm. Every sound you make — the scuff of your
+> boots, the drip of water, even your whispers — is swallowed by the mist,
+> leaving behind an eerie hush. Lanternlight scatters and fractures in the fog,
+> warping shadows into phantoms that seem to watch from the edge of sight.
+> Somewhere deeper in the cavern, a low rumble rolls through the stone, like
+> distant thunder in a place that should never know storms._
+>
+> _The mist shifts. A shadow lengthens across the cavern floor, sharp and
+> deliberate. Out of the haze steps a tall figure — an elf, impossibly pristine
+> against the dripping stone. His silver hair frames angular features, his
+> clothing fine and unsullied by the damp. Regal, sharp-eyed, he moves with the
+> calm certainty of one who belongs here utterly. The cavern itself stills, as
+> though the stone holds its breath to acknowledge him._
+>
+> _He stops before you, eyes glinting with cold amusement. In the silence that
+> follows, it feels less like you are meeting a man… and more as though the
+> cavern has chosen a voice._
+
+### Adderport Ruins
+
+- The party begins in the ruins of **Adderport**, amongst jungle, bay, and
+  storm‑choked ruins
+- Three years have passed; industry, trade, and infrastructure are gone
+- Wyrms rule openly; the age of hiding in shadows is over
+
+---
+
+## Key Dialogue
+
+### Asmodeus's Final Words
+
+> _"What was bound was never broken. What was stolen waits still in the towers.
+> The shadow keeps its secrets, but the waking will remember where the dream
+> began."_
+
+**Context:**
+
+- **Dragons/Wyrms:** Dismissed this as nonsense. They heard nothing threatening
+- **PCs:** Know this points back to Sharn (the City of Towers, the Shadowglass
+  Orb, their beginning)
+- **Themes:** Bound things (the wyrms' prison, the Prophecy), stolen things
+  (the Orb, their "second chance"), shadows (Tarkanan, Malorik), and "where the
+  dream began" (their campaign start)
+
+## Aufgeben, the Dark Cloud
+
+### Personality Traits
+
+- Speaks slowly, deliberately, as if every word has weight.
+- Treats mortals like curiosities — sometimes ants, sometimes jewels.
+- Rare flashes of cruel amusement, like storms breaking silence.
+- Values patience above all; his time horizon is centuries.
+
+### Ideals
+
+- Dominion Through Fear: The wyrms should rule, not by destruction alone but by
+  the inevitability of their presence.
+- Balance Is an Illusion: He believes gods, prophecies, and nations are
+  distractions; only raw will and survival endure.
+- Curiosity Over Control: He spares anomalies (like the PCs) not from mercy but
+  because they represent something unpredictable.
+
+### Bonds
+
+- Bound by victory over Asmodeus; his power and ego are staked on that kill.
+- Considers Q’barra and Adderport his dominion — the first piece of a larger
+  vision.
+- Keeps Fellion as a tether to the mortal world, but has little attachment
+  beyond usefulness.
+- Respects wyrms as peers but sees them as rivals or prey in a long game.
+
+### Flaws
+
+- Arrogant: Considers most threats beneath him until they’ve already struck.
+- Detached: Fails to understand or value mortal concerns, often underestimating
+  them.
+- Wrathful: When mocked or defied, his calm can give way to storm-like fury.
+- Bound by Symbolism: Obsessed with proving himself as more than “just another
+  wyrm.”
+
+### Aufgeben's Message
+
+**What Aufgeben Conveys:**
+
+- **The Time Skip:** Three years have passed
+- **The Wyrms Rule:** Dragons walk the land openly as tyrants, no longer myths
+- **Asmodeus is Dead:** Aufgeben slew him, changing the balance of the world
+- **The PCs' Role:** They were the instruments of freeing the wyrms. Their part
+  in the Prophecy is done
+- **Freedom:** Aufgeben frees them from debt and fate alike. They now carry the
+  burden of choice
+- **The Hook:** Asmodeus's dying words point them back to Sharn
+
+**Key Points:**
+
+- **Debt Paid:** The Prophecy is satisfied — they freed the wyrms. He owes them
+  their freedom
+- **No Threat:** He does not see them as rivals. He honors them as anomalies
+  outside fate
+- **Fellion Released:** "A herald is for guests. I no longer expect any. Take
+  him with you — perhaps he still serves you better than me"
+
+**Tone & Delivery:**
+
+- **Grim Humor:** Notes the "mercies" of this age — warforged no longer slaves,
+  industry and borders meaningless, elementals free again
+- **Amused Plea:** Encourages the party to hurry along, "before a dragon rolls
+  over in its sleep and dreams us out of existence"
+- **Not a Master:** Aufgeben does not command; he releases. He sets the party
+  free to decide their own path
+
+---
+
+## Character Block: Fellion
+
+### Personality Traits
+
+- Speaks in sly half-truths, rarely giving the full story upfront.
+- Uses grim humor to deflect from fear or regret.
+- Carries himself with a false confidence, masking deep uncertainty.
+- Prefers manipulation and whispers over open confrontation.
+
+### Ideals
+
+- Survival Through Submission: Fellion believes bending to power ensures
+  survival, though he secretly resents it.
+- Knowledge Is Leverage: Information — hidden, hoarded, and parceled out — is
+  the only true weapon left.
+- Prophecy Matters: Despite his cynicism, he clings to the idea that the
+  Draconic Prophecy still has a role for him.
+
+### Bonds
+
+- Once a sworn member of the Order of Rekkenmark, he carries the discipline and
+  scars of that martial brotherhood, though he left it behind when the world
+  broke.
+- As a former Gatewatcher druid, he still feels a tether to the orcs and druids
+  who trained him, though he abandoned them in the turning tide.
+- Guilt binds him to Falko and the party — he left them breadcrumbs he now
+  knows were useless, and he feels both shame and pride in that.
+- Owes his survival to Aufgeben, though he conceals knowledge from the Dark
+  Cloud out of fear and mistrust.
+
+### Flaws
+
+- Duplicitous: Lies come as easily as truth, making it hard for anyone to trust
+  him fully.
+- Self-Preserving: When pressed, his instinct is to save himself before others.
+- Cynical: Believes hope is a weakness, and mocks those who show it.
+- Cowardice in Disguise: Presents schemes and bravado, but avoids true
+  sacrifice.
+
+## Fellion's Scheming Monologue
+
+> _The rain hisses on broken stone as Fellion lingers, silver hair plastered to
+> his face. He waits until Aufgeben's presence fades, then steps closer, voice
+> low and edged with sly humor. His eyes gleam faintly with stormlight, but
+> there's no warmth in them._
+>
+> "Ah… there it is again. The silence, the part where you expect me to play the
+> dutiful herald. To say, 'Go here, do this, serve him well.' But the Dark
+> Cloud has no use for pawns anymore. And me? I've always been better at
+> whispers than orders."
+
+_He smirks, leaning on his staff._
+
+"You want choices? You want a future in this carcass of a world? Then listen, and decide which poison you'll drink."
+
+### The Five Paths Fellion Presents
+
+- **Stay in Q'barra:** _"You could stay here, in Q'barra. The clans hide in
+  their jungle lairs, the mines groan, Newthrone smolders like a dying ember.
+  Plenty of scraps left for clever hands. If you're patient—and vicious—you could
+  carve out something of your own. Or be swallowed whole. The land doesn't
+  care."_
+
+- **Journey to Sharn:** _"Or… Sharn. Yes, I heard more than I told Aufgeben.
+  Towers, shadows, beginnings. He thinks it nonsense, but I know better. Sharn
+  still matters. You could march across half a continent, months of misery, only
+  to find the city waiting with teeth bared. But if there's an answer to what
+  Asmodeus spat in his last breath… it's there."_
+
+- **Hunt the Wyrms:** _"Then there's the bold path. The wyrms themselves. They
+  bleed, I've seen it. Gods to peasants, beasts to those who know where to cut.
+  Strike them, harry them, maybe make them fear \_you_. Or maybe you'll just be
+  ash under their claws. Either way, it's a story worth telling."\_
+
+- **Serve Aufgeben:** _"Or you could play Aufgeben's little game. Serve him.
+  Pretend to, at least. The Dark Cloud spares you because he's curious. He thinks
+  you're finished with prophecy. What if he's wrong? What if you're the one piece
+  on the board he's overlooked? Dangerous, yes… but then again, so am I."_
+
+- **Walk Away:** _"And, of course, the simplest path. Walk away. No wyrms, no
+  gods, no prophecy. Find a hole in this broken world and vanish. Build your own
+  empire, or rot in peace. Freedom, or just another kind of prison? I wonder."_
+
+_Fellion steps back, his expression unreadable. The stormlight in his eyes
+flickers like a dying candle._
+
+"Choose quickly. The world doesn't wait anymore. And neither do the dragons."
+
+---
+
+## Player Choice: Immediate Destinations
+
+If the party chooses to explore Q'barra first, they must decide where to go
+from Adderport. Distances are approximate in miles (overland or across water).
+
+### Fellion's Knowledge of Nearby Locations
+
+Fellion has been in Aufgeben's service for years, cut off from broad knowledge.
+He knows **fragments, rumors, and impressions**, but little concrete detail.
+His perspective is colored by regret and limited by isolation.
+
+_Fellion himself admits:_
+
+> "I know little. I served the Dark Cloud, not the world. The jungle kept its
+> secrets from me, as it keeps them still. What I offer you are fragments —
+> shadows of what might be. The rest, you will see with your own eyes."
+
+### Available Destinations
+
+#### **Castle Garodya — 45 miles (across the bay)**
+
+- **Description:** A ruined Brelish fortress, once a colonial stronghold. May
+  hold survivors, relics, or hidden caches
+- **Fellion's Knowledge:** Once a Brelish fortress, abandoned when the wyrms
+  rose. He heard whispers of scavengers picking it clean, and that something _old
+  and dangerous_ stirred in its cellars
+- **Certainty:** Very low — little more than rumor
+
+#### **Newthrone — 80 miles**
+
+- **Description:** Former Brelish colonial capital of Q'barra. Possible
+  fractured governance, collaborators, or a rallying point of survivors
+- **Fellion's Knowledge:** Once the Brelish capital of Q'barra. He suspects it
+  either fractured into warlord districts or bent knee to one of the wyrm cults.
+  He has no clear intelligence, only that _the city still smolders_
+- **Certainty:** Low — guesswork based on the scale of the wyrms' destruction
+
+#### **Pitchwall — 80 miles**
+
+- **Description:** Mining town and old outpost of dragonshard trade. Likely
+  overrun, scavenged, or held by factions
+- **Fellion's Knowledge:** A mining town, once the hub of dragonshard trade. He
+  assumes it is stripped bare or contested by mercenaries and bandits. Mentions
+  hearing a rumor that Cannith scavengers were hunting its shards, but he doesn't
+  know when
+- **Certainty:** Low — second-hand scraps of information
+
+#### **Duskwing Clanhold — 120 miles**
+
+- **Description:** Dragonborn enclave deep in the jungle. Its stance on
+  wyrm‑rule may vary — potential allies or enemies
+- **Fellion's Knowledge:** Dragonborn of the jungle. They value secrecy. He
+  assumes they endured by retreating deeper, but he hasn't seen them since before
+  the wyrms rose. He fears they may see all outsiders as enemies now
+- **Certainty:** Very low — entirely speculative
+
+#### **Stormhorn Clanhold — 100 miles**
+
+- **Description:** Another dragonborn stronghold, nearer the mountains. Known
+  for resilience and martial prowess
+- **Fellion's Knowledge:** Proud warriors in the mountains. Their land is
+  harder to reach, so he assumes they resisted longer. He doubts they would have
+  bent willingly to wyrm dominion
+- **Certainty:** Low — based on old assumptions, not fact
+
+#### **Flamebrow Clanhold — 100 miles**
+
+- **Description:** Fiercely independent dragonborn, rumored to hold
+  dragonshard‑rich territory. Possible site of conflict
+- **Fellion's Knowledge:** Fierce, independent, rich in dragonshard territory.
+  If any clan made a pact — with wyrms, warlords, or houses — it might be them.
+  He knows nothing certain
+- **Certainty:** Very low — acknowledges he has no firsthand knowledge
+
+### Strategic Considerations
+
+- **Garodya (45 mi):** Closest, fastest route, potentially supplies or intel
+- **Newthrone (80 mi):** Political center, chance to gauge the "big picture" of
+  human survival in Q'barra
+- **Pitchwall (80 mi):** Resource node; risky but could provide dragonshards or
+  lost tech
+- **Clanholds (100–120 mi):** Long treks; represent faction politics and
+  alliances that could shape the campaign
+
+---
+
+## GM Notes
+
+- No destination is "safe." Each choice shapes the tone and early trajectory of
+  the post‑Avernus arc
+- Each destination has detailed encounters and treasure hoards available in the
+  campaign materials
+- The players now face a **meaningful choice** that will determine their path
+  forward
+- Fellion's role is more as a _gloomy guide_ than a source of solid
+  intelligence
+
+---
+
+← [Back to The Shadow in the Empire](index.md)
+

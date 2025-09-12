@@ -13,3 +13,4 @@ Practical tools and references for running games.
 
 ## Character Creation
 - [NPC Names](npc_names.md)
+- [NPC Statblock Template](../templates/npc-statblock-template.md)
