@@ -9,6 +9,7 @@ time skip.
 
 - [TSITE Session 09.2025](session-09-2025.md) - Aufgeben grants freedom,
   Fellion reveals destination options, party chooses their path forward
+- [TSITE Post-Session 09.2025](post-session-09-2025.md) - The Black Dawn submarine, journey to Newthrone, factional politics, and the theft of the Oathfang
 
 {% for page in pages if 'shadow-in-the-empire' in page.meta.tags %}
 

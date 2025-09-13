@@ -46,6 +46,11 @@ Specializes in: Mountain gear, defensive supplies, mercenary information
 Proprietor: Sister Malra, human priestess of draconic spirits  
 Specializes in: Fire-resistant gear, spiritual guidance, cult intelligence
 
+### [Wyrmwatch Tower](wyrmwatch-tower.md) *(deep in the Q'barran wilds)*
+**Ancient colonial watchtower complex and military outpost**  
+Proprietor: Captain Dareth Ironward, veteran Brelish ranger  
+Specializes in: Dragon surveillance, military equipment, tactical intelligence
+
 ---
 
 ## Usage Guidelines

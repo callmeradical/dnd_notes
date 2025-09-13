@@ -316,6 +316,17 @@ _Fellion himself admits:_
   He knows nothing certain
 - **Certainty:** Very low — acknowledges he has no firsthand knowledge
 
+#### **Wyrmwatch — 200 miles**
+
+- **Description:** Ancient watchtower complex built to monitor draconic
+  activity in the deep wilds. Now possibly occupied by wyrm cultists or still
+  held by stalwart defenders
+- **Fellion's Knowledge:** An old frontier outpost, built during the colonial
+  expansion when dragons were thought mere legend. Ironically named, given what
+  transpired. He recalls hearing it was abandoned years before the wyrms rose,
+  but such places often attract those who seek power or those who flee from it
+- **Certainty:** Very low — distant hearsay from his time as a ranger
+
 ### Strategic Considerations
 
 - **Garodya (45 mi):** Closest, fastest route, potentially supplies or intel
@@ -325,6 +336,8 @@ _Fellion himself admits:_
   lost tech
 - **Clanholds (100–120 mi):** Long treks; represent faction politics and
   alliances that could shape the campaign
+- **Wyrmwatch (200 mi):** Distant frontier destination; greatest risk but
+  potentially significant discoveries about draconic activity
 
 ---
 

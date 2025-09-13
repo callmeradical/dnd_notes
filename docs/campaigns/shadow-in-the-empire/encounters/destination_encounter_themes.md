@@ -124,6 +124,28 @@ it for their own ends.
 
 ---
 
+## Wyrmwatch Tower (200 miles)
+
+**Encounter/Theme:** _The Watchers' Last Stand._ The party arrives to find 
+Wyrmwatch under siege by a coalition of wyrm cultists led by a corrupted 
+dragon. The defenders are outnumbered but holding the tower's ancient defenses. 
+PCs must choose: help break the siege, attempt to negotiate between the factions, 
+or find a way to evacuate the valuable intelligence before the tower falls.
+
+**Treasure Hoard:**
+
+- ~25,000 gp in military equipment, ancient artifacts, and strategic supplies
+- **Dragonbane Longbow (+2):** Magical weapon that deals bonus damage to 
+  dragons and their servants
+- **Captain's Command Banner (very rare wondrous):** When planted, grants 
+  allies within 60ft advantage on saves against fear and +1 to attack rolls
+- **Archive of Dragon Lore:** Detailed intelligence worth 5,000 gp to the 
+  right buyers, containing behavioral patterns and weaknesses of known dragons
+- **Wardstone Fragment:** Ancient defensive relic that can be activated to 
+  create a 30ft radius anti-dragon sanctuary for 24 hours (3 uses)
+
+---
+
 ## GM Guidance
 
 ### Encounter Themes
@@ -135,6 +157,7 @@ it for their own ends.
   - Duskwing = trials of worth + dragonborn heirlooms & ceremonial items
   - Stormhorn = martial siege + weapons & armor
   - Flamebrow = wyrm pact + shard wealth & fiery artifacts
+  - Wyrmwatch = last stand defense + military equipment & ancient knowledge
 - Encounters can be tuned to combat, social, or exploration focus depending on
   session pacing
 
