@@ -12,8 +12,8 @@ theme:
     - search.highlight
     - search.suggest
   font:
-    text: Roboto
-    code: Roboto Mono
+    text: Inter
+    code: JetBrains Mono
   logo: assets/dnd-ampersand.png
   favicon: assets/dnd-ampersand.png
 extra_javascript:
