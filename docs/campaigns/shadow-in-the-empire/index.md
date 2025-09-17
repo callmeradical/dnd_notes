@@ -22,6 +22,7 @@ time skip.
 - [Exploration Rules & Encounters](exploration/qbarran_exploration.md) - Travel mechanics and random encounter tables
 - [Random Encounter Statblocks](exploration/encounter-statblocks.md) - Ready-to-use statblocks for all random encounters
 - [Ruins of Q'barra](exploration/qbarran_exploration_ruins.md) - Historical sites and ruins
+- [Submersible Exploration: The Black Dawn](exploration/black_dawn_exploration.md) - Submarine travel mechanics and underwater encounters
 
 ### 🏕️ Outposts & Settlements
 
