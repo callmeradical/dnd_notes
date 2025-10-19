@@ -1,0 +1,355 @@
+---
+title: "TSITE Session 10.2025"
+tags:
+  - shadow-in-the-empire
+  - session-notes
+  - black-dawn
+  - newthrone
+  - dreyden-dlyrandar
+  - lady-mirenna
+---
+
+## Session Overview
+
+The party departs Newthrone aboard the Black Dawn, their submarine refuge now stocked with supplies and shadowed by political debts. Lady Mirenna's favor has been earned, but enemies multiply—the Dreaming Maw licks its wounds, and the waters ahead hold unknown dangers. The crew is tense, the infernal war machine below deck rattles its chains, and Captain Dreyden d'Lyrandar sets course for whatever destination the party chooses.
+
+## Session Purpose
+
+- Establish the **Black Dawn as mobile base** and the capabilities/limitations of submarine travel
+- Present **meaningful destination choices** that will shape the next arc
+- Introduce **naval threats and opportunities** unique to Q'barra's coastal waters
+- Allow players to decide their path: exploration, faction politics, or ancient mysteries
+
+---
+
+## Strong Start
+
+> _The Black Dawn sits low in Newthrone's murky harbor, its hull slick with barnacles and algae. Dawn light breaks across the water, casting long shadows through the ruined docks. The city behind you is waking—coughing, groaning, the sound of a thousand desperate souls clawing for survival in the wyrm-shadowed world._
+>
+> _Captain Dreyden d'Lyrandar stands at the helm, one hand on the diving plane controls, his dragonmark faintly glowing along his forearm. His eyes scan the horizon with the wariness of a man who's died once and doesn't care to repeat the experience. Fellion leans against the conning tower, silver hair catching the light, his expression unreadable._
+>
+> _Below deck, the infernal war machine groans. Its chains rattle—once, twice—like something stirring in sleep. The crew freeze, exchange glances, then resume their tasks with the brittle efficiency of men who know they're sailing with nightmares._
+>
+> _Dreyden's voice cuts through the morning haze, calm but edged with tension. "We've got 14 days of supplies. Maybe 16 if we ration. The Black Dawn can take us anywhere along the coast—underwater, out of sight of dragon patrols. But once we submerge, there's no easy escape. So." He turns to face you, one eyebrow raised. "Where are we going?"_
+>
+> _The waters stretch before you—dark, endless, and full of promise or death. The choice is yours._
+
+---
+
+## Destination Options
+
+### Coastal Destinations (Black Dawn Accessible)
+
+#### **Castle Garodya — 45 miles (across the bay)**
+
+**Fellion's Knowledge:**
+> "Once a Brelish fortress, abandoned when the wyrms rose. I heard whispers of scavengers picking it clean, and that something old and dangerous stirred in its cellars. Little more than rumor, but the ruins are accessible by sea."
+
+**Strategic Value:**
+- Closest destination, fastest route
+- Potential supplies, salvage, or intelligence
+- Ruined fortress may hold hidden caches or Brelish relics
+
+#### **Ravar Orioth & The Bay of Swords — Maritime Zone**
+
+**Intelligence from Frontier Reports:**
+- The bay has become Balaur's naval crucible
+- Waters glow red with molten runoff from coastal forges
+- Wrecks harvested and reforged into Balaur's armada
+- **Extremely Dangerous**: Active conquest-forges, warship construction, arena trials
+
+**Fellion's Warning:**
+> "The Bay of Swords was once navigable. Now? It's a forge of war. Balaur builds his fleet there. You'd be sailing straight into the dragon's maw."
+
+#### **Dragonwatch (Dragonwatch Isles)**
+
+**Fellion's Knowledge:**
+> "Built to monitor wyrm activity—ironic. The harbor's half-sunken, but trade still flows. The dragon who rules there accepts tribute in secrets. If you have valuable intelligence, you might walk free. If you don't..." He shrugs.
+
+**Strategic Value:**
+- Functioning trade hub under wyrm control
+- Intelligence gathering opportunity
+- Black market in forged cult tokens
+- High risk: dragon hoards knowledge, enforcers can smell lies
+
+### Overland Expeditions (Require Landing)
+
+#### **Newthrone** (Current Location - Stay/Return)
+- Leverage Ashen Coil connections for additional contracts
+- Investigate other factions (beyond Ashen Coil and Dreaming Maw)
+- Resupply and gather intelligence
+
+#### **Pitchwall — 80 miles inland**
+- Mining town, once hub of dragonshard trade
+- Likely stripped bare or contested by mercenaries and bandits
+- Cannith scavengers rumored to be hunting shards
+
+#### **Dragonborn Clanholds — 100-120 miles inland**
+- **Duskwing Clanhold** (120 mi): Secretive, deep jungle, stance on wyrm-rule unknown
+- **Stormhorn Clanhold** (100 mi): Mountain warriors, likely resisted longer
+- **Flamebrow Clanhold** (100 mi): Rich in dragonshards, possibly made pacts
+
+---
+
+## Key NPCs
+
+### Captain Dreyden d'Lyrandar
+
+**Personality Traits:**
+- Pragmatic and cautious—death taught him to pick his battles
+- Speaks with dry humor, deflecting from deeper pain
+- Observant; notices details others miss
+- Resents being controlled but values competent leadership
+
+**Ideals:**
+- **Survival Through Adaptation**: The world changed; adapt or die
+- **Autonomy**: He's been a slave to prophecy and death; now he serves himself first
+- **Competence Over Loyalty**: Respect those who prove their worth
+
+**Bonds:**
+- Bound to the Black Dawn—his ship, his responsibility, his prison
+- Dragonmarked House Lyrandar connection (complicated, potentially dangerous if revealed)
+- The party resurrected him; he owes them a debt, even if he doesn't like it
+
+**Flaws:**
+- **Haunted**: Dying left scars; he sees omens in shadows
+- **Cynical**: Trusts actions more than words, expects betrayal
+- **Risk-Averse**: Won't gamble the Black Dawn on foolish ventures
+
+**Key Dialogue:**
+> "I've died once. Wasn't pleasant. So when I tell you a course is suicide, believe me—I have experience in the matter."
+
+---
+
+### Fellion (Continued Presence)
+
+**Personality Traits:**
+- Sly half-truths; rarely gives the full story upfront
+- Grim humor to deflect from fear or regret
+- False confidence masking deep uncertainty
+- Prefers manipulation and whispers over confrontation
+
+**Current Role:**
+- Intelligence advisor and scheming guide
+- Knowledge of Q'barra limited but growing based on party reports
+- Interested in keeping the party alive (they're useful) but not loyal
+
+**Key Dialogue:**
+> "Castle Garodya? Closest, yes. Safest? Nothing's safe anymore. But at least the fortress won't *chase* you."
+
+---
+
+### Lady Mirenna (Background NPC - Not Present)
+
+**Status:**
+- Patron in Newthrone
+- Ashen Coil leader, collaborator with wyrm cults
+- Owes the party favor after Oathfang heist
+- Potential contact for future work or intelligence
+
+---
+
+## Important Dialogue
+
+### Dreyden on Submarine Travel
+
+> "The Black Dawn can take us deep—dragon patrols won't see us coming. But she's temperamental. The elemental binding is old, and the war machine below deck... it *pulls* at the ship's magic. We dive too deep or stay down too long, things get unstable. I'd prefer not to test how long we can hold our breath."
+
+**Context:**
+- Establishes Black Dawn capabilities: stealth, underwater travel
+- Limitations: elemental binding strain, war machine interference
+- Adds tension to underwater segments
+
+---
+
+### Fellion on Balaur
+
+> "Balaur, the Beast of War. He's not like the others—he *walks* among mortals. Appears as an elven knight in adamantine plate. The Valenar don't just serve him; they *follow* him. Earned his throne by killing their high lord in single combat. Now they live by his creed: 'You keep what you kill.' Challenge, conquer, claim. It's a meritocracy written in blood."
+
+**Context:**
+- Introduction to Balaur's nature and philosophy
+- Explains why Valenar follow him (respect, not fear)
+- Warns about the conquest culture in his territory
+
+---
+
+### Dreyden on the Infernal War Machine
+
+> "That thing below deck? It's not cargo—it's a passenger. I feel it *watching* sometimes, like it's waiting. Keep it chained, keep it dormant, and maybe we all live. But if you're planning to use it... tell me first, so I can abandon ship."
+
+**Context:**
+- The war machine is dangerous even dormant
+- Foreshadows potential complications
+- Dreyden's wariness adds tension
+
+---
+
+## Player Choices & Decisions
+
+### Major Decision: Choose Destination
+
+The party must decide where to sail the Black Dawn:
+
+**Coastal Options:**
+1. **Castle Garodya** (45 mi) - Closest, ruins exploration, potential salvage
+2. **Dragonwatch** (Isles) - Trade hub, intelligence gathering, high risk
+3. **Bay of Swords** - Balaur's naval forges, extremely dangerous, rich rewards
+
+**Overland Options (Requires Landing):**
+1. **Stay/Return to Newthrone** - Politics, faction work, resupply
+2. **Pitchwall** (80 mi) - Mining town, dragonshard salvage
+3. **Dragonborn Clanholds** (100-120 mi) - Faction alliances, distant
+
+**Considerations:**
+- 14 days of supplies (16 if rationed)
+- Submarine stealth vs. overland visibility
+- Risk vs. reward for each destination
+- Long-term strategic goals
+
+---
+
+## Potential Encounters
+
+### Naval Encounters (If Traveling Underwater)
+
+#### Aberrant Sea Life (Near Alth)
+- **Type:** Combat/Exploration
+- **Trigger:** Traveling near Alth fishing village where dragon molt warps waters
+- **Threat:** Mutated sea creatures with too many eyes, drawn to Black Dawn's elemental magic
+- **Outcome Options:** Evade, fight, or harvest aberrant materials
+
+#### Balaur's Patrol Fleet (Near Bay of Swords)
+- **Type:** Combat/Stealth
+- **Trigger:** Approaching Ravar Orioth or Bay of Swords
+- **Threat:** Valenar warships with kill-mark branded hulls, hunting for salvage or intruders
+- **Outcome Options:** Hide, negotiate, or fight (extremely dangerous)
+
+#### Sunken Ruins Discovery
+- **Type:** Exploration
+- **Trigger:** Random encounter during travel
+- **Opportunity:** Dhakaani ruins or giant structures underwater, potential treasure/lore
+- **Risk:** Unstable structures, trapped air pockets, ancient guardians
+
+---
+
+### Coastal/Landing Encounters
+
+#### Scavenger Ambush
+- **Type:** Combat/Social
+- **Location:** Any coastal landing
+- **Threat:** Desperate survivors or mercenary bands targeting supply-rich vessels
+- **Outcome Options:** Fight, bribe, recruit
+
+#### Wyrm Cult Patrol
+- **Type:** Combat/Stealth/Social
+- **Location:** Near any wyrm-controlled territory
+- **Threat:** Scaled enforcers or cultists inspecting travelers
+- **Outcome Options:** Bluff with cult tokens, fight, evade
+
+---
+
+## Treasure & Rewards
+
+### Potential Discoveries (Based on Destination)
+
+**Castle Garodya:**
+- Brelish military supplies and cached weapons
+- Historical documents about pre-Wyrmfall Q'barra
+- Potential Dhakaani artifacts in cellars
+
+**Dragonwatch:**
+- Intelligence ledgers (1,000 gp value to smugglers)
+- Forged or genuine cult tokens for safe passage
+- Rare trade goods from wyrm-approved routes
+
+**Bay of Swords (High Risk):**
+- Salvaged naval materials (1,200+ gp)
+- Valenar steel weapons and armor
+- Balaur's naval charts showing invasion plans
+
+---
+
+## Valenar Background (If Players Ask)
+
+### Quick History Brief
+
+**Ancient Layers:**
+- **Giants** (oldest): Titan-stones, Forge of Kor'vulath
+- **Dhakaani Empire** (-9000 to -3000 YK): Fortress-cities, temples, sealed vaults beneath Valenar
+- **Valenar Elves** (-2600 YK): Warrior culture, claimed region through conquest, patron ancestor worship
+
+**Balaur's Conquest (1003 YK):**
+- Defeated Valenar high lord in single combat
+- Established "You keep what you kill" meritocracy
+- Appears as elven knight in adamantine plate
+- **Unique Among Dragons**: Values mortal curiosity, ambition, drive—genuinely enjoys their company
+
+### Key Locations Under Balaur
+
+**Taer Valaestas (Valenar Capital):**
+- Built atop ancient Dhakaani temple (Dhakaan Khor)
+- Balaur's throne room uses Six Crowns pedestals for trophies
+- Officers earn rank through arena combat
+
+**Taer Shantare (Border Fortress):**
+- Built over Dhakaani military academy
+- Forward conquest-bastion
+- Walls thrum like war drums
+
+**Bay of Swords:**
+- Conquest-forges where ships are melted and reforged
+- Captured crews fight in arena: win 3 bouts or die
+- Ships branded with kill-marks
+
+---
+
+## GM Notes
+
+### Session Highlights
+
+- **Player Agency**: Destination choice shapes next arc (exploration, combat, intrigue)
+- **Submarine Mechanics**: Establish rules for underwater travel, supply management, crew morale
+- **Tension Building**: War machine rattling, Dreyden's wariness, limited supplies create urgency
+
+### Unresolved Threads
+
+- **Lady Mirenna's Favor**: Can be called upon for future contracts or intelligence
+- **Dreaming Maw Revenge**: High Dreamer Saltheris paralyzed; faction likely planning retaliation
+- **Aufgeben's Watchfulness**: The Dark Cloud observes from Adderport
+- **Infernal War Machine**: Dormant but dangerous, potential future complication
+- **Dreyden's House Connection**: House Lyrandar dragonmark could be political leverage or liability
+
+### Next Session Setup
+
+**Based on Player Choice:**
+
+**If Castle Garodya:**
+- Ruined fortress exploration
+- Brelish military secrets
+- Something old and dangerous in the cellars (Fellion's rumor)
+
+**If Dragonwatch:**
+- Social intrigue and negotiation
+- Dragon who hoards knowledge
+- Black market dealings, high stakes
+
+**If Bay of Swords:**
+- Stealth infiltration or open combat
+- Balaur's war machine forges
+- Extreme danger, extreme rewards
+
+**If Overland:**
+- Land travel mechanics
+- Different encounter types
+- Faction politics (if Newthrone) or wilderness survival
+
+### Campaign Themes to Emphasize
+
+- **Conquest Layered on Conquest**: Giant → Dhakaani → Valenar → Balaur
+- **Mortal Striving**: Balaur respects ambition, curiosity, drive—PCs embody this
+- **Resource Management**: Supplies, political favors, crew morale all matter
+- **Meaningful Choices**: Every destination has consequences and opportunities
+
+---
+
+← [Back to The Shadow in the Empire](index.md)
