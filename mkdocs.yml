@@ -42,6 +42,83 @@ nav:
       - Londra: campaigns/londra/index.md
       - The Last Whisper of Steel: campaigns/tlwos/index.md
       - The Shadow in the Empire: campaigns/shadow-in-the-empire/index.md
+  - Shuigari:
+      - Taxonomy: "shuigari/Shuigari Taxonomy.md"
+      - Overview & Campaign:
+          - Campaign Setting: "shuigari/Campaign Setting - Shuigari.md"
+          - Campaign Hub: "shuigari/Shuigari - The Last Whisper of Steel.md"
+          - Campaign Summary: "shuigari/The Last Whisper of Steel - Campaign Summary.md"
+          - Timeline: "shuigari/Timeline of Shuigari.md"
+          - Calendar: "shuigari/Calendar of Shuigari.md"
+          - Food & Drink: "shuigari/Food and Drink of Shuigari.md"
+          - Inspiration: "shuigari/Inspiration for Shuigari.md"
+      - Geography & Regions:
+          - Islands & Regions:
+              - Shugane: "shuigari/Shugane.md"
+              - Deep Provinces: "shuigari/Deep Provinces.md"
+              - Towns of Shugane: "shuigari/Towns of Shugane.md"
+          - Prefectures:
+              - Takashima Prefecture: "shuigari/Takashima Prefecture.md"
+              - Harado Prefecture: "shuigari/Harado Prefecture.md"
+              - Hikosan Prefecture: "shuigari/Hikosan Prefecture.md"
+          - Settlements & Sites:
+              - Nagano: "shuigari/Nagano.md"
+              - Frostwood Outpost: "shuigari/Frostwood Outpost.md"
+              - The Frostwood: "shuigari/The Frostwood.md"
+              - Bandit's Lair: "shuigari/Bandit's Lair.md"
+              - The Stone Gate of Toriyama: "shuigari/The Stone Gate of Toriyama.md"
+              - The Well and the One Tree: "shuigari/The Well and the One Tree.md"
+              - Kazanokai - The Hidden Hearth of Torinokai: "shuigari/Kazanokai - The Hidden Hearth of Torinokai.md"
+      - Culture & Spirituality:
+          - Pantheon of Shuigari: "shuigari/Pantheon of Shuigari.md"
+          - Worship of Tsukuyomi: "shuigari/The worship of Tsukuyomi in Shuigari.md"
+          - Soulsteel Blades: "shuigari/Soulsteel Blades - Legendary Weapons of Shuigari.md"
+          - Twilight Carnival: "shuigari/Twilight Carnival of Thousand Lanterns.md"
+          - Flora of Shuigari: "shuigari/Flora of Shuigari.md"
+          - Fauna of Shuigari: "shuigari/Fauna of Shuigari.md"
+          - Elemental Magic & Technology: "shuigari/Elemental Magic and Technology.md"
+          - Weapon Crafting Traditions: "shuigari/Weapon Crafting and Smithing Traditions.md"
+          - Shugane Social Orders: "shuigari/Shugane Social Orders.md"
+      - Factions & Threats:
+          - The Grey Tide: "shuigari/The Grey Tide.md"
+          - The Obsidian Circle: "shuigari/The Obsidian Circle.md"
+          - Shindarasu: "shuigari/Shindarasu.md"
+          - Tsurogami, the Woven Tyrant: "shuigari/Tsurogami, the Woven Tyrant.md"
+          - The Twice Cursed Samurai: "shuigari/The Twice Cursed Samurai.md"
+          - Emerging Factions: "shuigari/Emerging Factions of Shuigari.md"
+      - People & NPCs:
+          - Master Hideo Nakata: "shuigari/Master Hideo Nakata.md"
+          - Shinro Takeda: "shuigari/Shinro Takeda.md"
+          - Mayor Hiroshi Takeda: "shuigari/Mayor Hiroshi Takeda.md"
+          - Akane Hiroshi: "shuigari/Akane Hiroshi.md"
+          - Hiroto Masanori: "shuigari/Hiroto Masanori.md"
+          - Aya the Weaver: "shuigari/Aya the Weaver.md"
+          - Haruto the Blacksmith: "shuigari/Haruto the Blacksmith.md"
+          - Renji “Driftwood” Sato: "shuigari/Renji Driftwood Sato.md"
+          - Riku Matsunaga: "shuigari/Riku Matsunaga.md"
+          - Taro the Hunter: "shuigari/Taro the Hunter.md"
+          - Lord Daizen Kuroda: "shuigari/Lord Daizen Kuroda.md"
+          - Lord Hideo Takatsume: "shuigari/Lord Hideo Takatsume - The Smiling Shadow.md"
+          - Lord Ichiro Kagemura: "shuigari/Lord Ichiro Kagemura.md"
+          - NPC Names Reference: "shuigari/NPC Names Reference.md"
+      - Creatures & Yokai:
+          - Jorogumo (Spider Spirit): "shuigari/Jorogumo (Spider Spirit).md"
+          - Kitsune: "shuigari/Kitsune.md"
+          - Lesser Tengu: "shuigari/Lesser Tengu.md"
+          - Shikigami: "shuigari/Shikigami.md"
+          - Weakened Spectral Samurai: "shuigari/Weakened Spectral Samurai.md"
+          - Xanarash the Watchful: "shuigari/Xanarash the Watchful, Servant of Nev'ash.md"
+          - Elemental Beasts: "shuigari/Elemental Beasts of Shuigari.md"
+      - Adventures & Play:
+          - Adventure – Act I: "shuigari/Adventure - The Twice Cursed Act I.md"
+          - Adventure – Act II: "shuigari/Adventure - The Twice Cursed Act II.md"
+          - Adventure – Act III: "shuigari/Adventure - The Twice Cursed Act III.md"
+          - Arc 2 Blueprint: "shuigari/The Last Whisper of Steel - Arc 2.md"
+          - Twice-Cursed Samurai (Encounter): "shuigari/Twice-Cursed Samurai.md"
+          - Skill Challenge – Hisui no Mori: "shuigari/Skill Challenge - Navigating the Living Maze of Hisui no Mori.md"
+      - Meta & Reference:
+          - Shuigari World Anvil Topics: "shuigari/Shuigari World Anvil Topics.md"
+          - Military Structure: "shuigari/Military Structure of Shuigari.md"
   - Tags: tags.md
   - Resources:
       - NPC Names: resources/npc_names.md
