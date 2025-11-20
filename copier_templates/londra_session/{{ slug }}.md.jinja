@@ -1,0 +1,60 @@
+---
+title: "Londra: {{ session_number }}"
+date: {{ '%Y-%m-%d' | strftime }}
+tags: [londra]
+summary: "{{ summary }}"
+---
+
+_{{ summary }}_
+
+<!-- more -->
+
+{% if include_overview %}
+## Overview
+
+<!-- Brief overview of the session's main events and outcomes -->
+
+{% endif %}
+## Session Notes
+
+<!-- Detailed session notes, recap, and important events -->
+
+{% if session_type == "regular" %}
+## During the Session (recap)
+
+<!-- More structured recap of session events -->
+
+{% endif %}
+{% if include_stars_wishes %}
+## Stars and Wishes (end of session)
+
+### Stars
+
+<!-- What went well this session -->
+
+### Wishes
+
+<!-- What could be improved -->
+
+### Additional Notes
+
+<!-- Any other feedback or observations -->
+
+{% endif %}
+{% if include_downtime %}
+## Downtime
+
+<!-- Downtime activities and character actions between sessions -->
+
+{% endif %}
+## Notes
+
+<!-- Additional notes, NPC information, plot threads, etc. -->
+
+### Information about my party
+
+- **Vareth** - <!-- Player info/rumors -->
+- **Thistle** - <!-- Player info/rumors -->  
+- **Espantos** - <!-- Player info/rumors -->
+- **Ish'Ta** - <!-- Player info/rumors -->
+- **Dr. Elias Varrin** - <!-- Player info/rumors -->

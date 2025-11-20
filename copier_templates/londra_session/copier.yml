@@ -1,0 +1,40 @@
+_subdirectory: .
+
+session_number:
+  type: str
+  help: Session number (e.g., "01", "02", "03", "01D" for downtime)
+  default: "01"
+
+slug:
+  type: str
+  help: Filename for the post (without extension)
+  default: "{{ session_number | lower }}"
+
+summary:
+  type: str
+  help: Short summary for the session
+  default: ""
+
+session_type:
+  type: str
+  help: Type of session
+  choices:
+    - regular
+    - downtime
+    - special
+  default: regular
+
+include_overview:
+  type: bool
+  help: Include Overview section (common for early sessions)
+  default: true
+
+include_stars_wishes:
+  type: bool
+  help: Include Stars and Wishes section (for feedback)
+  default: false
+
+include_downtime:
+  type: bool
+  help: Include Downtime section
+  default: true

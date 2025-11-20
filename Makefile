@@ -1,5 +1,5 @@
 # D&D Notes Site Makefile
-.PHONY: help install build serve clean docker-build docker-serve docker-stop docker-logs new-post new-session
+.PHONY: help install build serve clean docker-build docker-serve docker-stop docker-logs new-post new-session new-londra-session
 
 # Default target
 help:
@@ -12,8 +12,9 @@ help:
 	@echo "  clean        Clean build artifacts"
 	@echo ""
 	@echo "Content Creation:"
-	@echo "  new-post     Create a new post using copier template"
-	@echo "  new-session  Create a new session prep using copier template"
+	@echo "  new-post          Create a new post using copier template"
+	@echo "  new-session       Create a new session prep using copier template"
+	@echo "  new-londra-session Create a new Londra session post using copier template"
 	@echo ""
 	@echo "Docker Development:"
 	@echo "  docker-build       Build Docker image for the site"
@@ -86,8 +87,12 @@ docker-shell:
 # Content creation commands
 new-post:
 	@echo "Creating new post..."
-	copier copier_templates/post .
+	copier copy copier_templates/post docs/posts
 
 new-session:
 	@echo "Creating new session prep..."
-	copier copier_templates/session_prep .
+	copier copy copier_templates/session_prep docs/planning
+
+new-londra-session:
+	@echo "Creating new Londra session post..."
+	copier copy copier_templates/londra_session docs/posts
