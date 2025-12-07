@@ -1,5 +1,0 @@
-# Military and Warfare
-
-
----
-

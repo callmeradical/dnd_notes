@@ -1,5 +1,0 @@
-# Factions of Shuigari
-
-
----
-

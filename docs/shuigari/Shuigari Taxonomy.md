@@ -45,7 +45,7 @@ This taxonomy records how campaign material for **Shuigari** is organised. Use t
 
 ## 8. Meta & Reference
 - Development references: [Shuigari World Anvil Topics](Shuigari%20World%20Anvil%20Topics.md), [Military Structure of Shuigari](Military%20Structure%20of%20Shuigari.md)
-- Legacy exports are stored in [`docs/shuigari/_legacy/`](./_legacy/) for archival comparison.
+- Legacy exports are stored in `docs/shuigari/_legacy/` for archival comparison.
 
 ---
 

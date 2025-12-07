@@ -1,5 +1,0 @@
-# The Islands of Shuigari
-
-
----
-

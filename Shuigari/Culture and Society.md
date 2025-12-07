@@ -1,5 +1,0 @@
-# Culture and Society
-
-
----
-

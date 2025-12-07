@@ -1,5 +1,0 @@
-# Shuganese Culture
-
-
----
-
