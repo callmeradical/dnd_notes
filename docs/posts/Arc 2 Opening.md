@@ -1,3 +1,10 @@
+---
+title: "TLWoS: Arc 2 Opening – Road to Takashima"
+date: 2025-11-26
+tags: [tlwos, arc-2, session, takashima]
+summary: "Session-ready beats for launching Arc 2 on the road to Takashima."
+---
+
 # Arc 2 Opening: The Road to Takashima
 
 ## Session Setup
