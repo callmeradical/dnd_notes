@@ -1,5 +1,6 @@
 ---
 title: "TSITE Post Session 09.2025 - Campaign Update"
+date: 2025-12-18
 tags:
   - shadow-in-the-empire
   - session-notes
@@ -175,5 +176,4 @@ With the Black Dawn as mobile base and Newthrone intelligence gathered, the part
 
 ---
 
-← [Back to The Shadow in the Empire](index.md)
-
+← [Back to The Shadow in the Empire](../campaigns/shadow-in-the-empire/index.md)

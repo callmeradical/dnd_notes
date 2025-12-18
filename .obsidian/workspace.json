@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/shuigari/NPCs/Kazuya.md",
+                "file": "docs/shuigari/Takashima City - Districts and Locations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kazuya"
+              "title": "Takashima City - Districts and Locations"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "genji",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/posts/00.md",
+                "file": "docs/shuigari/Takashima City - Districts and Locations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 00"
+              "title": "Backlinks for Takashima City - Districts and Locations"
             }
           },
           {
@@ -169,46 +170,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d57167a50fd7003b",
+  "active": "5983c62a972e39c2",
   "lastOpenFiles": [
     "site/search/search_index.json",
     "site/search",
+    "site/page/2/index.html",
+    "site/page/2",
+    "site/page",
+    "site/archive/2025/page/2/index.html",
+    "site/archive/2025/page/2",
+    "site/archive/2025/page",
     "site/archive/2025/index.html",
     "site/archive/2025",
     "site/archive",
-    "site/shuigari/_legacy/twice-cursed/index.html",
-    "site/shuigari/_legacy/twice-cursed",
-    "site/shuigari/_legacy/tsurogami/index.html",
-    "site/shuigari/_legacy/tsurogami",
-    "site/shuigari/_legacy/the-obsidian-circle/index.html",
-    "site/shuigari/_legacy/the-obsidian-circle",
     "site/assets/images/favicon.png",
     "site/assets/dnd-ampersand.png",
-    "docs/resources/index.md",
-    "docs/campaigns/shadow-in-the-empire/exploration/index.md",
-    "docs/campaigns/shadow-in-the-empire/encounters/index.md",
-    "docs/shuigari/Writing Systems and Record-Keeping.md",
-    "docs/shuigari/The Obsidian Circle 1.md",
-    "docs/shuigari/The Obsidian Circle - Organization.md",
-    "docs/shuigari/The Hidden Petal Society.md",
-    "docs/shuigari/Takashima City - Districts and Locations.md",
-    "docs/shuigari/Scientific and Technical Knowledge.md",
-    "docs/shuigari/Legal System and Courts.md",
-    "docs/shuigari/Education and Literacy.md",
-    "docs/shuigari/Currency and Trade Systems.md",
-    "docs/shuigari/CIVILIZATION_GAPS_SUMMARY.md",
-    "docs/shuigari/Shugane Social Orders.md",
-    "docs/shuigari/NPCs/Kaoru Sugimoto.md",
-    "docs/shuigari/NPCs/Tenka.md",
-    "docs/shuigari/NPCs/Kazuya.md",
-    "docs/planning/shuigari-arc-2/Arc 2 Master Plot Framework.md",
-    "docs/planning/shuigari-arc-2/Personal Backstory Questions - Knife Theory.md",
-    "docs/planning/shuigari-arc-2/Arc 2 Character Questionnaire.md",
-    "docs/shuigari/PCs/Yasei.md",
-    "docs/shuigari/PCs/Kanji.md",
-    "docs/shuigari/PCs/Thornbringer.md",
-    "docs/shuigari/PCs/Aoshi.md",
-    "docs/shuigari/PCs/Shigeo.md",
+    "docs/session-posts.md",
+    "docs/posts.md",
+    "docs/posts/posts-index.md",
+    "docs/posts/posts-readme.md",
+    "docs/posts/index.md",
+    "docs/posts/tsite-09-2025-post.md",
+    "docs/posts/tsite-10-2025.md",
+    "docs/posts/tsite-09-2025.md",
+    "docs/posts/tsite-01-2023.md",
+    "docs/posts/tlwos-019-recap.md",
+    "docs/posts/tlwos-019-strong-start.md",
+    "docs/posts/tlwos-019-prep.md",
+    "docs/posts/tlwos-019-session.md",
+    "docs/posts/tlwos-018-arc-2-opening.md",
+    "docs/posts/londra-13.md",
+    "docs/posts/londra-06.md",
+    "docs/posts/londra-05.md",
+    "docs/posts/londra-04.md",
+    "docs/posts/londra-03.md",
+    "docs/posts/londra-02.md",
+    "docs/posts/londra-01.md",
+    "docs/posts/londra-00.md",
+    "docs/posts/Session-019-Recap.md",
+    "docs/posts/Session-019-Tea-House-Strong-Start.md",
+    "docs/posts/Session-019-The-Steel-Tablets-Summons.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]

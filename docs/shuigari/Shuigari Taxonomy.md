@@ -25,7 +25,7 @@ This taxonomy records how campaign material for **Shuigari** is organised. Use t
 ## 4. Factions, Powers & Mythic Threats
 - Allied & Rival Movements: [Emerging Factions of Shuigari](Emerging%20Factions%20of%20Shuigari.md)
 - Mortal Factions: [The Grey Tide](The%20Grey%20Tide.md), [The Obsidian Circle](The%20Obsidian%20Circle.md)
-- Primordial Entities & Cults: [Shindarasu](Shindarasu.md), [Tsurogami, the Woven Tyrant](Tsurogami%2C%20the%20Woven%20Tyrant.md), [The Twice Cursed Samurai](The%20Twice%20Cursed%20Samurai.md)
+- Primordial Entities & Cults: [Shindarasu](Shindarasu.md), Tsurogami, the Woven Tyrant, [The Twice Cursed Samurai](The%20Twice%20Cursed%20Samurai.md)
 
 ## 5. People & NPCs
 - Naming Support: [NPC Names Reference – Shuigari](NPC%20Names%20Reference.md)
@@ -36,7 +36,7 @@ This taxonomy records how campaign material for **Shuigari** is organised. Use t
 ## 6. Creatures & Yokai
 - Elemental Manifestations: [Elemental Beasts of Shuigari](Elemental%20Beasts%20of%20Shuigari.md)
 - Yokai Profiles: [Jorogumo (Spider Spirit)](Jorogumo%20%28Spider%20Spirit%29.md), [Kitsune](Kitsune.md), [Lesser Tengu](Lesser%20Tengu.md), [Shikigami](Shikigami.md), [Weakened Spectral Samurai](Weakened%20Spectral%20Samurai.md), [Xanarash the Watchful, Servant of Nev'ash](Xanarash%20the%20Watchful%2C%20Servant%20of%20Nev%27ash.md)
-- Legendary Creatures: [Tsurogami the Woven Tyrant](Tsurogami%20the%20Woven%20Tyrant.md) (alias note) and other race-specific lore captured above.
+- Legendary Creatures: Tsurogami the Woven Tyrant (alias note) and other race-specific lore captured above.
 
 ## 7. Adventures & Narrative Beats
 - Campaign Planning: [The Last Whisper of Steel – Arc 2 Blueprint](The%20Last%20Whisper%20of%20Steel%20-%20Arc%202.md)

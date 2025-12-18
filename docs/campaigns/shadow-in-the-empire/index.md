@@ -7,10 +7,10 @@ time skip.
 
 ## Session Notes
 
-- [TSITE Session 10.2025](session-10-2025.md) - [Add brief description here]
-- [TSITE Session 09.2025](session-09-2025.md) - Aufgeben grants freedom,
+- [TSITE Session 10.2025](../../posts/tsite-10-2025.md) - [Add brief description here]
+- [TSITE Session 09.2025](../../posts/tsite-09-2025.md) - Aufgeben grants freedom,
   Fellion reveals destination options, party chooses their path forward
-- [TSITE Post-Session 09.2025](post-session-09-2025.md) - The Black Dawn
+- [TSITE Post-Session 09.2025](../../posts/tsite-09-2025-post.md) - The Black Dawn
   submarine, journey to Newthrone, factional politics, and the theft of the
   Oathfang
 

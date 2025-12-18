@@ -27,6 +27,39 @@ markdown_extensions:
   - toc:
       permalink: true
   - pymdownx.superfences
+exclude_docs: |
+  shuigari/CIVILIZATION_GAPS_SUMMARY.md
+  shuigari/Currency and Trade Systems.md
+  shuigari/Education and Literacy.md
+  shuigari/Hideos-Steel-Tablet-Last-Will.md
+  shuigari/Iron-Rest-Inn-Mama-Tora.md
+  shuigari/Kaoru-Arrival-REVISED-Bargain.md
+  shuigari/Kaoru-Starcall-Table-Scene.md
+  shuigari/Legal System and Courts.md
+  shuigari/Scientific and Technical Knowledge.md
+  shuigari/Takashima City - Districts and Locations.md
+  shuigari/The Hidden Petal Society.md
+  shuigari/The Obsidian Circle - Organization.md
+  shuigari/The Obsidian Circle 1.md
+  shuigari/Tsurogami the Woven Tyrant.md
+  shuigari/Writing Systems and Record-Keeping.md
+  shuigari/Events/The Starcall Table.md
+  shuigari/NPCs/Aiko Hayashi.md
+  shuigari/NPCs/Daisuke Silver Pockets Inoue.md
+  shuigari/NPCs/Haruki The Boar Takeda.md
+  shuigari/NPCs/Kaoru Sugimoto.md
+  shuigari/NPCs/Kazuya.md
+  shuigari/NPCs/Tenka.md
+  shuigari/NPCs/Twice Cursed Samurai.md
+  shuigari/Organizations/Wild Lotus Society.md
+  shuigari/PCs/Aoshi.md
+  shuigari/PCs/Fox.md
+  shuigari/PCs/Iseri Tetsuo.md
+  shuigari/PCs/Kanji.md
+  shuigari/PCs/Shigeo.md
+  shuigari/PCs/Thornbringer.md
+  shuigari/PCs/Yasei.md
+  shuigari/_legacy/*
 plugins:
   - search
   - tags
@@ -37,11 +70,69 @@ plugins:
       include_dir: .
 nav:
   - Session Notes: index.md
+  - Posts: session-posts.md
   - Campaigns:
       - campaigns/index.md
       - Londra: campaigns/londra/index.md
-      - The Last Whisper of Steel: campaigns/tlwos/index.md
-      - The Shadow in the Empire: campaigns/shadow-in-the-empire/index.md
+      - The Last Whisper of Steel:
+          - campaigns/tlwos/index.md
+          - Hideo's Steel Tablet - Last Will: campaigns/tlwos/Hideos-Steel-Tablet-Last-Will.md
+          - Iron Rest Inn - Mama Tora: campaigns/tlwos/Iron-Rest-Inn-Mama-Tora.md
+          - Kaoru Starcall Table Scene: campaigns/tlwos/Kaoru-Starcall-Table-Scene.md
+      - The Shadow in the Empire:
+          - campaigns/shadow-in-the-empire/index.md
+          - Migration Tracker: campaigns/shadow-in-the-empire/migration-tracker.md
+          - Encounters:
+              - Index: campaigns/shadow-in-the-empire/encounters/index.md
+              - Q'barra Core Destinations: campaigns/shadow-in-the-empire/encounters/destination_encounter_themes.md
+              - Q'barra & Valenar Frontier: campaigns/shadow-in-the-empire/encounters/qbarra-valenar-frontier-encounters.md
+              - Valenar History: campaigns/shadow-in-the-empire/encounters/valenar-history.md
+          - Exploration:
+              - Index: campaigns/shadow-in-the-empire/exploration/index.md
+              - Black Dawn Exploration: campaigns/shadow-in-the-empire/exploration/black_dawn_exploration.md
+              - Encounter Statblocks: campaigns/shadow-in-the-empire/exploration/encounter-statblocks.md
+              - Qbarran Exploration: campaigns/shadow-in-the-empire/exploration/qbarran_exploration.md
+              - Qbarran Exploration Ruins: campaigns/shadow-in-the-empire/exploration/qbarran_exploration_ruins.md
+              - Encounters:
+                  - Hostile Factions:
+                      - Cannith Scavenger Team: campaigns/shadow-in-the-empire/exploration/encounters/hostile-factions/cannith-scavenger-team.md
+                      - Colonial Bandits: campaigns/shadow-in-the-empire/exploration/encounters/hostile-factions/colonial-bandits.md
+                      - Dragonborn Clan Patrol: campaigns/shadow-in-the-empire/exploration/encounters/hostile-factions/dragonborn-clan-patrol.md
+                      - Exiled Brelish Soldiers: campaigns/shadow-in-the-empire/exploration/encounters/hostile-factions/exiled-brelish-soldiers.md
+                      - Lizardfolk Hunting Party: campaigns/shadow-in-the-empire/exploration/encounters/hostile-factions/lizardfolk-hunting-party.md
+                      - Mercenary Salvage Crew: campaigns/shadow-in-the-empire/exploration/encounters/hostile-factions/mercenary-salvage-crew.md
+                      - Warforged Free Company: campaigns/shadow-in-the-empire/exploration/encounters/hostile-factions/warforged-free-company.md
+                      - Wyrm Cult Proselytizers: campaigns/shadow-in-the-empire/exploration/encounters/hostile-factions/wyrm-cult-proselytizers.md
+                  - Lost World:
+                      - Ancient Gatekeeper Menhir: campaigns/shadow-in-the-empire/exploration/encounters/lost-world/ancient-gatekeeper-menhir.md
+                      - Collapsed Cannith Mining Site: campaigns/shadow-in-the-empire/exploration/encounters/lost-world/collapsed-cannith-mining-site.md
+                      - Crashed Lyrandar Airship: campaigns/shadow-in-the-empire/exploration/encounters/lost-world/crashed-lyrandar-airship.md
+                      - Draconic Stone Glyphs: campaigns/shadow-in-the-empire/exploration/encounters/lost-world/draconic-stone-glyphs.md
+                      - Overgrown Brelish Outpost: campaigns/shadow-in-the-empire/exploration/encounters/lost-world/overgrown-brelish-outpost.md
+                      - Phosphorescent Cavern: campaigns/shadow-in-the-empire/exploration/encounters/lost-world/phosphorescent-cavern.md
+                      - Ruined Dragonshard Temple: campaigns/shadow-in-the-empire/exploration/encounters/lost-world/ruined-dragonshard-temple.md
+                      - Vine-Choked Lizardfolk Shrine: campaigns/shadow-in-the-empire/exploration/encounters/lost-world/vine-choked-lizardfolk-shrine.md
+                  - Wildlife:
+                      - Basilisk: campaigns/shadow-in-the-empire/exploration/encounters/wildlife/basilisk.md
+                      - Giant Constrictor Snake: campaigns/shadow-in-the-empire/exploration/encounters/wildlife/giant-constrictor-snake.md
+                      - Hydra: campaigns/shadow-in-the-empire/exploration/encounters/wildlife/hydra.md
+                      - Jungle Cat: campaigns/shadow-in-the-empire/exploration/encounters/wildlife/jungle-cat.md
+                      - Pteranodon Flock: campaigns/shadow-in-the-empire/exploration/encounters/wildlife/pteranodon-flock.md
+                      - Spinosaurus: campaigns/shadow-in-the-empire/exploration/encounters/wildlife/spinosaurus.md
+                      - Swarm Stinging Insects: campaigns/shadow-in-the-empire/exploration/encounters/wildlife/swarm-stinging-insects.md
+                      - Velociraptor Pack: campaigns/shadow-in-the-empire/exploration/encounters/wildlife/velociraptor-pack.md
+          - NPCs:
+              - Fellion Scheming Monologue: campaigns/shadow-in-the-empire/npcs/fellion_scheming_monologue.md
+              - Talking Points: campaigns/shadow-in-the-empire/npcs/talking_points.md
+          - Outposts:
+              - Index: campaigns/shadow-in-the-empire/outposts/outpost-index.md
+              - Emberwatch Post: campaigns/shadow-in-the-empire/outposts/emberwatch-post.md
+              - Shardspike Camp: campaigns/shadow-in-the-empire/outposts/shardspike-camp.md
+              - Stonecoil Refuge: campaigns/shadow-in-the-empire/outposts/stonecoil-refuge.md
+              - The Brass Anvil: campaigns/shadow-in-the-empire/outposts/the-brass-anvil.md
+              - The Salted Helm: campaigns/shadow-in-the-empire/outposts/the-salted-helm.md
+              - The Silver Fang Lodge: campaigns/shadow-in-the-empire/outposts/the-silver-fang-lodge.md
+              - Wyrmwatch Tower: campaigns/shadow-in-the-empire/outposts/wyrmwatch-tower.md
   - Shuigari:
       - Taxonomy: "shuigari/Shuigari Taxonomy.md"
       - Overview & Campaign:
@@ -121,6 +212,7 @@ nav:
           - Military Structure: "shuigari/Military Structure of Shuigari.md"
   - Tags: tags.md
   - Resources:
+      - Resources Home: resources/index.md
       - NPC Names: resources/npc_names.md
       - DM Screen: resources/dm_screen.md
       - Downtime: resources/downtime.md
@@ -128,10 +220,36 @@ nav:
       - Spells: resources/spells.md
       - Bastions: resources/bastions.md
       - Worldbuilding: resources/worldbuilding.md
-      - Tools: resources/tools/index.md
       - Tips: resources/tips.md
+      - Tools:
+          - Tools Index: resources/tools/index.md
+          - Experience: resources/tools/experience.md
+          - NPC Names (Tool): resources/tools/npc_names.md
+      - Templates:
+          - GM Encounter Notes Template: resources/templates/gm-encounter-notes-template.md
+          - NPC Statblock Template: resources/templates/npc-statblock-template.md
+      - Prompts:
+          - Session Planner Prompt: resources/prompts/session_planner.md
   - Planning:
-      - Templates: planning/templates/index.md
-      - TLWOS Arc 2: planning/tlwos-arc-2/index.md
-      - Utilities: planning/utilities/index.md
-      - Future Campaigns: planning/future-campaigns/index.md
+      - Templates:
+          - planning/templates/index.md
+          - Session Template: planning/templates/session_template.md
+      - TLWOS Arc 2:
+          - planning/tlwos-arc-2/index.md
+          - Shuigari NPC Names: planning/tlwos-arc-2/Shuigari-NPC-Names.md
+          - TLWoS Complete Campaign Summary: planning/tlwos-arc-2/TLWoS-Complete-Campaign-Summary.md
+          - World of Toriyama: planning/tlwos-arc-2/World-of-Toriyama.md
+      - Shuigari Arc 2:
+          - Arc 2 Opening: planning/shuigari-arc-2/Arc 2 Opening.md
+          - Arc 2 Master Plot Framework: planning/shuigari-arc-2/Arc 2 Master Plot Framework.md
+          - Arc 2 Character Questionnaire: planning/shuigari-arc-2/Arc 2 Character Questionnaire.md
+          - Personal Backstory Questions - Knife Theory: planning/shuigari-arc-2/Personal Backstory Questions - Knife Theory.md
+      - Utilities:
+          - planning/utilities/index.md
+          - Dungeon 001: planning/utilities/dungeon_001.md
+      - Future Campaigns:
+          - planning/future-campaigns/index.md
+          - Stormreach:
+              - Campaign 3 Planner: planning/future-campaigns/stormreach/campaign_3_planner.md
+              - Campaign Ideas: planning/future-campaigns/stormreach/campaign_ideas.md
+              - For the Players: planning/future-campaigns/stormreach/for_the_players.md

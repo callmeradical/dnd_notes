@@ -525,7 +525,7 @@ Areas of effect created by spells or other magic can't extend into the aura, and
 Ongoing spells, except those cast by an Artifact or a deity, are suppressed in the area. While an effect is suppressed, it doesn't function, but the time it spends suppressed counts against its duration.
 Dispel Magic has no effect on the aura, and the auras created by different Antimagic Field spells don't nullify each other.
 
-## Antipathy/Sympathy
+## Antipathy/Sympathy {: #antipathy-sympathy}
 *Level:* Level 8 Enchantment
 *Casting Time:* 1 hour
 *Range:* 60 feet
@@ -767,7 +767,7 @@ You touch a creature, which must succeed on a Wisdom saving throw or become curs
 - If you deal damage to the target with an attack roll or a spell, the target takes an extra 1d8 Necrotic damage.
 **Using a Higher-Level Spell Slot.** If you cast this spell using a level 4 spell slot, you can maintain Concentration on it for up to 10 minutes. If you use a level 5+ spell slot, the spell doesn't require Concentration, and the duration becomes 8 hours (level 5-6 slot) or 24 hours (level 7-8 slot). If you use a level 9 spell slot, the spell lasts until dispelled.
 
-## Bigby's Hand
+## Bigby's Hand {: #bigby-s-hand}
 *Level:* Level 5 Evocation
 *Casting Time:* 1 action
 *Range:* 120 feet
@@ -839,7 +839,7 @@ Alternatively, target a nonmagical plant that isn't a creature, such as a tree o
 The target hit by the strike takes an extra 3d8 Radiant damage from the attack, and the target has the Blinded condition until the spell ends. At the end of each of its turns, the Blinded target makes a Constitution saving throw, ending the spell on itself on a success.
 **Using a Higher-Level Spell Slot.** The extra damage increases by 1d8 for each spell slot level above 3.
 
-## Blindness/Deafness
+## Blindness/Deafness {: #blindness-deafness}
 *Level:* Level 2 Transmutation
 *Casting Time:* 1 action
 *Range:* 120 feet
@@ -1431,7 +1431,7 @@ One creature that you can see within range must succeed on a Wisdom saving throw
 A spectral crown appears on the Charmed target's head, and it must use its action before moving on each of its turns to make a melee attack against a creature other than itself that you mentally choose. The target can act normally on its turn if you choose no creature or if no creature is within its reach. The target repeats the save at the end of each of its turns, ending the spell on itself on a success.
 On your later turns, you must take the Magic action to maintain control of the target, or the spell ends.
 
-## Crusader's Mantle
+## Crusader's Mantle {: #crusader-s-mantle}
 *Level:* Level 3 Evocation
 *Casting Time:* 1 action
 *Range:* 30 feet
@@ -1749,7 +1749,7 @@ You have a telepathic link with the Charmed target while the two of you are on t
 You can command the target to take a Reaction but must take your own Reaction to do so.
 **Using a Higher-Level Spell Slot.** Your Concentration can last longer with a spell slot of level 6 (up to 10 minutes), 7 (up to 1 hour), or 8+ (up to 8 hours).
 
-## Dragon's Breath
+## Dragon's Breath {: #dragon-s-breath}
 *Level:* Level 2 Transmutation
 *Casting Time:* 1 bonus action
 *Range:* touch
@@ -1760,7 +1760,7 @@ You can command the target to take a Reaction but must take your own Reaction to
 You touch one willing creature, and choose Acid, Cold, Fire, Lightning, or Poison. Until the spell ends, the target can take a Magic action to exhale a 15-foot Cone. Each creature in that area makes a Dexterity saving throw, taking 3d6 damage of the chosen type on a failed save or half as much damage on a successful one.
 **Using a Higher-Level Spell Slot.** The damage increases by 1d6 for each spell slot level above 2.
 
-## Drawmij's Instant Summons
+## Drawmij's Instant Summons {: #drawmij-s-instant-summons}
 *Level:* Level 6 Conjuration
 *Casting Time:* 1 minute
 *Range:* touch
@@ -1862,7 +1862,7 @@ You exert control over the elements, creating one of the following effects withi
 You touch a creature and choose Strength, Dexterity, Intelligence, Wisdom, or Charisma. For the duration, the target has Advantage on ability checks using the chosen ability.
 **Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level above 2. You can choose a different ability for each target.
 
-## Enlarge/Reduce
+## Enlarge/Reduce {: #enlarge-reduce}
 *Level:* Level 2 Transmutation
 *Casting Time:* 1 action
 *Range:* 30 feet
@@ -1922,7 +1922,7 @@ When the spell ends, you return to the plane you left in the spot that correspon
 This spell ends instantly if you cast it while you are on the Ethereal Plane or a plane that doesn't border it, such as one of the Outer Planes.
 **Using a Higher-Level Spell Slot.** You can target up to three willing creatures (including yourself) for each spell slot level above 7. The creatures must be within 10 feet of you when you cast the spell.
 
-## Evard's Black Tentacles
+## Evard's Black Tentacles {: #evard-s-black-tentacles}
 *Level:* Level 4 Conjuration
 *Casting Time:* 1 action
 *Range:* 90 feet
@@ -2693,7 +2693,7 @@ You open a gateway to the Far Realm, a region infested with unspeakable horrors.
 Any creature that starts its turn in the area takes 2d6 Cold damage. Any creature that ends its turn there must succeed on a Dexterity saving throw or take 2d6 Acid damage from otherworldly tentacles.
 **Using a Higher-Level Spell Slot.** The Cold or Acid damage (your choice) increases by 1d6 for each spell slot level above 3.
 
-## Hunter's Mark
+## Hunter's Mark {: #hunter-s-mark}
 *Level:* Level 1 Divination
 *Casting Time:* 1 bonus action
 *Range:* 90 feet
@@ -2826,7 +2826,7 @@ When the swarm appears, each creature in it makes a Constitution saving throw, t
 A creature you touch has the Invisible condition until the spell ends. The spell ends early immediately after the target makes an attack roll, deals damage, or casts a spell.
 **Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level above 2.
 
-## Jallarzi's Storm of Radiance
+## Jallarzi's Storm of Radiance {: #jallarzi-s-storm-of-radiance}
 *Level:* Level 5 Evocation
 *Casting Time:* 1 action
 *Range:* 120 feet
@@ -2874,7 +2874,7 @@ Name or describe a famous person, place, or object. The spell brings to your min
 The lore might consist of important details, amusing revelations, or even secret lore that has never been widely known. The more information you already know about the thing, the more precise and detailed the information you receive is. That information is accurate but might be couched in figurative language or poetry, as determined by the DM.
 If the famous thing you chose isn't actually famous, you hear sad musical notes played on a trombone, and the spell fails.
 
-## Leomund's Secret Chest
+## Leomund's Secret Chest {: #leomund-s-secret-chest}
 *Level:* Level 4 Conjuration
 *Casting Time:* 1 action
 *Range:* touch
@@ -2886,7 +2886,7 @@ You hide a chest and all its contents on the Ethereal Plane. You must touch the 
 While the chest remains on the Ethereal Plane, you can take a Magic action and touch the replica to recall the chest. It appears in an unoccupied space on the ground within 5 feet of you. You can send the chest back to the Ethereal Plane by taking a Magic action to touch the chest and the replica.
 After 60 days, there is a cumulative Effect continues chance at the end of each day that the spell ends. The spell also ends if you cast this spell again or if the Tiny replica chest is destroyed. If the spell ends and the larger chest is on the Ethereal Plane, the chest remains there for you or someone else to find.
 
-## Leomund's Tiny Hut
+## Leomund's Tiny Hut {: #leomund-s-tiny-hut}
 *Level:* Level 3 Evocation
 *Casting Time:* 1 minute
 *Range:* 10 feet
@@ -3170,7 +3170,7 @@ You step into a stone object or surface large enough to fully contain your body,
 While merged with the stone, you can't see what occurs outside it, and any Wisdom (Perception) checks you make to hear sounds outside it are made with Disadvantage. You remain aware of the passage of time and can cast spells on yourself while merged in the stone. You can use 5 feet of movement to leave the stone where you entered it, which ends the spell. You otherwise can't move.
 Minor physical damage to the stone doesn't harm you, but its partial destruction or a change in its shape (to the extent that you no longer fit within it) expels you and deals 6d6 Force damage to you. The stone's complete destruction (or transmutation into a different substance) expels you and deals 50 Force damage to you. If expelled, you move into an unoccupied space closest to where you first entered and have the Prone condition.
 
-## Melf's Acid Arrow
+## Melf's Acid Arrow {: #melf-s-acid-arrow}
 *Level:* Level 2 Evocation
 *Casting Time:* 1 action
 *Range:* 90 feet
@@ -3333,7 +3333,7 @@ A silvery beam of pale light shines down in a 5-foot-radius, 40-foot-high Cylind
 When the Cylinder appears, each creature in it makes a Constitution saving throw. On a failed save, a creature takes 2d10 Radiant damage, and if the creature is shape-shifted (as a result of the Polymorph spell, for example), it reverts to its true form and can't shape-shift until it leaves the Cylinder. On a successful save, a creature takes half as much damage only. A creature also makes this save when the spell's area moves into its space and when it enters the spell's area or ends its turn there. A creature makes this save only once per turn.
 **Using a Higher-Level Spell Slot.** The damage increases by 1d10 for each spell slot level above 2.
 
-## Mordenkainen's Faithful Hound
+## Mordenkainen's Faithful Hound {: #mordenkainen-s-faithful-hound}
 *Level:* Level 4 Conjuration
 *Casting Time:* 1 action
 *Range:* 30 feet
@@ -3346,7 +3346,7 @@ No one but you can see the hound, and it is intangible and invulnerable. When a 
 At the start of each of your turns, the hound attempts to bite one enemy within 5 feet of it. That enemy must succeed on a Dexterity saving throw or take 4d8 Force damage.
 On your later turns, you can take a Magic action to move the hound up to 30 feet.
 
-## Mordenkainen's Magnificent Mansion
+## Mordenkainen's Magnificent Mansion {: #mordenkainen-s-magnificent-mansion}
 *Level:* Level 7 Conjuration
 *Casting Time:* 1 minute
 *Range:* 300 feet
@@ -3360,7 +3360,7 @@ You can create any floor plan you like for the dwelling, but it can't exceed 50 
 A staff of 100 near-transparent servants attends all who enter. You determine the appearance of these servants and their attire. They are invulnerable and obey your commands. Each servant can perform tasks that a human could perform, but they can't attack or take any action that would directly harm another creature. Thus the servants can fetch things, clean, mend, fold clothes, light fires, serve food, pour wine, and so on. The servants can't leave the dwelling.
 When the spell ends, any creatures or objects left inside the extradimensional space are expelled into the unoccupied spaces nearest to the entrance.
 
-## Mordenkainen's Private Sanctum
+## Mordenkainen's Private Sanctum {: #mordenkainen-s-private-sanctum}
 *Level:* Level 4 Abjuration
 *Casting Time:* 10 minute
 *Range:* 120 feet
@@ -3379,7 +3379,7 @@ When you cast the spell, you decide what sort of security the spell provides, ch
 Casting this spell on the same spot every day for 365 days makes the spell last until dispelled.
 **Using a Higher-Level Spell Slot.** You can increase the size of the Cube by 100 feet for each spell slot level above 4.
 
-## Mordenkainen's Sword
+## Mordenkainen's Sword {: #mordenkainen-s-sword}
 *Level:* Level 7 Evocation
 *Casting Time:* 1 action
 *Range:* 90 feet
@@ -3414,7 +3414,7 @@ Similarly, this spell doesn't directly affect plant growth. The moved earth carr
 
 For the duration, you hide a target that you touch from Divination spells. The target can be a willing creature, or it can be a place or an object no larger than 10 feet in any dimension. The target can't be targeted by any Divination spell or perceived through magical scrying sensors.
 
-## Nystul's Magic Aura
+## Nystul's Magic Aura {: #nystul-s-magic-aura}
 *Level:* Level 2 Illusion
 *Casting Time:* 1 action
 *Range:* touch
@@ -3426,7 +3426,7 @@ With a touch, you place an illusion on a willing creature or an object that isn'
 **Mask (Creature).** Choose a creature type other than the target's actual type. Spells and other magical effects treat the target as if it were a creature of the chosen type.
 **False Aura (Object).** You change the way the target appears to spells and magical effects that detect magical auras, such as Detect Magic. You can make a nonmagical object appear magical, make a magic item appear nonmagical, or change the object's aura so that it appears to belong to a school of magic you choose.
 
-## Otiluke's Freezing Sphere
+## Otiluke's Freezing Sphere {: #otiluke-s-freezing-sphere}
 *Level:* Level 6 Evocation
 *Casting Time:* 1 action
 *Range:* 300 feet
@@ -3439,7 +3439,7 @@ If the globe strikes a body of water, it freezes the water to a depth of 6 inche
 You can refrain from firing the globe after completing the spell's casting. If you do so, a globe about the size of a sling bullet, cool to the touch, appears in your hand. At any time, you or a creature you give the globe to can throw the globe (to a range of 40 feet) or hurl it with a sling (to the sling's normal range). It shatters on impact, with the same effect as a normal casting of the spell. You can also set the globe down without shattering it. After 1 minute, if the globe hasn't already shattered, it explodes.
 **Using a Higher-Level Spell Slot.** The damage increases by 1d6 for each spell slot level above 6.
 
-## Otiluke's Resilient Sphere
+## Otiluke's Resilient Sphere {: #otiluke-s-resilient-sphere}
 *Level:* Level 4 Abjuration
 *Casting Time:* 1 action
 *Range:* 30 feet
@@ -3452,7 +3452,7 @@ Nothing—not physical objects, energy, or other spell effects—can pass throug
 The sphere is weightless and just large enough to contain the creature or object inside. An enclosed creature can take an action to push against the sphere's walls and thus roll the sphere at up to half the creature's Speed. Similarly, the globe can be picked up and moved by other creatures.
 A Disintegrate spell targeting the globe destroys it without harming anything inside.
 
-## Otto's Irresistible Dance
+## Otto's Irresistible Dance {: #otto-s-irresistible-dance}
 *Level:* Level 6 Enchantment
 *Casting Time:* 1 action
 *Range:* 30 feet
@@ -3793,7 +3793,7 @@ The creature returns to life with 1 Hit Point. This spell also neutralizes any p
 This spell closes all mortal wounds, but it doesn't restore missing body parts. If the creature is lacking body parts or organs integral for its survival—its head, for instance—the spell automatically fails.
 Coming back from the dead is an ordeal. The target takes a -4 penalty to D20 Tests. Every time the target finishes a Long Rest, the penalty is reduced by 1 until it becomes 0.
 
-## Rary's Telepathic Bond
+## Rary's Telepathic Bond {: #rary-s-telepathic-bond}
 *Level:* Level 5 Divination
 *Casting Time:* 1 action
 *Range:* 30 feet
@@ -4565,7 +4565,7 @@ Once triggered, the glyph glows, filling a 60-foot-radius Sphere with Dim Light 
 You cause psychic energy to erupt at a point within range. Each creature in a 20-foot-radius Sphere centered on that point makes an Intelligence saving throw, taking 8d6 Psychic damage on a failed save or half as much damage on a successful one.
 On a failed save, a target also has muddled thoughts for 1 minute. During that time, it subtracts 1d6 from all its attack rolls and ability checks, as well as any Constitution saving throws to maintain Concentration. The target makes an Intelligence saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-## Tasha's Bubbling Cauldron
+## Tasha's Bubbling Cauldron {: #tasha-s-bubbling-cauldron}
 *Level:* Level 6 Conjuration
 *Casting Time:* 1 action
 *Range:* 5 feet
@@ -4577,7 +4577,7 @@ You conjure a claw-footed cauldron filled with bubbling liquid. The cauldron app
 The liquid in the cauldron duplicates the properties of a Common or an Uncommon potion of your choice (such as a Potion of Healing). As a Bonus Action, you or an ally can reach into the cauldron and withdraw one potion of that kind. The potion is contained in a vial that disappears when the potion is consumed. The cauldron can produce a number of these potions equal to your spellcasting ability modifier (minimum 1). When the last of these potions is withdrawn from the cauldron, the cauldron disappears, and the spell ends.
 Potions obtained from the cauldron that aren't consumed disappear when you cast this spell again.
 
-## Tasha's Hideous Laughter
+## Tasha's Hideous Laughter {: #tasha-s-hideous-laughter}
 *Level:* Level 1 Enchantment
 *Casting Time:* 1 action
 *Range:* 30 feet
@@ -4657,7 +4657,7 @@ Many major temples, guildhalls, and other important places have permanent telepo
 When you first gain the ability to cast this spell, you learn the sigil sequences for two destinations on the Material Plane, determined by the DM. You might learn additional sigil sequences during your adventures. You can commit a new sigil sequence to memory after studying it for 1 minute.
 You can create a permanent teleportation circle by casting this spell in the same location every day for 365 days.
 
-## Tenser's Floating Disk
+## Tenser's Floating Disk {: #tenser-s-floating-disk}
 *Level:* Level 1 Conjuration
 *Casting Time:* 1 action
 *Range:* 30 feet
@@ -5105,7 +5105,7 @@ You must designate a location, such as a temple, as a sanctuary by casting this 
 The target takes an extra 1d6 Necrotic damage from the attack, and it must succeed on a Wisdom saving throw or have the Frightened condition until the spell ends. At the end of each of its turns, the Frightened target repeats the save, ending the spell on itself on a success.
 **Using a Higher-Level Spell Slot.** The damage increases by 1d6 for each spell slot level above 1.
 
-## Yolande's Regal Presence
+## Yolande's Regal Presence {: #yolande-s-regal-presence}
 *Level:* Level 5 Enchantment
 *Casting Time:* 1 action
 *Range:* 10 feet
