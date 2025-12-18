@@ -70,7 +70,7 @@ plugins:
       include_dir: .
 nav:
   - Session Notes: index.md
-  - Posts: session-posts.md
+  - Session Notes: session-notes.md
   - Campaigns:
       - campaigns/index.md
       - Londra: campaigns/londra/index.md
@@ -240,7 +240,6 @@ nav:
           - TLWoS Complete Campaign Summary: planning/tlwos-arc-2/TLWoS-Complete-Campaign-Summary.md
           - World of Toriyama: planning/tlwos-arc-2/World-of-Toriyama.md
       - Shuigari Arc 2:
-          - Arc 2 Opening: planning/shuigari-arc-2/Arc 2 Opening.md
           - Arc 2 Master Plot Framework: planning/shuigari-arc-2/Arc 2 Master Plot Framework.md
           - Arc 2 Character Questionnaire: planning/shuigari-arc-2/Arc 2 Character Questionnaire.md
           - Personal Backstory Questions - Knife Theory: planning/shuigari-arc-2/Personal Backstory Questions - Knife Theory.md

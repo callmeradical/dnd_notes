@@ -2,7 +2,7 @@
 
 **Campaign Setting:** Shuigari  
 **Adventure:** The Twice Cursed – Act I – Master Hideo’s Funeral  
-#npc #dungeonsanddragons #tlwos
+#npc #dungeonsanddragons #tlw
 
 ## Profile
 - Minor member of the Grey Tide serving as scout and smuggler.

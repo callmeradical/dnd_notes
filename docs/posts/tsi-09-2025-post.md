@@ -1,8 +1,9 @@
 ---
-title: "TSITE Post Session 09.2025 - Campaign Update"
+title: "TSI Post Session 09.2025 - Campaign Update"
 date: 2025-12-18
 tags:
   - shadow-in-the-empire
+  - tsi
   - session-notes
   - newthrone
   - black-dawn

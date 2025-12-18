@@ -1,7 +1,7 @@
 ---
 title: "Session 019: Strong Start - The Whispering Willow Tea House"
 date: 2025-12-18
-tags: [session-notes, tlwos]
+tags: [session-notes, tlw]
 draft: true
 ---
 

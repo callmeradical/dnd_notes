@@ -1,7 +1,7 @@
 ---
 title: "Londra: 03"
 date: 2025-08-27
-tags: [londra]
+tags: [lon]
 summary: "The Hand That Holds The Spark"
 ---
 

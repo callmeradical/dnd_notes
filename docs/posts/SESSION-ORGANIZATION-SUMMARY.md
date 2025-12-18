@@ -1,7 +1,7 @@
 ---
 title: Session Notes Organization - Summary
 date: 2025-12-18
-tags: [meta, session-log, tlwos]
+tags: [meta, session-log, tlw]
 summary: Status and guidance for organizing TLWOS session notes.
 draft: true
 ---
@@ -29,8 +29,8 @@ draft: true
 - **posts-readme.md** created in posts directory with template and instructions
 
 ### ✅ Files Available for Download
-1. **tlwos-018-arc-2-opening.md** - Ready to add to Obsidian
-2. **tlwos-019-session.md** - Ready to add to Obsidian (WITH RENJI CORRECTION)
+1. **tlw-018-arc-2-opening.md** - Ready to add to Obsidian
+2. **tlw-019-session.md** - Ready to add to Obsidian (WITH RENJI CORRECTION)
 3. **posts-readme.md** - Instructions and template for future sessions
 
 ---
@@ -76,8 +76,8 @@ The individual session notes for Sessions 000-017 don't exist as separate files 
 4. Paste the content
 
 ### Current Obsidian Status
-- ✅ `docs/posts/tlwos-018-arc-2-opening.md` - Added successfully
-- ⏳ `docs/posts/tlwos-019-session.md` - Needs to be added manually
+- ✅ `docs/posts/tlw-018-arc-2-opening.md` - Added successfully
+- ⏳ `docs/posts/tlw-019-session.md` - Needs to be added manually
 - ⏳ posts-readme.md in posts directory - Needs to be added manually
 
 ---
@@ -95,7 +95,7 @@ date_played: "YYYY-MM-DD"
 campaign: "The Last Whisper of Steel"
 tags:
   - session-log
-  - tlwos
+  - tlw
   - arc-N
   - [other relevant tags]
 ---
@@ -165,13 +165,13 @@ Each session should include:
 ## File Locations
 
 **Downloaded/Available:**
-- `/mnt/user-data/outputs/tlwos-018-arc-2-opening.md`
-- `/mnt/user-data/outputs/tlwos-019-session.md` (with Renji correction)
+- `/mnt/user-data/outputs/tlw-018-arc-2-opening.md`
+- `/mnt/user-data/outputs/tlw-019-session.md` (with Renji correction)
 - `/mnt/user-data/outputs/posts-readme.md`
 
 **Obsidian Vault Target:**
-- `docs/posts/tlwos-018-arc-2-opening.md` ✅ Added
-- `docs/posts/tlwos-019-session.md` ⏳ Pending
+- `docs/posts/tlw-018-arc-2-opening.md` ✅ Added
+- `docs/posts/tlw-019-session.md` ⏳ Pending
 - `docs/posts/posts-readme.md` ⏳ Pending
 
 ---
@@ -186,4 +186,4 @@ Each session should include:
 ⏳ **Sessions 000-017** - Need to be created from campaign summary  
 ⏳ **Manual Obsidian sync** - Session 019 and README need to be added  
 
-**Next action:** Add tlwos-019-session.md to your Obsidian vault at `docs/posts/tlwos-019-session.md`
+**Next action:** Add tlw-019-session.md to your Obsidian vault at `docs/posts/tlw-019-session.md`

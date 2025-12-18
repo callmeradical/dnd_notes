@@ -1,7 +1,7 @@
 ---
 title: "Londra: 02"
 date: 2025-08-20
-tags: [londra]
+tags: [lon]
 summary: "The First Asignment: The Mask and the Mongrel"
 ---
 

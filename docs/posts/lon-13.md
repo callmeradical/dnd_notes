@@ -1,7 +1,7 @@
 ---
 title: "Londra: 13"
 date: 2025-11-19
-tags: [londra]
+tags: [lon]
 summary: "We are at the train station..."
 ---
 

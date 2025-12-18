@@ -1,7 +1,7 @@
 ---
 title: Session Zero
 date: 2025-07-30
-tags: [session, londra]
+tags: [session, lon]
 summary: Getting familiar with the game and the rules and setting
 ---
 

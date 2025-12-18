@@ -7,7 +7,7 @@ date_played: ""
 campaign: "The Last Whisper of Steel"
 tags:
   - session-log
-  - tlwos
+  - tlw
   - arc-2
   - prophecy
   - kazuki-takemura
@@ -639,4 +639,4 @@ Breakdown:
 
 ---
 
-*Tags: #session-log #tlwos #arc-2 #prophecy #kazuki-takemura #steel-tablet #hidden-lotus #guard-corruption #heist #takashima #renji-sato*
+*Tags: #session-log #tlw #arc-2 #prophecy #kazuki-takemura #steel-tablet #hidden-lotus #guard-corruption #heist #takashima #renji-sato*

@@ -1,7 +1,7 @@
 ---
 title: "Londra: 01"
 date: 2025-08-06
-tags: [londra]
+tags: [lon]
 summary: "Our first session and how we became Lanterns."
 ---
 

@@ -7,7 +7,7 @@ date_played: ""
 campaign: "The Last Whisper of Steel"
 tags:
   - session-log
-  - tlwos
+  - tlw
   - arc-2-opening
   - takashima
   - iseri-tetsuo
@@ -233,4 +233,4 @@ tags:
 
 ---
 
-*Tags: #session-log #tlwos #arc-2-opening #takashima #iseri-tetsuo #wild-lotus-society #starcall-table*
+*Tags: #session-log #tlw #arc-2-opening #takashima #iseri-tetsuo #wild-lotus-society #starcall-table*

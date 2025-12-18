@@ -1,7 +1,7 @@
 ---
 title: "Session 019: The Steel Tablet's Summons"
 date: 2025-12-18
-tags: [session-notes, tlwos]
+tags: [session-notes, tlw]
 draft: true
 ---
 
@@ -316,4 +316,4 @@ Party must decide whether to:
 
 ---
 
-*Tags: #session-log #tlwos #arc-2 #kazuki-takemura #takashima #upper-citadel #twice-cursed #circle-infiltration #timer-quest*
+*Tags: #session-log #tlw #arc-2 #kazuki-takemura #takashima #upper-citadel #twice-cursed #circle-infiltration #timer-quest*

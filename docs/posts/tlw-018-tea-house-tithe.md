@@ -1,7 +1,8 @@
 ---
-title: "TLWOS Session 018 – Tea House Tithe"
+title: "TLW Session 018 – Tea House Tithe"
+date: 2025-12-18
 tags:
-  - tlwos
+  - tlw
   - session-notes
   - arc-2
   - takashima

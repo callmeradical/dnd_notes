@@ -1,7 +1,7 @@
 ---
 title: Session Logs Directory
 date: 2025-12-18
-tags: [meta, session-log, tlwos]
+tags: [meta, session-log, tlw]
 summary: Notes on session log structure and templates for TLWOS.
 draft: true
 ---
@@ -14,26 +14,26 @@ This directory contains session-by-session logs for **The Last Whisper of Steel*
 
 ```
 docs/posts/
-├── tlwos-000-temple-of-daichi.md            [TO BE CREATED]
-├── tlwos-001-nagano-arrival.md              [TO BE CREATED]
-├── tlwos-002-hideos-funeral.md              [TO BE CREATED]
-├── tlwos-003-circle-exposed.md              [TO BE CREATED]
-├── tlwos-004-[title].md                     [TO BE CREATED]
-├── tlwos-005-[title].md                     [TO BE CREATED]
-├── tlwos-006-[title].md                     [TO BE CREATED]
-├── tlwos-007-[title].md                     [TO BE CREATED]
-├── tlwos-008-[title].md                     [TO BE CREATED]
-├── tlwos-009-[title].md                     [TO BE CREATED]
-├── tlwos-010-[title].md                     [TO BE CREATED]
-├── tlwos-011-[title].md                     [TO BE CREATED]
-├── tlwos-012-[title].md                     [TO BE CREATED]
-├── tlwos-013-breathless-hollow.md           [TO BE CREATED]
-├── tlwos-014-shrine-three-defense.md        [TO BE CREATED]
-├── tlwos-015-[title].md                     [TO BE CREATED]
-├── tlwos-016-warcamp-prep.md                [TO BE CREATED]
-├── tlwos-017-warcamp-infiltration.md        [TO BE CREATED]
-├── tlwos-018-arc-2-opening.md               ✓ CREATED
-└── tlwos-019-session.md                     ✓ CREATED
+├── tlw-000-temple-of-daichi.md            [TO BE CREATED]
+├── tlw-001-nagano-arrival.md              [TO BE CREATED]
+├── tlw-002-hideos-funeral.md              [TO BE CREATED]
+├── tlw-003-circle-exposed.md              [TO BE CREATED]
+├── tlw-004-[title].md                     [TO BE CREATED]
+├── tlw-005-[title].md                     [TO BE CREATED]
+├── tlw-006-[title].md                     [TO BE CREATED]
+├── tlw-007-[title].md                     [TO BE CREATED]
+├── tlw-008-[title].md                     [TO BE CREATED]
+├── tlw-009-[title].md                     [TO BE CREATED]
+├── tlw-010-[title].md                     [TO BE CREATED]
+├── tlw-011-[title].md                     [TO BE CREATED]
+├── tlw-012-[title].md                     [TO BE CREATED]
+├── tlw-013-breathless-hollow.md           [TO BE CREATED]
+├── tlw-014-shrine-three-defense.md        [TO BE CREATED]
+├── tlw-015-[title].md                     [TO BE CREATED]
+├── tlw-016-warcamp-prep.md                [TO BE CREATED]
+├── tlw-017-warcamp-infiltration.md        [TO BE CREATED]
+├── tlw-018-arc-2-opening.md               ✓ CREATED
+└── tlw-019-session.md                     ✓ CREATED
 ```
 
 ## Frontmatter Format
@@ -49,7 +49,7 @@ date_played: "YYYY-MM-DD"
 campaign: "The Last Whisper of Steel"
 tags:
   - session-log
-  - tlwos
+  - tlw
   - arc-N
   - [other relevant tags]
 ---
@@ -88,7 +88,7 @@ These sessions need to be created with proper frontmatter and detailed notes.
 
 ## Session Log Template
 
-See `tlwos-018-arc-2-opening.md` and `tlwos-019-session.md` for template examples.
+See `tlw-018-arc-2-opening.md` and `tlw-019-session.md` for template examples.
 
 Required sections:
 - Session Summary
