@@ -6,6 +6,7 @@ date: 2025-12-18
 date_played: ""
 campaign: "The Last Whisper of Steel"
 tags:
+  - session-notes
   - session-log
   - tlw
   - arc-2

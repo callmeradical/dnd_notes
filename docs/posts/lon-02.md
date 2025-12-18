@@ -1,7 +1,7 @@
 ---
 title: "Londra: 01D"
 date: 2025-08-07
-tags: [lon]
+tags: [session-notes, lon]
 summary: "Downtime activities after first session"
 ---
 

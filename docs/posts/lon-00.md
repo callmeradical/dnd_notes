@@ -1,7 +1,7 @@
 ---
 title: Session Zero
 date: 2025-07-30
-tags: [session, lon]
+tags: [session-notes, lon]
 summary: Getting familiar with the game and the rules and setting
 ---
 

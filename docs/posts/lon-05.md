@@ -1,7 +1,7 @@
 ---
 title: "Londra: 04"
 date: 2025-09-03
-tags: [lon]
+tags: [session-notes, lon]
 summary: "The Rat and The Record"
 ---
 
