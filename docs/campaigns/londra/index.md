@@ -1,9 +1,8 @@
 ---
 title: "Londra"
+render_macros: true
 ---
 
 # Londra Sessions
 
-{% for page in pages if 'lon' in page.meta.tags %}
-
-- [{{ page.title }}]({{ page.url }}) {% endfor %}
+{pagelist 5 lon}

@@ -1,10 +1,27 @@
 ---
-tags:
-  - session-prep
-  - {{ campaign_name | lower | replace(' ', '-') }}
+{% if post_type == "session_log" -%}
+title: "{{ title }}"
+session_number: {{ session_number | int }}
+arc: "{{ arc }}"
+date: {{ '%Y-%m-%d' | strftime }}
+date_played: "{{ date_played }}"
+campaign: "{{ campaign_name }}"
+{% if tags %}tags: [{{ tags | replace(', ', ',') }}]{% else %}tags: []{% endif %}
+summary: "{{ summary }}"
+{%- else -%}
+title: "{{ title }}"
+date: {{ '%Y-%m-%d' | strftime }}
+{% if tags %}tags: [{{ tags | replace(', ', ',') }}]{% else %}tags: []{% endif %}
+summary: "{{ summary }}"
+{%- endif %}
 ---
 
-# {{ campaign_name }} - Session {{ session_number }}: {{ session_title }}
+{% if post_type == "session_prep" -%}
+_{{ summary }}_
+
+<!-- more -->
+
+# {{ campaign_name }} - Session {{ '%03d' | format(session_number | int) }}: {{ session_title }}
 
 **Date:** {{ now().strftime('%Y-%m-%d') }}
 **Status:** Prep
@@ -17,90 +34,45 @@ tags:
 
 ---
 
-## Scenes
+## Review the Characters
 
-### 1. {{ scene1_title }}
-
-{{ scene1_desc }}
-
-**Key Elements:**
-- [ ] 
-- [ ] 
-- [ ] 
-
-### 2. {{ scene2_title }}
-
-{{ scene2_desc }}
-
-**Key Elements:**
-- [ ] 
-- [ ] 
-- [ ] 
-
-### 3. {{ scene3_title }}
-
-{{ scene3_desc }}
-
-**Key Elements:**
-- [ ] 
-- [ ] 
-- [ ] 
-
-### 4. {{ scene4_title }}
-
-{{ scene4_desc }}
-
-**Key Elements:**
-- [ ] 
-- [ ] 
-- [ ] 
-
-### 5. {{ scene5_title }}
-
-{{ scene5_desc }}
-
-**Key Elements:**
-- [ ] 
-- [ ] 
-- [ ] 
+{{ review_characters }}
 
 ---
 
-## NPCs
+## Possible Scenes
 
-{% if npc1_name %}
-### {{ npc1_name }}
+{{ possible_scenes }}
 
-{{ npc1_details }}
+---
 
-**Notes:**
-- 
-- 
-- 
+## Fantastic Locations
 
-{% endif %}
-{% if npc2_name %}
-### {{ npc2_name }}
+{{ fantastic_locations }}
 
-{{ npc2_details }}
+---
 
-**Notes:**
-- 
-- 
-- 
+## Secrets and Clues
 
-{% endif %}
-{% if npc3_name %}
-### {{ npc3_name }}
+{{ secrets_clues }}
 
-{{ npc3_details }}
+---
 
-**Notes:**
-- 
-- 
-- 
+## Important NPCs
 
-{% endif %}
+{{ important_npcs }}
+
+---
+
+## Monsters
+
+{{ monsters }}
+
+---
+
+## Treasure
+
+{{ treasure }}
 
 ---
 
@@ -130,3 +102,129 @@ tags:
 
 ### Rules to Review
 - 
+{% elif post_type == "session_log" -%}
+_{{ summary }}_
+
+<!-- more -->
+
+# {{ title }}
+
+**Campaign:** {{ campaign_name }}
+**Arc:** {{ arc }}
+**Session:** {{ '%03d' | format(session_number | int) }}
+**Date Played:** {{ date_played }}
+
+---
+
+## Session Summary
+- 
+
+## Key Events
+- 
+
+## NPCs Encountered
+- 
+
+## Locations Visited
+- 
+
+## Active Quests
+- 
+
+## Plot Threads & Mysteries
+- 
+
+## Key Quotes
+- 
+
+## Character Development
+- 
+
+## Items & Rewards
+- 
+
+## Experience Points
+- 
+
+## GM Notes
+- 
+
+## Next Session Preparation
+- 
+
+## Campaign Connections
+- 
+{% elif post_type == "londra_session" -%}
+_{{ summary }}_
+
+<!-- more -->
+
+{% if include_overview %}
+## Overview
+
+<!-- Brief overview of the session's main events and outcomes -->
+
+{% endif %}
+## Session Notes
+
+<!-- Detailed session notes, recap, and important events -->
+
+{% if session_type == "regular" %}
+## During the Session (recap)
+
+<!-- More structured recap of session events -->
+
+{% endif %}
+{% if include_stars_wishes %}
+## Stars and Wishes (end of session)
+
+### Stars
+
+<!-- What went well this session -->
+
+### Wishes
+
+<!-- What could be improved -->
+
+### Additional Notes
+
+<!-- Any other feedback or observations -->
+
+{% endif %}
+{% if include_downtime %}
+## Downtime
+
+<!-- Downtime activities and character actions between sessions -->
+
+{% endif %}
+## Notes
+
+<!-- Additional notes, NPC information, plot threads, etc. -->
+
+### Information about my party
+
+- **Vareth** - <!-- Player info/rumors -->
+- **Thistle** - <!-- Player info/rumors -->  
+- **Espantos** - <!-- Player info/rumors -->
+- **Ish'Ta** - <!-- Player info/rumors -->
+- **Dr. Elias Varrin** - <!-- Player info/rumors -->
+{% elif post_type == "downtime" -%}
+# {{ title }}
+
+_{{ summary }}_
+
+<!-- more -->
+
+## Downtime Summary
+- 
+
+## Activities & Outcomes
+- 
+
+## Open Threads
+- 
+{% else -%}
+# {{ title }}
+
+<!-- Your content starts here -->
+{% endif %}

@@ -1,104 +1,187 @@
 _templates_suffix: .jinja
 
+post_type:
+  type: str
+  help: "Type of post to create"
+  choices:
+    - session_prep
+    - session_log
+    - londra_session
+    - downtime
+    - general
+  default: session_prep
+
+campaign_prefix:
+  type: str
+  help: "Filename prefix for this campaign (e.g., 'tlw', 'lon', 'tsi')"
+
 campaign_name:
   type: str
   help: "Campaign name (e.g., 'Bastion', 'Tyranny of Dragons')"
+  when: "{{ post_type in ['session_prep', 'session_log'] }}"
 
 session_number:
-  type: int
-  help: "Session number"
+  type: str
+  help: "Session number (numeric for session_prep/session_log, e.g., '19'; or '01' for Londra)"
+  when: "{{ post_type in ['session_prep', 'session_log', 'londra_session'] }}"
+  default: "01"
 
 session_title:
   type: str
   help: "Session title or theme"
+  when: "{{ post_type in ['session_prep', 'session_log'] }}"
+
+arc:
+  type: str
+  help: "Arc title (e.g., 'Arc 2 - The Iron Court')"
+  when: "{{ post_type == 'session_log' }}"
+
+date_played:
+  type: str
+  help: "Date played (YYYY-MM-DD), leave blank if unknown"
+  when: "{{ post_type == 'session_log' }}"
+  default: ""
+
+session_type:
+  type: str
+  help: "Type of Londra session"
+  choices:
+    - regular
+    - downtime
+    - special
+  default: regular
+  when: "{{ post_type == 'londra_session' }}"
+
+include_overview:
+  type: bool
+  help: "Include Overview section (common for early sessions)"
+  default: true
+  when: "{{ post_type == 'londra_session' }}"
+
+include_stars_wishes:
+  type: bool
+  help: "Include Stars and Wishes section (for feedback)"
+  default: false
+  when: "{{ post_type == 'londra_session' }}"
+
+include_downtime:
+  type: bool
+  help: "Include Downtime section"
+  default: true
+  when: "{{ post_type in ['londra_session', 'downtime'] }}"
+
+review_characters:
+  type: str
+  help: "Character review notes (motivations, unresolved threads, spotlight goals)"
+  multiline: true
+  default: ""
+  when: "{{ post_type == 'session_prep' }}"
 
 strong_start:
   type: str
-  help: "Brief description of the strong start (1-2 sentences)"
+  help: "Strong start (1-3 sentences)"
   multiline: true
+  when: "{{ post_type == 'session_prep' }}"
 
-scene1_title:
+possible_scenes:
   type: str
-  help: "Title for Scene 1"
-
-scene1_desc:
-  type: str
-  help: "Brief description of Scene 1"
+  help: "Possible scenes (bullets or short paragraphs)"
   multiline: true
-
-scene2_title:
-  type: str
-  help: "Title for Scene 2"
-
-scene2_desc:
-  type: str
-  help: "Brief description of Scene 2"
-  multiline: true
-
-scene3_title:
-  type: str
-  help: "Title for Scene 3"
-
-scene3_desc:
-  type: str
-  help: "Brief description of Scene 3"
-  multiline: true
-
-scene4_title:
-  type: str
-  help: "Title for Scene 4"
-
-scene4_desc:
-  type: str
-  help: "Brief description of Scene 4"
-  multiline: true
-
-scene5_title:
-  type: str
-  help: "Title for Scene 5"
-
-scene5_desc:
-  type: str
-  help: "Brief description of Scene 5"
-  multiline: true
-
-npc1_name:
-  type: str
-  help: "Name of first key NPC (or leave blank)"
   default: ""
+  when: "{{ post_type == 'session_prep' }}"
 
-npc1_details:
+fantastic_locations:
   type: str
-  help: "Brief details for first NPC (trait, goal, etc.)"
-  default: ""
+  help: "Fantastic locations to feature"
   multiline: true
-
-npc2_name:
-  type: str
-  help: "Name of second key NPC (or leave blank)"
   default: ""
+  when: "{{ post_type == 'session_prep' }}"
 
-npc2_details:
+secrets_clues:
   type: str
-  help: "Brief details for second NPC (trait, goal, etc.)"
-  default: ""
+  help: "Secrets and clues to reveal"
   multiline: true
-
-npc3_name:
-  type: str
-  help: "Name of third key NPC (or leave blank)"
   default: ""
+  when: "{{ post_type == 'session_prep' }}"
 
-npc3_details:
+important_npcs:
   type: str
-  help: "Brief details for third NPC (trait, goal, etc.)"
-  default: ""
+  help: "Important NPCs (names + goals)"
   multiline: true
+  default: ""
+  when: "{{ post_type == 'session_prep' }}"
+
+monsters:
+  type: str
+  help: "Monsters/opponents likely to appear"
+  multiline: true
+  default: ""
+  when: "{{ post_type == 'session_prep' }}"
+
+treasure:
+  type: str
+  help: "Treasure or rewards"
+  multiline: true
+  default: ""
+  when: "{{ post_type == 'session_prep' }}"
+
+title:
+  type: str
+  help: "Post title"
+  default: >-
+    {% if post_type == 'session_prep' %}
+    Session {{ '%03d' | format(session_number | int) }}: {{ session_title }}
+    {% elif post_type == 'session_log' %}
+    Session {{ '%03d' | format(session_number | int) }}: {{ session_title }}
+    {% elif post_type == 'londra_session' %}
+    Londra: {{ session_number }}
+    {% elif post_type == 'downtime' %}
+    Downtime Notes
+    {% else %}
+    New Post
+    {% endif %}
+
+tags:
+  type: str
+  help: "Comma separated list of tags"
+  default: >-
+    {% if post_type == 'session_log' %}
+    session-notes, session-log, {{ campaign_prefix | lower }}
+    {% elif post_type == 'session_prep' %}
+    session-notes, {{ campaign_prefix | lower }}
+    {% elif post_type == 'londra_session' %}
+    session-notes, {{ campaign_prefix | lower }}
+    {% elif post_type == 'downtime' %}
+    session-notes, downtime, {{ campaign_prefix | lower }}
+    {% else %}
+    {{ campaign_prefix | lower }}
+    {% endif %}
+
+summary:
+  type: str
+  help: "Short summary"
+  default: >-
+    {% if post_type == 'session_prep' %}
+    Session {{ '%03d' | format(session_number | int) }} prep notes.
+    {% else %}
+    {{ '' }}
+    {% endif %}
 
 slug:
   type: str
-  help: "File name slug (auto-generated from session info)"
-  default: "{{ campaign_name | lower | replace(' ', '-') }}-session-{{ '%02d' | format(session_number) }}"
+  help: "File name slug (auto-generated from post info)"
+  default: >-
+    {% if post_type == 'session_prep' %}
+    {{ campaign_prefix | lower }}-{{ '%03d' | format(session_number | int) }}-prep
+    {% elif post_type == 'session_log' %}
+    {{ campaign_prefix | lower }}-{{ '%03d' | format(session_number | int) }}-session
+    {% elif post_type == 'londra_session' %}
+    {{ campaign_prefix | lower }}-{{ session_number | lower }}
+    {% elif post_type == 'downtime' %}
+    {{ campaign_prefix | lower }}-downtime
+    {% else %}
+    {{ campaign_prefix | lower }}-post
+    {% endif %}
 
 _envops:
   block_start_string: "{%"

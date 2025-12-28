@@ -28,34 +28,34 @@ This document tracks the migration of notes from Apple Notes to Obsidian for the
 
 Priority: High - These contain the actual play history
 
-- [ ] TSITE 2023.01
-- [ ] TSITE 2023.02
-- [ ] TSITE 2023.02 Draft
-- [ ] TSITE 2023.02 Draft 2
-- [ ] TSITE 2023.03
-- [ ] TSITE 2023.04
-- [ ] TSITE 2023.05
-- [ ] TSITE 2023.06
-- [ ] TSITE 2023.07
-- [ ] TSITE 2023.08
-- [ ] TSITE 2023.09
-- [ ] TSITE 2023.10
-- [ ] TSITE 2023.11
-- [ ] TSITE 2023.12
-- [ ] TSITE 2024.01
-- [ ] TSITE 2024.02
-- [ ] TSITE 2024.03
-- [ ] TSITE 2024.04
-- [ ] TSITE 2024.05
-- [ ] TSITE 2024.07
-- [ ] TSITE 2024.08
-- [ ] TSITE 2024.09
-- [ ] TSITE 2024.11
-- [ ] TSITE 2025.01
-- [ ] TSITE 2025.02
-- [ ] TSITE 2025.03
-- [ ] TSITE 2025.05
-- [ ] TSITE 2025.06
+- [ ] TSITE 2023.01 — 2023-01-13
+- [ ] TSITE 2023.02 — 2023-02-10
+- [ ] TSITE 2023.02 Draft — 2023-02-10
+- [ ] TSITE 2023.02 Draft 2 — 2023-02-10
+- [ ] TSITE 2023.03 — 2023-03-10
+- [ ] TSITE 2023.04 — 2023-04-14
+- [ ] TSITE 2023.05 — 2023-05-12
+- [ ] TSITE 2023.06 — 2023-06-09
+- [ ] TSITE 2023.07 — 2023-07-14
+- [ ] TSITE 2023.08 — 2023-08-11
+- [ ] TSITE 2023.09 — 2023-09-08
+- [ ] TSITE 2023.10 — 2023-10-13
+- [ ] TSITE 2023.11 — 2023-11-10
+- [ ] TSITE 2023.12 — 2023-12-08
+- [ ] TSITE 2024.01 — 2024-01-12
+- [ ] TSITE 2024.02 — 2024-02-09
+- [ ] TSITE 2024.03 — 2024-03-08
+- [ ] TSITE 2024.04 — 2024-04-12
+- [ ] TSITE 2024.05 — 2024-05-10
+- [ ] TSITE 2024.07 — 2024-07-12
+- [ ] TSITE 2024.08 — 2024-08-09
+- [ ] TSITE 2024.09 — 2024-09-13
+- [ ] TSITE 2024.11 — 2024-11-08
+- [ ] TSITE 2025.01 — 2025-01-10
+- [ ] TSITE 2025.02 — 2025-02-14
+- [ ] TSITE 2025.03 — 2025-03-14
+- [ ] TSITE 2025.05 — 2025-05-09
+- [ ] TSITE 2025.06 — 2025-06-13
 - [ ] TSITE Campaign Summary
 
 **Note:** Sessions 09.2025 and 10.2025 already exist in Obsidian

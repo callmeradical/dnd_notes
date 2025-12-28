@@ -1,4 +1,4 @@
-site_name: DnD Notes
+site_name: D&D Notes
 site_url: https://callmeradical.github.io/dnd_notes/ # Replace with your actual GitHub username
 docs_dir: docs
 theme:
@@ -6,9 +6,6 @@ theme:
   palette:
     scheme: default
   features:
-    - navigation.indexes
-    - navigation.sections
-    - navigation.top
     - search.highlight
     - search.suggest
   font:
@@ -27,228 +24,99 @@ markdown_extensions:
   - toc:
       permalink: true
   - pymdownx.superfences
-exclude_docs: |
-  shuigari/CIVILIZATION_GAPS_SUMMARY.md
-  shuigari/Currency and Trade Systems.md
-  shuigari/Education and Literacy.md
-  shuigari/Hideos-Steel-Tablet-Last-Will.md
-  shuigari/Iron-Rest-Inn-Mama-Tora.md
-  shuigari/Kaoru-Arrival-REVISED-Bargain.md
-  shuigari/Kaoru-Starcall-Table-Scene.md
-  shuigari/Legal System and Courts.md
-  shuigari/Scientific and Technical Knowledge.md
-  shuigari/Takashima City - Districts and Locations.md
-  shuigari/The Hidden Petal Society.md
-  shuigari/The Obsidian Circle - Organization.md
-  shuigari/The Obsidian Circle 1.md
-  shuigari/Tsurogami the Woven Tyrant.md
-  shuigari/Writing Systems and Record-Keeping.md
-  shuigari/Events/The Starcall Table.md
-  shuigari/NPCs/Aiko Hayashi.md
-  shuigari/NPCs/Daisuke Silver Pockets Inoue.md
-  shuigari/NPCs/Haruki The Boar Takeda.md
-  shuigari/NPCs/Kaoru Sugimoto.md
-  shuigari/NPCs/Kazuya.md
-  shuigari/NPCs/Tenka.md
-  shuigari/NPCs/Twice Cursed Samurai.md
-  shuigari/Organizations/Wild Lotus Society.md
-  shuigari/PCs/Aoshi.md
-  shuigari/PCs/Fox.md
-  shuigari/PCs/Iseri Tetsuo.md
-  shuigari/PCs/Kanji.md
-  shuigari/PCs/Shigeo.md
-  shuigari/PCs/Thornbringer.md
-  shuigari/PCs/Yasei.md
-  shuigari/_legacy/*
+exclude_docs: shuigari/_legacy/*
 plugins:
   - search
   - tags
   - blog:
       blog_dir: .
       categories_name: Topics
+      post_excerpt_separator: "<!-- more -->"
   - macros:
       include_dir: .
+      render_by_default: true
+  - pagelist
 nav:
   - Session Notes: index.md
-  - Session Notes: session-notes.md
   - Campaigns:
-      - campaigns/index.md
-      - Londra: campaigns/londra/index.md
-      - The Last Whisper of Steel:
-          - campaigns/tlwos/index.md
-          - Hideo's Steel Tablet - Last Will: campaigns/tlwos/Hideos-Steel-Tablet-Last-Will.md
-          - Iron Rest Inn - Mama Tora: campaigns/tlwos/Iron-Rest-Inn-Mama-Tora.md
-          - Kaoru Starcall Table Scene: campaigns/tlwos/Kaoru-Starcall-Table-Scene.md
-      - The Shadow in the Empire:
-          - campaigns/shadow-in-the-empire/index.md
-          - Migration Tracker: campaigns/shadow-in-the-empire/migration-tracker.md
-          - Encounters:
-              - Index: campaigns/shadow-in-the-empire/encounters/index.md
-              - Q'barra Core Destinations: campaigns/shadow-in-the-empire/encounters/destination_encounter_themes.md
-              - Q'barra & Valenar Frontier: campaigns/shadow-in-the-empire/encounters/qbarra-valenar-frontier-encounters.md
-              - Valenar History: campaigns/shadow-in-the-empire/encounters/valenar-history.md
-          - Exploration:
-              - Index: campaigns/shadow-in-the-empire/exploration/index.md
-              - Black Dawn Exploration: campaigns/shadow-in-the-empire/exploration/black_dawn_exploration.md
-              - Encounter Statblocks: campaigns/shadow-in-the-empire/exploration/encounter-statblocks.md
-              - Qbarran Exploration: campaigns/shadow-in-the-empire/exploration/qbarran_exploration.md
-              - Qbarran Exploration Ruins: campaigns/shadow-in-the-empire/exploration/qbarran_exploration_ruins.md
-              - Encounters:
-                  - Hostile Factions:
-                      - Cannith Scavenger Team: campaigns/shadow-in-the-empire/exploration/encounters/hostile-factions/cannith-scavenger-team.md
-                      - Colonial Bandits: campaigns/shadow-in-the-empire/exploration/encounters/hostile-factions/colonial-bandits.md
-                      - Dragonborn Clan Patrol: campaigns/shadow-in-the-empire/exploration/encounters/hostile-factions/dragonborn-clan-patrol.md
-                      - Exiled Brelish Soldiers: campaigns/shadow-in-the-empire/exploration/encounters/hostile-factions/exiled-brelish-soldiers.md
-                      - Lizardfolk Hunting Party: campaigns/shadow-in-the-empire/exploration/encounters/hostile-factions/lizardfolk-hunting-party.md
-                      - Mercenary Salvage Crew: campaigns/shadow-in-the-empire/exploration/encounters/hostile-factions/mercenary-salvage-crew.md
-                      - Warforged Free Company: campaigns/shadow-in-the-empire/exploration/encounters/hostile-factions/warforged-free-company.md
-                      - Wyrm Cult Proselytizers: campaigns/shadow-in-the-empire/exploration/encounters/hostile-factions/wyrm-cult-proselytizers.md
-                  - Lost World:
-                      - Ancient Gatekeeper Menhir: campaigns/shadow-in-the-empire/exploration/encounters/lost-world/ancient-gatekeeper-menhir.md
-                      - Collapsed Cannith Mining Site: campaigns/shadow-in-the-empire/exploration/encounters/lost-world/collapsed-cannith-mining-site.md
-                      - Crashed Lyrandar Airship: campaigns/shadow-in-the-empire/exploration/encounters/lost-world/crashed-lyrandar-airship.md
-                      - Draconic Stone Glyphs: campaigns/shadow-in-the-empire/exploration/encounters/lost-world/draconic-stone-glyphs.md
-                      - Overgrown Brelish Outpost: campaigns/shadow-in-the-empire/exploration/encounters/lost-world/overgrown-brelish-outpost.md
-                      - Phosphorescent Cavern: campaigns/shadow-in-the-empire/exploration/encounters/lost-world/phosphorescent-cavern.md
-                      - Ruined Dragonshard Temple: campaigns/shadow-in-the-empire/exploration/encounters/lost-world/ruined-dragonshard-temple.md
-                      - Vine-Choked Lizardfolk Shrine: campaigns/shadow-in-the-empire/exploration/encounters/lost-world/vine-choked-lizardfolk-shrine.md
-                  - Wildlife:
-                      - Basilisk: campaigns/shadow-in-the-empire/exploration/encounters/wildlife/basilisk.md
-                      - Giant Constrictor Snake: campaigns/shadow-in-the-empire/exploration/encounters/wildlife/giant-constrictor-snake.md
-                      - Hydra: campaigns/shadow-in-the-empire/exploration/encounters/wildlife/hydra.md
-                      - Jungle Cat: campaigns/shadow-in-the-empire/exploration/encounters/wildlife/jungle-cat.md
-                      - Pteranodon Flock: campaigns/shadow-in-the-empire/exploration/encounters/wildlife/pteranodon-flock.md
-                      - Spinosaurus: campaigns/shadow-in-the-empire/exploration/encounters/wildlife/spinosaurus.md
-                      - Swarm Stinging Insects: campaigns/shadow-in-the-empire/exploration/encounters/wildlife/swarm-stinging-insects.md
-                      - Velociraptor Pack: campaigns/shadow-in-the-empire/exploration/encounters/wildlife/velociraptor-pack.md
-          - NPCs:
-              - Fellion Scheming Monologue: campaigns/shadow-in-the-empire/npcs/fellion_scheming_monologue.md
-              - Talking Points: campaigns/shadow-in-the-empire/npcs/talking_points.md
-          - Outposts:
-              - Index: campaigns/shadow-in-the-empire/outposts/outpost-index.md
-              - Emberwatch Post: campaigns/shadow-in-the-empire/outposts/emberwatch-post.md
-              - Shardspike Camp: campaigns/shadow-in-the-empire/outposts/shardspike-camp.md
-              - Stonecoil Refuge: campaigns/shadow-in-the-empire/outposts/stonecoil-refuge.md
-              - The Brass Anvil: campaigns/shadow-in-the-empire/outposts/the-brass-anvil.md
-              - The Salted Helm: campaigns/shadow-in-the-empire/outposts/the-salted-helm.md
-              - The Silver Fang Lodge: campaigns/shadow-in-the-empire/outposts/the-silver-fang-lodge.md
-              - Wyrmwatch Tower: campaigns/shadow-in-the-empire/outposts/wyrmwatch-tower.md
-  - Shuigari:
-      - Taxonomy: "shuigari/Shuigari Taxonomy.md"
-      - Overview & Campaign:
-          - Campaign Setting: "shuigari/Campaign Setting - Shuigari.md"
-          - Campaign Hub: "shuigari/Shuigari - The Last Whisper of Steel.md"
-          - Campaign Summary: "shuigari/The Last Whisper of Steel - Campaign Summary.md"
-          - Timeline: "shuigari/Timeline of Shuigari.md"
-          - Calendar: "shuigari/Calendar of Shuigari.md"
-          - Food & Drink: "shuigari/Food and Drink of Shuigari.md"
-          - Inspiration: "shuigari/Inspiration for Shuigari.md"
-      - Geography & Regions:
-          - Islands & Regions:
-              - Shugane: "shuigari/Shugane.md"
-              - Deep Provinces: "shuigari/Deep Provinces.md"
-              - Towns of Shugane: "shuigari/Towns of Shugane.md"
-          - Prefectures:
-              - Takashima Prefecture: "shuigari/Takashima Prefecture.md"
-              - Harado Prefecture: "shuigari/Harado Prefecture.md"
-              - Hikosan Prefecture: "shuigari/Hikosan Prefecture.md"
-          - Settlements & Sites:
-              - Nagano: "shuigari/Nagano.md"
-              - Frostwood Outpost: "shuigari/Frostwood Outpost.md"
-              - The Frostwood: "shuigari/The Frostwood.md"
-              - Bandit's Lair: "shuigari/Bandit's Lair.md"
-              - The Stone Gate of Toriyama: "shuigari/The Stone Gate of Toriyama.md"
-              - The Well and the One Tree: "shuigari/The Well and the One Tree.md"
-              - Kazanokai - The Hidden Hearth of Torinokai: "shuigari/Kazanokai - The Hidden Hearth of Torinokai.md"
-      - Culture & Spirituality:
-          - Pantheon of Shuigari: "shuigari/Pantheon of Shuigari.md"
-          - Worship of Tsukuyomi: "shuigari/The worship of Tsukuyomi in Shuigari.md"
-          - Soulsteel Blades: "shuigari/Soulsteel Blades - Legendary Weapons of Shuigari.md"
-          - Twilight Carnival: "shuigari/Twilight Carnival of Thousand Lanterns.md"
-          - Flora of Shuigari: "shuigari/Flora of Shuigari.md"
-          - Fauna of Shuigari: "shuigari/Fauna of Shuigari.md"
-          - Elemental Magic & Technology: "shuigari/Elemental Magic and Technology.md"
-          - Weapon Crafting Traditions: "shuigari/Weapon Crafting and Smithing Traditions.md"
-          - Shugane Social Orders: "shuigari/Shugane Social Orders.md"
-      - Factions & Threats:
-          - The Grey Tide: "shuigari/The Grey Tide.md"
-          - The Obsidian Circle: "shuigari/The Obsidian Circle.md"
-          - Shindarasu: "shuigari/Shindarasu.md"
-          - Tsurogami, the Woven Tyrant: "shuigari/Tsurogami, the Woven Tyrant.md"
-          - The Twice Cursed Samurai: "shuigari/The Twice Cursed Samurai.md"
-          - Emerging Factions: "shuigari/Emerging Factions of Shuigari.md"
-      - People & NPCs:
-          - Master Hideo Nakata: "shuigari/Master Hideo Nakata.md"
-          - Shinro Takeda: "shuigari/Shinro Takeda.md"
-          - Mayor Hiroshi Takeda: "shuigari/Mayor Hiroshi Takeda.md"
-          - Akane Hiroshi: "shuigari/Akane Hiroshi.md"
-          - Hiroto Masanori: "shuigari/Hiroto Masanori.md"
-          - Aya the Weaver: "shuigari/Aya the Weaver.md"
-          - Haruto the Blacksmith: "shuigari/Haruto the Blacksmith.md"
-          - Renji “Driftwood” Sato: "shuigari/Renji Driftwood Sato.md"
-          - Riku Matsunaga: "shuigari/Riku Matsunaga.md"
-          - Taro the Hunter: "shuigari/Taro the Hunter.md"
-          - Lord Daizen Kuroda: "shuigari/Lord Daizen Kuroda.md"
-          - Lord Hideo Takatsume: "shuigari/Lord Hideo Takatsume - The Smiling Shadow.md"
-          - Lord Ichiro Kagemura: "shuigari/Lord Ichiro Kagemura.md"
-          - NPC Names Reference: "shuigari/NPC Names Reference.md"
-      - Creatures & Yokai:
-          - Jorogumo (Spider Spirit): "shuigari/Jorogumo (Spider Spirit).md"
-          - Kitsune: "shuigari/Kitsune.md"
-          - Lesser Tengu: "shuigari/Lesser Tengu.md"
-          - Shikigami: "shuigari/Shikigami.md"
-          - Weakened Spectral Samurai: "shuigari/Weakened Spectral Samurai.md"
-          - Xanarash the Watchful: "shuigari/Xanarash the Watchful, Servant of Nev'ash.md"
-          - Elemental Beasts: "shuigari/Elemental Beasts of Shuigari.md"
-      - Adventures & Play:
-          - Adventure – Act I: "shuigari/Adventure - The Twice Cursed Act I.md"
-          - Adventure – Act II: "shuigari/Adventure - The Twice Cursed Act II.md"
-          - Adventure – Act III: "shuigari/Adventure - The Twice Cursed Act III.md"
-          - Arc 2 Blueprint: "shuigari/The Last Whisper of Steel - Arc 2.md"
-          - Twice-Cursed Samurai (Encounter): "shuigari/Twice-Cursed Samurai.md"
-          - Skill Challenge – Hisui no Mori: "shuigari/Skill Challenge - Navigating the Living Maze of Hisui no Mori.md"
-      - Meta & Reference:
-          - Shuigari World Anvil Topics: "shuigari/Shuigari World Anvil Topics.md"
-          - Military Structure: "shuigari/Military Structure of Shuigari.md"
+      - The Last Whisper of Steel: campaigns/tlwos/index.md
+      - "Londra": campaigns/londra/index.md
+      - "The Shadow in the Empire": campaigns/shadow-in-the-empire/index.md
+  - Worldbuilding:
+      - Shuigari Taxonomy:
+          - Overview & Campaign Framing:
+              - "Campaign Setting: Shuigari": "shuigari/Campaign Setting - Shuigari.md"
+              - "Shuigari - The Last Whisper of Steel": "shuigari/Shuigari - The Last Whisper of Steel.md"
+              - "The Last Whisper of Steel - Campaign Summary": "shuigari/The Last Whisper of Steel - Campaign Summary.md"
+              - "Timeline of Shuigari": "shuigari/Timeline of Shuigari.md"
+              - "Calendar of Shuigari": "shuigari/Calendar of Shuigari.md"
+              - "Food and Drink of Shuigari": "shuigari/Food and Drink of Shuigari.md"
+              - "Inspiration for Shuigari": "shuigari/Inspiration for Shuigari.md"
+          - Geography & Regions:
+              - "Shugane": "shuigari/Shugane.md"
+              - "Towns of Shugane": "shuigari/Towns of Shugane.md"
+              - "Deep Provinces": "shuigari/Deep Provinces.md"
+              - "Takashima Prefecture": "shuigari/Takashima Prefecture.md"
+              - "Harado Prefecture": "shuigari/Harado Prefecture.md"
+              - "Hikosan Prefecture": "shuigari/Hikosan Prefecture.md"
+              - "Nagano": "shuigari/Nagano.md"
+              - "Frostwood Outpost": "shuigari/Frostwood Outpost.md"
+              - "The Frostwood": "shuigari/The Frostwood.md"
+              - "Bandit's Lair": "shuigari/Bandit's Lair.md"
+              - "The Stone Gate of Toriyama": "shuigari/The Stone Gate of Toriyama.md"
+              - "The Well and the One Tree": "shuigari/The Well and the One Tree.md"
+              - "Kazanokai - The Hidden Hearth of Torinokai": "shuigari/Kazanokai - The Hidden Hearth of Torinokai.md"
+          - Culture, Spirituality & Cosmology:
+              - "Pantheon of Shuigari": "shuigari/Pantheon of Shuigari.md"
+              - "The worship of Tsukuyomi in Shuigari": "shuigari/The worship of Tsukuyomi in Shuigari.md"
+              - "Twilight Carnival of Thousand Lanterns": "shuigari/Twilight Carnival of Thousand Lanterns.md"
+              - "Flora of Shuigari": "shuigari/Flora of Shuigari.md"
+              - "Fauna of Shuigari": "shuigari/Fauna of Shuigari.md"
+              - "Soulsteel Blades - Legendary Weapons of Shuigari": "shuigari/Soulsteel Blades - Legendary Weapons of Shuigari.md"
+              - "Weapon Crafting and Smithing Traditions": "shuigari/Weapon Crafting and Smithing Traditions.md"
+              - "Elemental Magic and Technology": "shuigari/Elemental Magic and Technology.md"
+              - "Shugane Social Orders": "shuigari/Shugane Social Orders.md"
+          - Factions, Powers & Mythic Threats:
+              - "Emerging Factions of Shuigari": "shuigari/Emerging Factions of Shuigari.md"
+              - "The Grey Tide": "shuigari/The Grey Tide.md"
+              - "The Obsidian Circle": "shuigari/The Obsidian Circle.md"
+              - "Shindarasu": "shuigari/Shindarasu.md"
+              - "Tsurogami the Woven Tyrant": "shuigari/Tsurogami the Woven Tyrant.md"
+              - "The Twice Cursed Samurai": "shuigari/The Twice Cursed Samurai.md"
+          - People & NPCs:
+              - "NPC Names Reference - Shuigari": "shuigari/NPC Names Reference.md"
+              - "Master Hideo Nakata": "shuigari/Master Hideo Nakata.md"
+              - "Shinro Takeda": "shuigari/Shinro Takeda.md"
+              - "Mayor Hiroshi Takeda": "shuigari/Mayor Hiroshi Takeda.md"
+              - "Renji Driftwood Sato": "shuigari/Renji Driftwood Sato.md"
+              - "Akane Hiroshi": "shuigari/Akane Hiroshi.md"
+              - "Hiroto Masanori": "shuigari/Hiroto Masanori.md"
+              - "Aya the Weaver": "shuigari/Aya the Weaver.md"
+              - "Haruto the Blacksmith": "shuigari/Haruto the Blacksmith.md"
+              - "Riku Matsunaga": "shuigari/Riku Matsunaga.md"
+              - "Taro the Hunter": "shuigari/Taro the Hunter.md"
+              - "Lord Daizen Kuroda": "shuigari/Lord Daizen Kuroda.md"
+              - "Lord Hideo Takatsume - The Smiling Shadow": "shuigari/Lord Hideo Takatsume - The Smiling Shadow.md"
+              - "Lord Ichiro Kagemura": "shuigari/Lord Ichiro Kagemura.md"
+          - Creatures & Yokai:
+              - "Elemental Beasts of Shuigari": "shuigari/Elemental Beasts of Shuigari.md"
+              - "Jorogumo (Spider Spirit)": "shuigari/Jorogumo (Spider Spirit).md"
+              - "Kitsune": "shuigari/Kitsune.md"
+              - "Lesser Tengu": "shuigari/Lesser Tengu.md"
+              - "Shikigami": "shuigari/Shikigami.md"
+              - "Weakened Spectral Samurai": "shuigari/Weakened Spectral Samurai.md"
+              - "Xanarash the Watchful, Servant of Nev'ash": "shuigari/Xanarash the Watchful, Servant of Nev'ash.md"
+          - Adventures & Narrative Beats:
+              - "The Last Whisper of Steel - Arc 2": "shuigari/The Last Whisper of Steel - Arc 2.md"
+              - "Adventure - The Twice Cursed Act I": "shuigari/Adventure - The Twice Cursed Act I.md"
+              - "Adventure - The Twice Cursed Act II": "shuigari/Adventure - The Twice Cursed Act II.md"
+              - "Adventure - The Twice Cursed Act III": "shuigari/Adventure - The Twice Cursed Act III.md"
+              - "The Twice Cursed Samurai": "shuigari/The Twice Cursed Samurai.md"
+              - "Twice-Cursed Samurai": "shuigari/Twice-Cursed Samurai.md"
+              - "Skill Challenge - Navigating the Living Maze of Hisui no Mori": "shuigari/Skill Challenge - Navigating the Living Maze of Hisui no Mori.md"
+          - Meta & Reference:
+              - "Shuigari World Anvil Topics": "shuigari/Shuigari World Anvil Topics.md"
+              - "Military Structure of Shuigari": "shuigari/Military Structure of Shuigari.md"
+  - Resources: resources/index.md
+  - Planning: planning/index.md
   - Tags: tags.md
-  - Resources:
-      - Resources Home: resources/index.md
-      - NPC Names: resources/npc_names.md
-      - DM Screen: resources/dm_screen.md
-      - Downtime: resources/downtime.md
-      - Rules: resources/rules.md
-      - Spells: resources/spells.md
-      - Bastions: resources/bastions.md
-      - Worldbuilding: resources/worldbuilding.md
-      - Tips: resources/tips.md
-      - Tools:
-          - Tools Index: resources/tools/index.md
-          - Experience: resources/tools/experience.md
-          - NPC Names (Tool): resources/tools/npc_names.md
-      - Templates:
-          - GM Encounter Notes Template: resources/templates/gm-encounter-notes-template.md
-          - NPC Statblock Template: resources/templates/npc-statblock-template.md
-      - Prompts:
-          - Session Planner Prompt: resources/prompts/session_planner.md
-  - Planning:
-      - Templates:
-          - planning/templates/index.md
-          - Session Template: planning/templates/session_template.md
-      - TLWOS Arc 2:
-          - planning/tlwos-arc-2/index.md
-          - Shuigari NPC Names: planning/tlwos-arc-2/Shuigari-NPC-Names.md
-          - TLWoS Complete Campaign Summary: planning/tlwos-arc-2/TLWoS-Complete-Campaign-Summary.md
-          - World of Toriyama: planning/tlwos-arc-2/World-of-Toriyama.md
-      - Shuigari Arc 2:
-          - Arc 2 Master Plot Framework: planning/shuigari-arc-2/Arc 2 Master Plot Framework.md
-          - Arc 2 Character Questionnaire: planning/shuigari-arc-2/Arc 2 Character Questionnaire.md
-          - Personal Backstory Questions - Knife Theory: planning/shuigari-arc-2/Personal Backstory Questions - Knife Theory.md
-      - Utilities:
-          - planning/utilities/index.md
-          - Dungeon 001: planning/utilities/dungeon_001.md
-      - Future Campaigns:
-          - planning/future-campaigns/index.md
-          - Stormreach:
-              - Campaign 3 Planner: planning/future-campaigns/stormreach/campaign_3_planner.md
-              - Campaign Ideas: planning/future-campaigns/stormreach/campaign_ideas.md
-              - For the Players: planning/future-campaigns/stormreach/for_the_players.md

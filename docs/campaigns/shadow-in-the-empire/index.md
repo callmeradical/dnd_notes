@@ -1,5 +1,6 @@
 ---
 title: "The Shadow in the Empire"
+render_macros: true
 ---
 
 Post-Avernus campaign set in a Q'barra dominated by wyrms after a three-year
@@ -14,9 +15,7 @@ time skip.
   submarine, journey to Newthrone, factional politics, and the theft of the
   Oathfang
 
-{% for page in pages if 'shadow-in-the-empire' in page.meta.tags %}
-
-- [{{ page.title }}]({{ page.url }}) {% endfor %}
+{pagelist 5 shadow-in-the-empire}
 
 ## Campaign Materials
 

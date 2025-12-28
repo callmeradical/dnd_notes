@@ -7,6 +7,8 @@ summary: "We are at the train station..."
 
 _We are at the train station..._
 
+<!-- more -->
+
 ## Overview
 
 The Lanterns respond to sounds of conflict at a fog-shrouded train station, discovering a locomotive under assault by massive spiders. What begins as a rescue mission quickly turns sinister when they uncover the train's cargo—a victim of Crown Alchemical Society experimentation, grotesquely transformed and amplified beyond recognition.

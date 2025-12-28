@@ -1,6 +1,7 @@
 ---
 title: "TLW Session 018 – Tea House Tithe"
-date: 2025-12-18
+date: 2025-12-10
+summary: "Prep beats for Session 018, from the road ambush to the tea house tithe."
 tags:
   - tlw
   - session-notes
@@ -8,6 +9,10 @@ tags:
   - takashima
   - twice-cursed-samurai
 ---
+
+_Prep beats for Session 018, from the road ambush to the tea house tithe._
+
+<!-- more -->
 
 ## Arc Position
 - **Arc:** 2 — Takashima Front

@@ -1,9 +1,13 @@
 ---
 title: "The Last Whisper of Steel"
+render_macros: true
 ---
 
 ## Session Notes
 
-{% for page in pages if 'tlw' in page.meta.tags %}
+{pagelist 5 tlw}
 
-- [{{ page.title }}]({{ page.url }}) {% endfor %}
+## Index
+
+- [TLWoS: Arc 2 Opening – Road to Takashima](Arc%202%20Opening.md)
+- [Takashima Locations - Master List](Takashima%20Locations.md)

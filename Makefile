@@ -1,5 +1,5 @@
 # D&D Notes Site Makefile
-.PHONY: help install build serve clean docker-build docker-serve docker-stop docker-logs new-post new-session new-londra-session
+.PHONY: help install build serve clean docker-build docker-serve docker-stop docker-logs post latest-sessions new
 
 # Default target
 help:
@@ -12,9 +12,9 @@ help:
 	@echo "  clean        Clean build artifacts"
 	@echo ""
 	@echo "Content Creation:"
-	@echo "  new-post          Create a new post using copier template"
-	@echo "  new-session       Create a new session prep using copier template"
-	@echo "  new-londra-session Create a new Londra session post using copier template"
+	@echo "  post         Create a new post using the unified copier template"
+	@echo "  latest-sessions Show latest session posts in docs/posts"
+	@echo "  new          Create new campaign content (NPC, item, location, plot)"
 	@echo ""
 	@echo "Docker Development:"
 	@echo "  docker-build       Build Docker image for the site"
@@ -85,14 +85,14 @@ docker-shell:
 	docker exec -it dnd-notes-site /bin/sh
 
 # Content creation commands
-new-post:
+post:
 	@echo "Creating new post..."
-	copier copy copier_templates/post docs/posts
+	copier copy copier_templates/session_prep docs/posts
 
-new-session:
-	@echo "Creating new session prep..."
-	copier copy copier_templates/session_prep docs/planning
+latest-sessions:
+	@echo "Latest session posts (by modified time):"
+	@ls -t docs/posts/*.md | head -n 10
 
-new-londra-session:
-	@echo "Creating new Londra session post..."
-	copier copy copier_templates/londra_session docs/posts
+new:
+	@echo "Creating new campaign content..."
+	copier copy copier_templates/campaign_content .

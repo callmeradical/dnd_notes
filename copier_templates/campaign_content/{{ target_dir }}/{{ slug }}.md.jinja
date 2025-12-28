@@ -1,0 +1,96 @@
+---
+title: "{{ title }}"
+campaign: "{{ campaign }}"
+type: "{{ content_type }}"
+{% if tags %}tags: [{{ tags | replace(', ', ',') }}]{% else %}tags: []{% endif %}
+summary: "{{ summary }}"
+---
+
+_{{ summary }}_
+
+<!-- more -->
+
+# {{ title }}
+
+{% if content_type == "npc" -%}
+## Role
+- 
+
+## Appearance
+- 
+
+## Personality
+- 
+
+## Bonds & Motivations
+- 
+
+## Secrets & Hooks
+- 
+
+## Relationships
+- 
+
+## Combat/Mechanics (if needed)
+- 
+{%- elif content_type == "item" -%}
+## Type
+- 
+
+## Description
+- 
+
+## Properties
+- 
+
+## Attunement
+- 
+
+## Lore
+- 
+
+## Hooks
+- 
+{%- elif content_type == "location" -%}
+## Region
+- 
+
+## Overview
+- 
+
+## Key Features
+- 
+
+## NPCs
+- 
+
+## Secrets
+- 
+
+## Encounters
+- 
+
+## Connections
+- 
+{%- elif content_type == "plot" -%}
+## Hook
+- 
+
+## Stakes
+- 
+
+## Factions
+- 
+
+## Timeline
+- 
+
+## Key Scenes
+- 
+
+## Clues
+- 
+
+## Outcomes
+- 
+{%- endif %}

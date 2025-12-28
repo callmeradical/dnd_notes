@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/shuigari/Takashima City - Districts and Locations.md",
+                "file": "docs/posts/posts-readme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Takashima City - Districts and Locations"
+              "title": "posts-readme"
+            }
+          },
+          {
+            "id": "1415da66d1bf9f07",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "genji",
+                "query": "017",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/shuigari/Takashima City - Districts and Locations.md",
+                "file": "docs/posts/posts-readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Takashima City - Districts and Locations"
+              "title": "Backlinks for posts-readme"
             }
           },
           {
@@ -170,8 +183,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5983c62a972e39c2",
+  "active": "1415da66d1bf9f07",
   "lastOpenFiles": [
+    "docs/shuigari/Takashima City - Districts and Locations.md",
     "site/search/search_index.json",
     "site/search",
     "site/page/2/index.html",
@@ -182,9 +196,11 @@
     "site/archive/2025/page",
     "site/archive/2025/index.html",
     "site/archive/2025",
-    "site/archive",
     "site/assets/images/favicon.png",
     "site/assets/dnd-ampersand.png",
+    "docs/posts/index.md",
+    "docs/docs/posts/index.md",
+    "docs/planning/index.md",
     "docs/posts/tsi-10-2025.md",
     "docs/posts/tsi-09-2025.md",
     "docs/posts/tsi-09-2025-post.md",
@@ -207,9 +223,6 @@
     "docs/posts/tlwos-018-tea-house-tithe.md",
     "docs/posts/session-notes.md",
     "docs/posts/Arc 2 Opening.md",
-    "docs/campaigns/tlwos/session-018-tea-house-tithe.md",
-    "docs/session-posts.md",
-    "docs/posts.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]

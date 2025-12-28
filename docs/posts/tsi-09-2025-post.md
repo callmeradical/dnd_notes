@@ -1,6 +1,6 @@
 ---
 title: "TSI Post Session 09.2025 - Campaign Update"
-date: 2025-12-18
+date: 2025-09-12
 tags:
   - shadow-in-the-empire
   - tsi
@@ -10,7 +10,12 @@ tags:
   - dreyden-dlyrandar
   - ashen-coil
   - dreaming-maw
+summary: "Campaign update covering the Black Dawn, Newthrone, and the Oathfang heist aftermath."
 ---
+
+_Campaign update covering the Black Dawn, Newthrone, and the Oathfang heist aftermath._
+
+<!-- more -->
 
 ## Narrative Recap: The Black Dawn and the Road to Newthrone
 

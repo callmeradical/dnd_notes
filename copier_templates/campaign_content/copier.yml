@@ -1,0 +1,79 @@
+_templates_suffix: .jinja
+_subdirectory: .
+
+campaign:
+  type: str
+  help: "Which campaign?"
+  choices:
+    - tlwos
+    - londra
+    - shadow-in-the-empire
+    - other
+  default: tlwos
+
+custom_campaign_dir:
+  type: str
+  help: "Custom campaign directory (relative to repo root)"
+  when: "{{ campaign == 'other' }}"
+
+content_type:
+  type: str
+  help: "Content type"
+  choices:
+    - npc
+    - item
+    - location
+    - plot
+  default: npc
+
+title:
+  type: str
+  help: "Title"
+
+slug:
+  type: str
+  help: "Filename slug"
+  default: "{{ title | lower | replace(' ', '-') | replace(':', '') | replace(',', '') }}"
+
+summary:
+  type: str
+  help: "Short summary"
+  default: ""
+
+tags:
+  type: str
+  help: "Comma separated list of tags"
+  default: "{{ content_type }}, {{ campaign }}"
+
+base_dir:
+  type: str
+  help: "Base directory"
+  default: >-
+    {% if campaign == 'tlwos' %}
+    docs/campaigns/tlwos
+    {% elif campaign == 'londra' %}
+    docs/campaigns/londra
+    {% elif campaign == 'shadow-in-the-empire' %}
+    docs/campaigns/shadow-in-the-empire
+    {% else %}
+    {{ custom_campaign_dir }}
+    {% endif %}
+
+content_dir:
+  type: str
+  help: "Content subdirectory"
+  default: >-
+    {% if content_type == 'npc' %}
+    npcs
+    {% elif content_type == 'item' %}
+    items
+    {% elif content_type == 'location' %}
+    locations
+    {% else %}
+    plots
+    {% endif %}
+
+target_dir:
+  type: str
+  help: "Target directory"
+  default: "{{ base_dir }}/{{ content_dir }}"

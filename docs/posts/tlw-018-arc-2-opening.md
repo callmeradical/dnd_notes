@@ -2,9 +2,10 @@
 title: "Session 018: The Road to Takashima"
 session_number: 18
 arc: "Arc 2 - The Iron Court"
-date: 2025-12-18
+date: 2025-12-10
 date_played: ""
 campaign: "The Last Whisper of Steel"
+summary: "Arc 2 opening session outline and planned beats for the road to Takashima."
 tags:
   - session-notes
   - session-log
@@ -15,6 +16,10 @@ tags:
   - wild-lotus
   - starcall-table
 ---
+
+_Arc 2 opening session outline and planned beats for the road to Takashima._
+
+<!-- more -->
 
 # Session 018: The Road to Takashima
 
