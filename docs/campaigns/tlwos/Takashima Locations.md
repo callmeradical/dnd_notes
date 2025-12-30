@@ -72,6 +72,21 @@ _Consolidated list of Takashima city, district, and Arc 2 location references._
   Source: [Session 018 - Tea House Tithe](../../posts/tlw-018-tea-house-tithe.md)
 - **Iron Rest Inn** — Mama Tora's inn on the cursed street.  
   Source: [Iron Rest Inn - Mama Tora](../../shuigari/Iron-Rest-Inn-Mama-Tora.md)
+- **Lower-to-Middle Guard Tower** — Checkpoint tower controlling passage up from the Lower Yards.  
+  Source: [Session 019](../../posts/tlw-019-session.md)  
+  - **NPCs:**  
+    - **Master of the Watch Saan** — corrupt, controlling, and quick to punish.  
+    - **Kento** — Shigeo’s son; professional, conflicted, loyal to duty.  
+    - **Guard Ichi** — bumbling, lazy, late, and out of shape; generally likable and disarming.  
+      - **Access & Leverage:**  
+        - Carries a **tower runner’s key-ring** for the Lower Yard sally door and the stairwell gate to the Middle Terrace.  
+        - **Shift overlap** with the dawn changeover; the door is busiest and easiest to slip past.  
+        - Leaves his **post ledger unattended** during snack runs; signatures can be forged or swapped.  
+        - Keeps a **spare cloak and tabard** in the locker room for friends “caught in the rain.”  
+  - **Quests & Hooks:**  
+    - Saan’s ledgers expose corruption; a missing ledger puts the tower on edge.  
+    - Kento can be swayed by appeals to honor or family, but not in public.  
+    - Ichi might “misplace” a gate token if treated kindly, then panic when he realizes it’s gone.  
 - **Middle Terrace Guard Tower** — Saan's command post.  
   Source: [Session 019](../../posts/tlw-019-session.md)
 - **Takashima Southern Gate** — Refugee pressure and entry point.  
