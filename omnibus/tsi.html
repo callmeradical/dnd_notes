@@ -1,0 +1,1273 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>TSI Omnibus</title>
+<style>
+:root {
+  --bg: #f7f4ef;
+  --text: #1f1f1f;
+  --muted: #5a5a5a;
+  --accent: #7b4a12;
+  --rule: #d4c9bb;
+  --code-bg: #efe9e1;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  font-family: "Georgia", "Times New Roman", serif;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.6;
+}
+main {
+  max-width: 920px;
+  margin: 0 auto;
+  padding: 48px 20px 96px;
+}
+header {
+  border-bottom: 2px solid var(--rule);
+  margin-bottom: 32px;
+  padding-bottom: 16px;
+}
+header h1 {
+  margin: 0 0 8px 0;
+  font-size: 36px;
+  letter-spacing: 0.5px;
+}
+header p {
+  margin: 0;
+  color: var(--muted);
+}
+.toc {
+  border: 1px solid var(--rule);
+  background: #fbf8f4;
+  padding: 16px 20px;
+  margin: 24px 0 32px;
+}
+.toc h2 {
+  margin: 0 0 8px;
+  font-size: 18px;
+  letter-spacing: 0.5px;
+}
+.toc ul {
+  margin: 0;
+  padding-left: 20px;
+}
+section h2, section h3, section h4 {
+  margin-top: 28px;
+}
+hr {
+  border: none;
+  border-top: 1px solid var(--rule);
+  margin: 28px 0;
+}
+blockquote {
+  margin: 16px 0;
+  padding: 8px 16px;
+  border-left: 4px solid var(--accent);
+  color: var(--muted);
+  background: #fbf8f4;
+}
+code, pre {
+  font-family: "Courier New", monospace;
+  background: var(--code-bg);
+}
+pre {
+  padding: 12px;
+  overflow-x: auto;
+}
+code {
+  padding: 2px 4px;
+}
+ul, ol {
+  padding-left: 22px;
+}
+a {
+  color: var(--accent);
+}
+@media (max-width: 640px) {
+  header h1 { font-size: 28px; }
+  main { padding: 32px 16px 64px; }
+}
+</style>
+</head>
+<body>
+<main>
+<header>
+  <h1>TSI Omnibus</h1>
+  <p>Consolidated notes for The Shadow in the Empire (TSI).</p>
+</header>
+<nav class="toc">
+  <h2>Table of Contents</h2>
+  <div class="toc">
+<ul>
+<li><a href="#tsi-omnibus">TSI Omnibus</a><ul>
+<li><a href="#session-notes">Session Notes</a><ul>
+<li><a href="#session-12026-power-word-kill">Session 12026: Power Word Kill (2026-01-04)</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#the-shadow-in-the-empire-session-12026-power-word-kill">The Shadow in the Empire - Session 12026: Power Word Kill</a><ul>
+<li><a href="#strong-start">Strong Start</a></li>
+<li><a href="#review-the-characters">Review the Characters</a></li>
+<li><a href="#possible-scenes">Possible Scenes</a></li>
+<li><a href="#fantastic-locations">Fantastic Locations</a></li>
+<li><a href="#secrets-and-clues">Secrets and Clues</a></li>
+<li><a href="#important-npcs">Important NPCs</a></li>
+<li><a href="#monsters">Monsters</a></li>
+<li><a href="#treasure">Treasure</a></li>
+<li><a href="#session-notes_1">Session Notes</a><ul>
+<li><a href="#what-happened">What Happened</a></li>
+<li><a href="#player-actions">Player Actions</a></li>
+<li><a href="#consequences-follow-up">Consequences &amp; Follow-up</a></li>
+</ul>
+</li>
+<li><a href="#prep-for-next-session">Prep for Next Session</a><ul>
+<li><a href="#cliffhangershooks">Cliffhangers/Hooks</a></li>
+<li><a href="#npcs-to-develop">NPCs to Develop</a></li>
+<li><a href="#locations-to-detail">Locations to Detail</a></li>
+<li><a href="#rules-to-review">Rules to Review</a></li>
+<li><a href="#tsi-session-102025">TSI Session 10.2025 (2025-10-10)</a></li>
+</ul>
+</li>
+<li><a href="#session-overview">Session Overview</a></li>
+<li><a href="#session-purpose">Session Purpose</a></li>
+<li><a href="#strong-start_1">Strong Start</a></li>
+<li><a href="#destination-options">Destination Options</a><ul>
+<li><a href="#coastal-destinations-black-dawn-accessible">Coastal Destinations (Black Dawn Accessible)</a><ul>
+<li><a href="#castle-garodya-45-miles-across-the-bay">Castle Garodya -- 45 miles (across the bay)</a></li>
+<li><a href="#ravar-orioth-the-bay-of-swords-maritime-zone">Ravar Orioth &amp; The Bay of Swords -- Maritime Zone</a></li>
+<li><a href="#dragonwatch-dragonwatch-isles">Dragonwatch (Dragonwatch Isles)</a></li>
+</ul>
+</li>
+<li><a href="#overland-expeditions-require-landing">Overland Expeditions (Require Landing)</a><ul>
+<li><a href="#newthrone-current-location-stayreturn">Newthrone (Current Location - Stay/Return)</a></li>
+<li><a href="#pitchwall-80-miles-inland">Pitchwall -- 80 miles inland</a></li>
+<li><a href="#dragonborn-clanholds-100-120-miles-inland">Dragonborn Clanholds -- 100-120 miles inland</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#key-npcs">Key NPCs</a><ul>
+<li><a href="#captain-dreyden-dlyrandar">Captain Dreyden d'Lyrandar</a></li>
+<li><a href="#fellion-continued-presence">Fellion (Continued Presence)</a></li>
+<li><a href="#lady-mirenna-background-npc-not-present">Lady Mirenna (Background NPC - Not Present)</a></li>
+</ul>
+</li>
+<li><a href="#important-dialogue">Important Dialogue</a><ul>
+<li><a href="#dreyden-on-submarine-travel">Dreyden on Submarine Travel</a></li>
+<li><a href="#fellion-on-balaur">Fellion on Balaur</a></li>
+<li><a href="#dreyden-on-the-infernal-war-machine">Dreyden on the Infernal War Machine</a></li>
+</ul>
+</li>
+<li><a href="#player-choices-decisions">Player Choices &amp; Decisions</a><ul>
+<li><a href="#major-decision-choose-destination">Major Decision: Choose Destination</a></li>
+</ul>
+</li>
+<li><a href="#potential-encounters">Potential Encounters</a><ul>
+<li><a href="#naval-encounters-if-traveling-underwater">Naval Encounters (If Traveling Underwater)</a><ul>
+<li><a href="#aberrant-sea-life-near-alth">Aberrant Sea Life (Near Alth)</a></li>
+<li><a href="#balaurs-patrol-fleet-near-bay-of-swords">Balaur's Patrol Fleet (Near Bay of Swords)</a></li>
+<li><a href="#sunken-ruins-discovery">Sunken Ruins Discovery</a></li>
+</ul>
+</li>
+<li><a href="#coastallanding-encounters">Coastal/Landing Encounters</a><ul>
+<li><a href="#scavenger-ambush">Scavenger Ambush</a></li>
+<li><a href="#wyrm-cult-patrol">Wyrm Cult Patrol</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#treasure-rewards">Treasure &amp; Rewards</a><ul>
+<li><a href="#potential-discoveries-based-on-destination">Potential Discoveries (Based on Destination)</a></li>
+</ul>
+</li>
+<li><a href="#valenar-background-if-players-ask">Valenar Background (If Players Ask)</a><ul>
+<li><a href="#quick-history-brief">Quick History Brief</a></li>
+<li><a href="#key-locations-under-balaur">Key Locations Under Balaur</a></li>
+</ul>
+</li>
+<li><a href="#gm-notes">GM Notes</a><ul>
+<li><a href="#session-highlights">Session Highlights</a></li>
+<li><a href="#unresolved-threads">Unresolved Threads</a></li>
+<li><a href="#next-session-setup">Next Session Setup</a></li>
+<li><a href="#campaign-themes-to-emphasize">Campaign Themes to Emphasize</a></li>
+<li><a href="#tsi-post-session-092025-campaign-update">TSI Post Session 09.2025 - Campaign Update (2025-09-12)</a></li>
+</ul>
+</li>
+<li><a href="#narrative-recap-the-black-dawn-and-the-road-to-newthrone">Narrative Recap: The Black Dawn and the Road to Newthrone</a><ul>
+<li><a href="#the-black-dawn">The Black Dawn</a></li>
+<li><a href="#salvage-and-secrets">Salvage and Secrets</a></li>
+<li><a href="#to-newthrone">To Newthrone</a></li>
+<li><a href="#the-present-moment">The Present Moment</a></li>
+</ul>
+</li>
+<li><a href="#updated-intelligence-what-fellion-now-knows">Updated Intelligence: What Fellion Now Knows</a><ul>
+<li><a href="#newthrone-confirmed-intelligence">Newthrone - CONFIRMED INTELLIGENCE</a></li>
+<li><a href="#other-destinations-knowledge-gaps-remain">Other Destinations - Knowledge Gaps Remain</a></li>
+</ul>
+</li>
+<li><a href="#discovered-npcs-factions">Discovered NPCs &amp; Factions</a><ul>
+<li><a href="#lady-mirenna-ashen-coil-leader">Lady Mirenna (Ashen Coil Leader)</a></li>
+<li><a href="#high-dreamer-saltheris-dreaming-maw-leader">High Dreamer Saltheris (Dreaming Maw Leader)</a></li>
+<li><a href="#captain-dreyden-dlyrandar_1">Captain Dreyden d'Lyrandar</a></li>
+</ul>
+</li>
+<li><a href="#strategic-implications">Strategic Implications</a><ul>
+<li><a href="#naval-mobility">Naval Mobility</a></li>
+<li><a href="#political-connections">Political Connections</a></li>
+<li><a href="#resource-acquisition">Resource Acquisition</a></li>
+</ul>
+</li>
+<li><a href="#next-destination-considerations">Next Destination Considerations</a><ul>
+<li><a href="#naval-accessible-destinations">Naval-Accessible Destinations</a></li>
+<li><a href="#land-based-expeditions">Land-Based Expeditions</a></li>
+<li><a href="#political-maneuvering">Political Maneuvering</a></li>
+</ul>
+</li>
+<li><a href="#gm-notes_1">GM Notes</a><ul>
+<li><a href="#campaign-progression">Campaign Progression</a></li>
+<li><a href="#factional-complexity">Factional Complexity</a></li>
+<li><a href="#strategic-capabilities">Strategic Capabilities</a></li>
+<li><a href="#tsi-session-092025">TSI Session 09.2025 (2025-09-12)</a></li>
+</ul>
+</li>
+<li><a href="#session-overview_1">Session Overview</a></li>
+<li><a href="#session-purpose_1">Session Purpose</a></li>
+<li><a href="#strong-start_2">Strong Start</a><ul>
+<li><a href="#adderport-ruins">Adderport Ruins</a></li>
+</ul>
+</li>
+<li><a href="#key-dialogue">Key Dialogue</a><ul>
+<li><a href="#asmodeuss-final-words">Asmodeus's Final Words</a></li>
+</ul>
+</li>
+<li><a href="#aufgeben-the-dark-cloud">Aufgeben, the Dark Cloud</a><ul>
+<li><a href="#personality-traits">Personality Traits</a></li>
+<li><a href="#ideals">Ideals</a></li>
+<li><a href="#bonds">Bonds</a></li>
+<li><a href="#flaws">Flaws</a></li>
+<li><a href="#aufgebens-message">Aufgeben's Message</a></li>
+</ul>
+</li>
+<li><a href="#character-block-fellion">Character Block: Fellion</a><ul>
+<li><a href="#personality-traits_1">Personality Traits</a></li>
+<li><a href="#ideals_1">Ideals</a></li>
+<li><a href="#bonds_1">Bonds</a></li>
+<li><a href="#flaws_1">Flaws</a></li>
+</ul>
+</li>
+<li><a href="#fellions-scheming-monologue">Fellion's Scheming Monologue</a><ul>
+<li><a href="#the-five-paths-fellion-presents">The Five Paths Fellion Presents</a></li>
+</ul>
+</li>
+<li><a href="#player-choice-immediate-destinations">Player Choice: Immediate Destinations</a><ul>
+<li><a href="#fellions-knowledge-of-nearby-locations">Fellion's Knowledge of Nearby Locations</a></li>
+<li><a href="#available-destinations">Available Destinations</a><ul>
+<li><a href="#castle-garodya-45-miles-across-the-bay_1">Castle Garodya -- 45 miles (across the bay)</a></li>
+<li><a href="#newthrone-80-miles">Newthrone -- 80 miles</a></li>
+<li><a href="#pitchwall-80-miles">Pitchwall -- 80 miles</a></li>
+<li><a href="#duskwing-clanhold-120-miles">Duskwing Clanhold -- 120 miles</a></li>
+<li><a href="#stormhorn-clanhold-100-miles">Stormhorn Clanhold -- 100 miles</a></li>
+<li><a href="#flamebrow-clanhold-100-miles">Flamebrow Clanhold -- 100 miles</a></li>
+<li><a href="#wyrmwatch-200-miles">Wyrmwatch -- 200 miles</a></li>
+</ul>
+</li>
+<li><a href="#strategic-considerations">Strategic Considerations</a></li>
+</ul>
+</li>
+<li><a href="#gm-notes_2">GM Notes</a><ul>
+<li><a href="#tsi-session-012023">TSI Session 01.2023 (2023-01-13)</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#tsite-202301">TSITE 2023.01</a><ul>
+<li><a href="#review-the-characters_1">Review the Characters</a></li>
+<li><a href="#important-dates">Important Dates</a></li>
+<li><a href="#strong-start_3">Strong Start</a><ul>
+<li><a href="#context-notes">Context Notes</a></li>
+</ul>
+</li>
+<li><a href="#possible-scenes_1">Possible Scenes</a><ul>
+<li><a href="#bar-fight-and-the-pickpockets">Bar Fight and the Pickpockets</a></li>
+<li><a href="#being-arrested">Being Arrested</a></li>
+<li><a href="#transportation-to-sharn">Transportation to Sharn</a></li>
+<li><a href="#meeting-kor">Meeting Kor</a></li>
+<li><a href="#the-stormblade">The Stormblade</a></li>
+<li><a href="#lightning-rail-larceny">Lightning Rail Larceny</a></li>
+</ul>
+</li>
+<li><a href="#relevant-npcs">Relevant NPCs</a><ul>
+<li><a href="#elara-of-moonwatch-and-the-graymoon-inn">Elara of Moonwatch and The Graymoon Inn</a></li>
+<li><a href="#capt-kaine-colworn">Capt. Kaine Colworn</a></li>
+<li><a href="#kor-irwynarn">Kor ir'Wynarn</a></li>
+<li><a href="#lokeris-dlyrandar">Lokeris d'Lyrandar</a></li>
+</ul>
+</li>
+<li><a href="#relevant-monsterscreatures">Relevant Monsters/Creatures</a><ul>
+<li><a href="#veterans">Veterans</a></li>
+</ul>
+</li>
+<li><a href="#fantastic-locations_1">Fantastic Locations</a><ul>
+<li><a href="#moonwatch">Moonwatch</a></li>
+<li><a href="#sharn">Sharn</a></li>
+<li><a href="#terminus">Terminus</a></li>
+<li><a href="#lightning-rail">Lightning Rail</a></li>
+</ul>
+</li>
+<li><a href="#possible-magic-items">Possible Magic Items</a></li>
+<li><a href="#location-details">Location Details</a><ul>
+<li><a href="#the-graymoon-tavern">The Graymoon Tavern</a></li>
+<li><a href="#about-moonwatch">About Moonwatch</a></li>
+</ul>
+</li>
+<li><a href="#npc-details">NPC Details</a><ul>
+<li><a href="#elara-of-moonwatch-and-the-graymoon-inn_1">Elara of Moonwatch and The Graymoon Inn</a></li>
+<li><a href="#capt-kaine-colworn_1">Capt. Kaine Colworn</a></li>
+<li><a href="#kor-irwynarn_1">Kor ir'Wynarn</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+
+</nav>
+<section>
+<h1 id="tsi-omnibus">TSI Omnibus</h1>
+<p>Consolidated notes for The Shadow in the Empire (TSI).</p>
+<h2 id="session-notes">Session Notes</h2>
+<h3 id="session-12026-power-word-kill">Session 12026: Power Word Kill  (2026-01-04)</h3>
+<p>_ Session 12026 prep notes. _</p>
+<h1 id="the-shadow-in-the-empire-session-12026-power-word-kill">The Shadow in the Empire - Session 12026: Power Word Kill</h1>
+<p><strong>Date:</strong> 2026-01-05
+<strong>Status:</strong> Prep</p>
+<hr />
+<h2 id="strong-start">Strong Start</h2>
+<p>The necrotic energy surged over Dent and the undead wizard had uttered a singular word. Kill. The rest of the party launches into action. The walls of the temple and the water above is beautiful suspended beyond some type of forcefield that holds the tides at bay. Roll Initiative.</p>
+<hr />
+<h2 id="review-the-characters">Review the Characters</h2>
+<p>The party is in an underground temple and exploring the ruins when they found the sole inhabitant, a Lich.</p>
+<hr />
+<h2 id="possible-scenes">Possible Scenes</h2>
+<p>Showdown with Lich
+Exploration and Chase to the Black Dawn
+Traps in the Temple
+Escape from Old Temple</p>
+<hr />
+<h2 id="fantastic-locations">Fantastic Locations</h2>
+<p>Top of Temple
+Bell Room
+Black Dawn
+Hightower
+Shores of Draconath
+Alith</p>
+<hr />
+<h2 id="secrets-and-clues">Secrets and Clues</h2>
+<p>The Lich Identity
+Hints and Rumors in surrounding Area
+What they might find in Moonwatch
+A broadcast or Projection from holdouts</p>
+<hr />
+<h2 id="important-npcs">Important NPCs</h2>
+<p>Laznue Vil'na'kar (The Lich)
+Saghuigin Chieftain and Followers
+The World Serpent</p>
+<hr />
+<h2 id="monsters">Monsters</h2>
+<p>Lich
+Wights
+Ghouls
+Skeletons
+Zombies</p>
+<hr />
+<h2 id="treasure">Treasure</h2>
+<p>Lich Treasure Hoard
+Magic Items (roll on table)</p>
+<hr />
+<h2 id="session-notes_1">Session Notes</h2>
+<h3 id="what-happened">What Happened</h3>
+<ul>
+<li></li>
+</ul>
+<h3 id="player-actions">Player Actions</h3>
+<ul>
+<li></li>
+</ul>
+<h3 id="consequences-follow-up">Consequences &amp; Follow-up</h3>
+<ul>
+<li></li>
+</ul>
+<hr />
+<h2 id="prep-for-next-session">Prep for Next Session</h2>
+<h3 id="cliffhangershooks">Cliffhangers/Hooks</h3>
+<ul>
+<li></li>
+</ul>
+<h3 id="npcs-to-develop">NPCs to Develop</h3>
+<ul>
+<li></li>
+</ul>
+<h3 id="locations-to-detail">Locations to Detail</h3>
+<ul>
+<li></li>
+</ul>
+<h3 id="rules-to-review">Rules to Review</h3>
+<p>-</p>
+<h3 id="tsi-session-102025">TSI Session 10.2025 (2025-10-10)</h3>
+<p><em>Departing Newthrone aboard the Black Dawn and choosing the next destination.</em></p>
+<h2 id="session-overview">Session Overview</h2>
+<p>The party departs Newthrone aboard the Black Dawn, their submarine refuge now stocked with supplies and shadowed by political debts. Lady Mirenna's favor has been earned, but enemies multiply--the Dreaming Maw licks its wounds, and the waters ahead hold unknown dangers. The crew is tense, the infernal war machine below deck rattles its chains, and Captain Dreyden d'Lyrandar sets course for whatever destination the party chooses.</p>
+<h2 id="session-purpose">Session Purpose</h2>
+<ul>
+<li>Establish the <strong>Black Dawn as mobile base</strong> and the capabilities/limitations of submarine travel</li>
+<li>Present <strong>meaningful destination choices</strong> that will shape the next arc</li>
+<li>Introduce <strong>naval threats and opportunities</strong> unique to Q'barra's coastal waters</li>
+<li>Allow players to decide their path: exploration, faction politics, or ancient mysteries</li>
+</ul>
+<hr />
+<h2 id="strong-start_1">Strong Start</h2>
+<blockquote>
+<p><em>The Black Dawn sits low in Newthrone's murky harbor, its hull slick with barnacles and algae. Dawn light breaks across the water, casting long shadows through the ruined docks. The city behind you is waking--coughing, groaning, the sound of a thousand desperate souls clawing for survival in the wyrm-shadowed world.</em></p>
+<p><em>Captain Dreyden d'Lyrandar stands at the helm, one hand on the diving plane controls, his dragonmark faintly glowing along his forearm. His eyes scan the horizon with the wariness of a man who's died once and doesn't care to repeat the experience. Fellion leans against the conning tower, silver hair catching the light, his expression unreadable.</em></p>
+<p><em>Below deck, the infernal war machine groans. Its chains rattle--once, twice--like something stirring in sleep. The crew freeze, exchange glances, then resume their tasks with the brittle efficiency of men who know they're sailing with nightmares.</em></p>
+<p><em>Dreyden's voice cuts through the morning haze, calm but edged with tension. "We've got 14 days of supplies. Maybe 16 if we ration. The Black Dawn can take us anywhere along the coast--underwater, out of sight of dragon patrols. But once we submerge, there's no easy escape. So." He turns to face you, one eyebrow raised. "Where are we going?"</em></p>
+<p><em>The waters stretch before you--dark, endless, and full of promise or death. The choice is yours.</em></p>
+</blockquote>
+<hr />
+<h2 id="destination-options">Destination Options</h2>
+<h3 id="coastal-destinations-black-dawn-accessible">Coastal Destinations (Black Dawn Accessible)</h3>
+<h4 id="castle-garodya-45-miles-across-the-bay"><strong>Castle Garodya -- 45 miles (across the bay)</strong></h4>
+<p><strong>Fellion's Knowledge:</strong></p>
+<blockquote>
+<p>"Once a Brelish fortress, abandoned when the wyrms rose. I heard whispers of scavengers picking it clean, and that something old and dangerous stirred in its cellars. Little more than rumor, but the ruins are accessible by sea."</p>
+</blockquote>
+<p><strong>Strategic Value:</strong>
+- Closest destination, fastest route
+- Potential supplies, salvage, or intelligence
+- Ruined fortress may hold hidden caches or Brelish relics</p>
+<h4 id="ravar-orioth-the-bay-of-swords-maritime-zone"><strong>Ravar Orioth &amp; The Bay of Swords -- Maritime Zone</strong></h4>
+<p><strong>Intelligence from Frontier Reports:</strong>
+- The bay has become Balaur's naval crucible
+- Waters glow red with molten runoff from coastal forges
+- Wrecks harvested and reforged into Balaur's armada
+- <strong>Extremely Dangerous</strong>: Active conquest-forges, warship construction, arena trials</p>
+<p><strong>Fellion's Warning:</strong></p>
+<blockquote>
+<p>"The Bay of Swords was once navigable. Now? It's a forge of war. Balaur builds his fleet there. You'd be sailing straight into the dragon's maw."</p>
+</blockquote>
+<h4 id="dragonwatch-dragonwatch-isles"><strong>Dragonwatch (Dragonwatch Isles)</strong></h4>
+<p><strong>Fellion's Knowledge:</strong></p>
+<blockquote>
+<p>"Built to monitor wyrm activity--ironic. The harbor's half-sunken, but trade still flows. The dragon who rules there accepts tribute in secrets. If you have valuable intelligence, you might walk free. If you don't..." He shrugs.</p>
+</blockquote>
+<p><strong>Strategic Value:</strong>
+- Functioning trade hub under wyrm control
+- Intelligence gathering opportunity
+- Black market in forged cult tokens
+- High risk: dragon hoards knowledge, enforcers can smell lies</p>
+<h3 id="overland-expeditions-require-landing">Overland Expeditions (Require Landing)</h3>
+<h4 id="newthrone-current-location-stayreturn"><strong>Newthrone</strong> (Current Location - Stay/Return)</h4>
+<ul>
+<li>Leverage Ashen Coil connections for additional contracts</li>
+<li>Investigate other factions (beyond Ashen Coil and Dreaming Maw)</li>
+<li>Resupply and gather intelligence</li>
+</ul>
+<h4 id="pitchwall-80-miles-inland"><strong>Pitchwall -- 80 miles inland</strong></h4>
+<ul>
+<li>Mining town, once hub of dragonshard trade</li>
+<li>Likely stripped bare or contested by mercenaries and bandits</li>
+<li>Cannith scavengers rumored to be hunting shards</li>
+</ul>
+<h4 id="dragonborn-clanholds-100-120-miles-inland"><strong>Dragonborn Clanholds -- 100-120 miles inland</strong></h4>
+<ul>
+<li><strong>Duskwing Clanhold</strong> (120 mi): Secretive, deep jungle, stance on wyrm-rule unknown</li>
+<li><strong>Stormhorn Clanhold</strong> (100 mi): Mountain warriors, likely resisted longer</li>
+<li><strong>Flamebrow Clanhold</strong> (100 mi): Rich in dragonshards, possibly made pacts</li>
+</ul>
+<hr />
+<h2 id="key-npcs">Key NPCs</h2>
+<h3 id="captain-dreyden-dlyrandar">Captain Dreyden d'Lyrandar</h3>
+<p><strong>Personality Traits:</strong>
+- Pragmatic and cautious--death taught him to pick his battles
+- Speaks with dry humor, deflecting from deeper pain
+- Observant; notices details others miss
+- Resents being controlled but values competent leadership</p>
+<p><strong>Ideals:</strong>
+- <strong>Survival Through Adaptation</strong>: The world changed; adapt or die
+- <strong>Autonomy</strong>: He's been a slave to prophecy and death; now he serves himself first
+- <strong>Competence Over Loyalty</strong>: Respect those who prove their worth</p>
+<p><strong>Bonds:</strong>
+- Bound to the Black Dawn--his ship, his responsibility, his prison
+- Dragonmarked House Lyrandar connection (complicated, potentially dangerous if revealed)
+- The party resurrected him; he owes them a debt, even if he doesn't like it</p>
+<p><strong>Flaws:</strong>
+- <strong>Haunted</strong>: Dying left scars; he sees omens in shadows
+- <strong>Cynical</strong>: Trusts actions more than words, expects betrayal
+- <strong>Risk-Averse</strong>: Won't gamble the Black Dawn on foolish ventures</p>
+<p><strong>Key Dialogue:</strong></p>
+<blockquote>
+<p>"I've died once. Wasn't pleasant. So when I tell you a course is suicide, believe me--I have experience in the matter."</p>
+</blockquote>
+<hr />
+<h3 id="fellion-continued-presence">Fellion (Continued Presence)</h3>
+<p><strong>Personality Traits:</strong>
+- Sly half-truths; rarely gives the full story upfront
+- Grim humor to deflect from fear or regret
+- False confidence masking deep uncertainty
+- Prefers manipulation and whispers over confrontation</p>
+<p><strong>Current Role:</strong>
+- Intelligence advisor and scheming guide
+- Knowledge of Q'barra limited but growing based on party reports
+- Interested in keeping the party alive (they're useful) but not loyal</p>
+<p><strong>Key Dialogue:</strong></p>
+<blockquote>
+<p>"Castle Garodya? Closest, yes. Safest? Nothing's safe anymore. But at least the fortress won't <em>chase</em> you."</p>
+</blockquote>
+<hr />
+<h3 id="lady-mirenna-background-npc-not-present">Lady Mirenna (Background NPC - Not Present)</h3>
+<p><strong>Status:</strong>
+- Patron in Newthrone
+- Ashen Coil leader, collaborator with wyrm cults
+- Owes the party favor after Oathfang heist
+- Potential contact for future work or intelligence</p>
+<hr />
+<h2 id="important-dialogue">Important Dialogue</h2>
+<h3 id="dreyden-on-submarine-travel">Dreyden on Submarine Travel</h3>
+<blockquote>
+<p>"The Black Dawn can take us deep--dragon patrols won't see us coming. But she's temperamental. The elemental binding is old, and the war machine below deck... it <em>pulls</em> at the ship's magic. We dive too deep or stay down too long, things get unstable. I'd prefer not to test how long we can hold our breath."</p>
+</blockquote>
+<p><strong>Context:</strong>
+- Establishes Black Dawn capabilities: stealth, underwater travel
+- Limitations: elemental binding strain, war machine interference
+- Adds tension to underwater segments</p>
+<hr />
+<h3 id="fellion-on-balaur">Fellion on Balaur</h3>
+<blockquote>
+<p>"Balaur, the Beast of War. He's not like the others--he <em>walks</em> among mortals. Appears as an elven knight in adamantine plate. The Valenar don't just serve him; they <em>follow</em> him. Earned his throne by killing their high lord in single combat. Now they live by his creed: 'You keep what you kill.' Challenge, conquer, claim. It's a meritocracy written in blood."</p>
+</blockquote>
+<p><strong>Context:</strong>
+- Introduction to Balaur's nature and philosophy
+- Explains why Valenar follow him (respect, not fear)
+- Warns about the conquest culture in his territory</p>
+<hr />
+<h3 id="dreyden-on-the-infernal-war-machine">Dreyden on the Infernal War Machine</h3>
+<blockquote>
+<p>"That thing below deck? It's not cargo--it's a passenger. I feel it <em>watching</em> sometimes, like it's waiting. Keep it chained, keep it dormant, and maybe we all live. But if you're planning to use it... tell me first, so I can abandon ship."</p>
+</blockquote>
+<p><strong>Context:</strong>
+- The war machine is dangerous even dormant
+- Foreshadows potential complications
+- Dreyden's wariness adds tension</p>
+<hr />
+<h2 id="player-choices-decisions">Player Choices &amp; Decisions</h2>
+<h3 id="major-decision-choose-destination">Major Decision: Choose Destination</h3>
+<p>The party must decide where to sail the Black Dawn:</p>
+<p><strong>Coastal Options:</strong>
+1. <strong>Castle Garodya</strong> (45 mi) - Closest, ruins exploration, potential salvage
+2. <strong>Dragonwatch</strong> (Isles) - Trade hub, intelligence gathering, high risk
+3. <strong>Bay of Swords</strong> - Balaur's naval forges, extremely dangerous, rich rewards</p>
+<p><strong>Overland Options (Requires Landing):</strong>
+1. <strong>Stay/Return to Newthrone</strong> - Politics, faction work, resupply
+2. <strong>Pitchwall</strong> (80 mi) - Mining town, dragonshard salvage
+3. <strong>Dragonborn Clanholds</strong> (100-120 mi) - Faction alliances, distant</p>
+<p><strong>Considerations:</strong>
+- 14 days of supplies (16 if rationed)
+- Submarine stealth vs. overland visibility
+- Risk vs. reward for each destination
+- Long-term strategic goals</p>
+<hr />
+<h2 id="potential-encounters">Potential Encounters</h2>
+<h3 id="naval-encounters-if-traveling-underwater">Naval Encounters (If Traveling Underwater)</h3>
+<h4 id="aberrant-sea-life-near-alth">Aberrant Sea Life (Near Alth)</h4>
+<ul>
+<li><strong>Type:</strong> Combat/Exploration</li>
+<li><strong>Trigger:</strong> Traveling near Alth fishing village where dragon molt warps waters</li>
+<li><strong>Threat:</strong> Mutated sea creatures with too many eyes, drawn to Black Dawn's elemental magic</li>
+<li><strong>Outcome Options:</strong> Evade, fight, or harvest aberrant materials</li>
+</ul>
+<h4 id="balaurs-patrol-fleet-near-bay-of-swords">Balaur's Patrol Fleet (Near Bay of Swords)</h4>
+<ul>
+<li><strong>Type:</strong> Combat/Stealth</li>
+<li><strong>Trigger:</strong> Approaching Ravar Orioth or Bay of Swords</li>
+<li><strong>Threat:</strong> Valenar warships with kill-mark branded hulls, hunting for salvage or intruders</li>
+<li><strong>Outcome Options:</strong> Hide, negotiate, or fight (extremely dangerous)</li>
+</ul>
+<h4 id="sunken-ruins-discovery">Sunken Ruins Discovery</h4>
+<ul>
+<li><strong>Type:</strong> Exploration</li>
+<li><strong>Trigger:</strong> Random encounter during travel</li>
+<li><strong>Opportunity:</strong> Dhakaani ruins or giant structures underwater, potential treasure/lore</li>
+<li><strong>Risk:</strong> Unstable structures, trapped air pockets, ancient guardians</li>
+</ul>
+<hr />
+<h3 id="coastallanding-encounters">Coastal/Landing Encounters</h3>
+<h4 id="scavenger-ambush">Scavenger Ambush</h4>
+<ul>
+<li><strong>Type:</strong> Combat/Social</li>
+<li><strong>Location:</strong> Any coastal landing</li>
+<li><strong>Threat:</strong> Desperate survivors or mercenary bands targeting supply-rich vessels</li>
+<li><strong>Outcome Options:</strong> Fight, bribe, recruit</li>
+</ul>
+<h4 id="wyrm-cult-patrol">Wyrm Cult Patrol</h4>
+<ul>
+<li><strong>Type:</strong> Combat/Stealth/Social</li>
+<li><strong>Location:</strong> Near any wyrm-controlled territory</li>
+<li><strong>Threat:</strong> Scaled enforcers or cultists inspecting travelers</li>
+<li><strong>Outcome Options:</strong> Bluff with cult tokens, fight, evade</li>
+</ul>
+<hr />
+<h2 id="treasure-rewards">Treasure &amp; Rewards</h2>
+<h3 id="potential-discoveries-based-on-destination">Potential Discoveries (Based on Destination)</h3>
+<p><strong>Castle Garodya:</strong>
+- Brelish military supplies and cached weapons
+- Historical documents about pre-Wyrmfall Q'barra
+- Potential Dhakaani artifacts in cellars</p>
+<p><strong>Dragonwatch:</strong>
+- Intelligence ledgers (1,000 gp value to smugglers)
+- Forged or genuine cult tokens for safe passage
+- Rare trade goods from wyrm-approved routes</p>
+<p><strong>Bay of Swords (High Risk):</strong>
+- Salvaged naval materials (1,200+ gp)
+- Valenar steel weapons and armor
+- Balaur's naval charts showing invasion plans</p>
+<hr />
+<h2 id="valenar-background-if-players-ask">Valenar Background (If Players Ask)</h2>
+<h3 id="quick-history-brief">Quick History Brief</h3>
+<p><strong>Ancient Layers:</strong>
+- <strong>Giants</strong> (oldest): Titan-stones, Forge of Kor'vulath
+- <strong>Dhakaani Empire</strong> (-9000 to -3000 YK): Fortress-cities, temples, sealed vaults beneath Valenar
+- <strong>Valenar Elves</strong> (-2600 YK): Warrior culture, claimed region through conquest, patron ancestor worship</p>
+<p><strong>Balaur's Conquest (1003 YK):</strong>
+- Defeated Valenar high lord in single combat
+- Established "You keep what you kill" meritocracy
+- Appears as elven knight in adamantine plate
+- <strong>Unique Among Dragons</strong>: Values mortal curiosity, ambition, drive--genuinely enjoys their company</p>
+<h3 id="key-locations-under-balaur">Key Locations Under Balaur</h3>
+<p><strong>Taer Valaestas (Valenar Capital):</strong>
+- Built atop ancient Dhakaani temple (Dhakaan Khor)
+- Balaur's throne room uses Six Crowns pedestals for trophies
+- Officers earn rank through arena combat</p>
+<p><strong>Taer Shantare (Border Fortress):</strong>
+- Built over Dhakaani military academy
+- Forward conquest-bastion
+- Walls thrum like war drums</p>
+<p><strong>Bay of Swords:</strong>
+- Conquest-forges where ships are melted and reforged
+- Captured crews fight in arena: win 3 bouts or die
+- Ships branded with kill-marks</p>
+<hr />
+<h2 id="gm-notes">GM Notes</h2>
+<h3 id="session-highlights">Session Highlights</h3>
+<ul>
+<li><strong>Player Agency</strong>: Destination choice shapes next arc (exploration, combat, intrigue)</li>
+<li><strong>Submarine Mechanics</strong>: Establish rules for underwater travel, supply management, crew morale</li>
+<li><strong>Tension Building</strong>: War machine rattling, Dreyden's wariness, limited supplies create urgency</li>
+</ul>
+<h3 id="unresolved-threads">Unresolved Threads</h3>
+<ul>
+<li><strong>Lady Mirenna's Favor</strong>: Can be called upon for future contracts or intelligence</li>
+<li><strong>Dreaming Maw Revenge</strong>: High Dreamer Saltheris paralyzed; faction likely planning retaliation</li>
+<li><strong>Aufgeben's Watchfulness</strong>: The Dark Cloud observes from Adderport</li>
+<li><strong>Infernal War Machine</strong>: Dormant but dangerous, potential future complication</li>
+<li><strong>Dreyden's House Connection</strong>: House Lyrandar dragonmark could be political leverage or liability</li>
+</ul>
+<h3 id="next-session-setup">Next Session Setup</h3>
+<p><strong>Based on Player Choice:</strong></p>
+<p><strong>If Castle Garodya:</strong>
+- Ruined fortress exploration
+- Brelish military secrets
+- Something old and dangerous in the cellars (Fellion's rumor)</p>
+<p><strong>If Dragonwatch:</strong>
+- Social intrigue and negotiation
+- Dragon who hoards knowledge
+- Black market dealings, high stakes</p>
+<p><strong>If Bay of Swords:</strong>
+- Stealth infiltration or open combat
+- Balaur's war machine forges
+- Extreme danger, extreme rewards</p>
+<p><strong>If Overland:</strong>
+- Land travel mechanics
+- Different encounter types
+- Faction politics (if Newthrone) or wilderness survival</p>
+<h3 id="campaign-themes-to-emphasize">Campaign Themes to Emphasize</h3>
+<ul>
+<li><strong>Conquest Layered on Conquest</strong>: Giant ? Dhakaani ? Valenar ? Balaur</li>
+<li><strong>Mortal Striving</strong>: Balaur respects ambition, curiosity, drive--PCs embody this</li>
+<li><strong>Resource Management</strong>: Supplies, political favors, crew morale all matter</li>
+<li><strong>Meaningful Choices</strong>: Every destination has consequences and opportunities</li>
+</ul>
+<hr />
+<p>? <a href="../campaigns/shadow-in-the-empire/index.md">Back to The Shadow in the Empire</a></p>
+<h3 id="tsi-post-session-092025-campaign-update">TSI Post Session 09.2025 - Campaign Update (2025-09-12)</h3>
+<p><em>Campaign update covering the Black Dawn, Newthrone, and the Oathfang heist aftermath.</em></p>
+<h2 id="narrative-recap-the-black-dawn-and-the-road-to-newthrone">Narrative Recap: The Black Dawn and the Road to Newthrone</h2>
+<p>The storm had not yet lifted when the party made their choice. The infernal war machine, battered from its time in Avernus and the battles since, would not carry them further along Q'barra's coast. Instead, its twisted bulk was dragged across the broken sandbars and loaded into the cavernous hold of the submarine Black Dawn -- their new vessel, their new refuge, their gamble.</p>
+<h3 id="the-black-dawn"><strong>The Black Dawn</strong></h3>
+<p>Captain Voss, resurrected and unmasked as Captain Dreyden d'Lyrandar, watched with folded arms as the crew he once commanded reluctantly obeyed new masters. The Black Dawn was not a prize easily won -- it had been baptized in blood, claimed in the chaos of a lizardfolk ambush where velociraptors tore through sailors and raiders alike. The party's deception, invoking the Devourer of the Dark Six, scattered many foes, but not before steel was drawn and lives were lost.</p>
+<p><strong>Eighteen crewmen had fallen.</strong> Their gear, their rations, their weapons -- all stripped and claimed, the spoils of a desperate alliance. The submarine was theirs now, though Dreyden alone held the skill to guide it beneath the waters.</p>
+<h3 id="salvage-and-secrets"><strong>Salvage and Secrets</strong></h3>
+<p>On the shore, the wreckage of an airship still smoldered, twisted timbers and shards of elemental binding rings scattered across the beach. The party salvaged what they could: tools, shards, and timbers, feeding the hungry hold of the Black Dawn. Each fragment whispered of a once-great craft brought low, its secrets now drifting in the tide.</p>
+<p>Below deck, the infernal war machine's presence was like a wound. Even dormant, its chains rattled in the half-light, as though resentful at being confined. The submarine's sailors muttered and avoided its shadow, and even Dreyden's steady hands on the wheel seemed tighter with it aboard.</p>
+<h3 id="to-newthrone"><strong>To Newthrone</strong></h3>
+<p>With the monsoon spent and supplies secured, the Black Dawn slipped along the coast. Days of tense travel brought them to the shattered grandeur of Newthrone. The city was alive with fear and ambition, split between Collaborators, mercenaries, and cults clawing for dominance.</p>
+<p>Here, through Gareth's introductions, the party met <strong>Lady Mirenna</strong>. She did not ask for coin or simple loyalty -- she demanded proof of audacity. Her task: steal the <strong>Oathfang</strong>, a Brelish relic wielded by <strong>High Dreamer Saltheris</strong> of the <strong>Dreaming Maw</strong>.</p>
+<p>The heist was daring. Infiltrating the dream-temple, the party paralyzed Saltheris, ripped the sword from his grasp, and fled through incense-choked halls. By the time they placed the blade into Mirenna's waiting hands, she was already plotting a duel that would humiliate her rival before all Newthrone.</p>
+<h3 id="the-present-moment"><strong>The Present Moment</strong></h3>
+<p>Now, the party sits aboard the Black Dawn, supplies for 14 days stowed in the galley, Mirenna's favor tenuously granted, and the infernal war machine chained below deck like a sleeping giant. Allies are fragile -- Fellion with his schemer's grin, Dreyden with his hidden name, Mirenna with her fiery ambitions. Enemies gather in whispers -- the Dreaming Maw licking its wounds, Aufgeben watching from Adderport, wyrm cults tightening their grip.</p>
+<p>The sea stretches ahead. The coast is dotted with ruins, clanholds, and the shadows of dragons. Their journey into Q'barra's wilds has only just begun.</p>
+<hr />
+<h2 id="updated-intelligence-what-fellion-now-knows">Updated Intelligence: What Fellion Now Knows</h2>
+<p>Based on the party's experiences and reports, Fellion's knowledge of nearby destinations has been updated:</p>
+<h3 id="newthrone-confirmed-intelligence"><strong>Newthrone - CONFIRMED INTELLIGENCE</strong></h3>
+<p><strong>Current Status:</strong> City divided between competing factions, active trade and politics</p>
+<p><strong>Political Factions:</strong></p>
+<ul>
+<li><strong>Ashen Coil</strong> (Collaborators): Led by Lady Mirenna, work with wyrm cults</li>
+<li><strong>Dreaming Maw</strong>: Led by High Dreamer Saltheris, dream-temple faction</li>
+<li><strong>Additional factions</strong> likely present but not yet encountered</li>
+</ul>
+<p><strong>Key Discoveries:</strong></p>
+<ul>
+<li>Functioning salvage markets and supply chains</li>
+<li>Collapsed Cannith mining operations with trapped workers</li>
+<li>Active factional politics involving theft of significant relics</li>
+<li>Both collaboration and resistance to wyrm rule present</li>
+</ul>
+<p><strong>Fellion's Updated Assessment:</strong></p>
+<blockquote>
+<p>"Your reports confirm my suspicions about factional fracturing, but the city is far more organized than I expected. The collaborator cults have real power, and the political maneuvering involves significant artifacts. This is not mere survival - this is active resistance and collaboration playing out in parallel."</p>
+</blockquote>
+<h3 id="other-destinations-knowledge-gaps-remain"><strong>Other Destinations - Knowledge Gaps Remain</strong></h3>
+<p>The party's journey to Newthrone has not provided additional intelligence about:</p>
+<ul>
+<li>Castle Garodya</li>
+<li>Pitchwall</li>
+<li>The Dragonborn Clanholds</li>
+<li>Wyrmwatch</li>
+</ul>
+<p>Fellion's knowledge of these locations remains limited to rumors and speculation.</p>
+<hr />
+<h2 id="discovered-npcs-factions">Discovered NPCs &amp; Factions</h2>
+<h3 id="lady-mirenna-ashen-coil-leader"><strong>Lady Mirenna</strong> <em>(Ashen Coil Leader)</em></h3>
+<ul>
+<li>Collaborator faction leader in Newthrone</li>
+<li>Commands resources and influence</li>
+<li>Interested in acquiring Brelish relics and artifacts</li>
+<li>Has provided patronage to the party</li>
+</ul>
+<h3 id="high-dreamer-saltheris-dreaming-maw-leader"><strong>High Dreamer Saltheris</strong> <em>(Dreaming Maw Leader)</em></h3>
+<ul>
+<li>Controlled dream-temple faction</li>
+<li>Possessed the Oathfang, a significant Brelish relic</li>
+<li>Now paralyzed due to party's infiltration mission</li>
+</ul>
+<h3 id="captain-dreyden-dlyrandar_1"><strong>Captain Dreyden d'Lyrandar</strong></h3>
+<ul>
+<li>True identity of "Captain Voss"</li>
+<li>Commands the submarine Black Dawn</li>
+<li>Alliance with the party provides naval mobility</li>
+<li>Dragonmarked house connection - significant political implications</li>
+</ul>
+<hr />
+<h2 id="strategic-implications">Strategic Implications</h2>
+<h3 id="naval-mobility"><strong>Naval Mobility</strong></h3>
+<p>The Black Dawn provides:</p>
+<ul>
+<li>Underwater travel avoiding aerial dragon patrols</li>
+<li>Cargo capacity for salvage operations</li>
+<li>Mobile base of operations</li>
+<li>Access to coastal and riverine destinations</li>
+</ul>
+<h3 id="political-connections"><strong>Political Connections</strong></h3>
+<ul>
+<li>Established relationship with Ashen Coil faction</li>
+<li>Potential house connections through Dreyden d'Lyrandar</li>
+<li>Knowledge of factional conflicts in major settlements</li>
+</ul>
+<h3 id="resource-acquisition"><strong>Resource Acquisition</strong></h3>
+<ul>
+<li>Proven salvage and trade capabilities</li>
+<li>Access to factional resources through Mirenna</li>
+<li>Understanding of collapsed infrastructure exploitation</li>
+</ul>
+<hr />
+<h2 id="next-destination-considerations">Next Destination Considerations</h2>
+<p>With the Black Dawn as mobile base and Newthrone intelligence gathered, the party has several strategic options:</p>
+<h3 id="naval-accessible-destinations"><strong>Naval-Accessible Destinations</strong></h3>
+<ul>
+<li><strong>Castle Garodya</strong> (45 mi) - Coastal ruins, Black Dawn can provide direct access</li>
+<li>Additional coastal or riverine locations within submarine range</li>
+</ul>
+<h3 id="land-based-expeditions"><strong>Land-Based Expeditions</strong></h3>
+<ul>
+<li>Use Newthrone as supply base for overland expeditions</li>
+<li><strong>Pitchwall</strong> (80 mi) - Mining operations, potential Cannith connections</li>
+<li><strong>Dragonborn Clanholds</strong> (100-120 mi) - Require significant overland travel</li>
+<li><strong>Wyrmwatch</strong> (200 mi) - Long-range expedition requiring careful planning</li>
+</ul>
+<h3 id="political-maneuvering"><strong>Political Maneuvering</strong></h3>
+<ul>
+<li>Leverage Ashen Coil connections for additional contracts</li>
+<li>Investigate other Newthrone factions</li>
+<li>Exploit house connections through Dreyden</li>
+</ul>
+<hr />
+<h2 id="gm-notes_1">GM Notes</h2>
+<h3 id="campaign-progression"><strong>Campaign Progression</strong></h3>
+<ul>
+<li>Party has moved from pure exploration to active political engagement</li>
+<li>Established base of operations and key NPC relationships</li>
+<li>Resource acquisition successful, enabling larger expeditions</li>
+</ul>
+<h3 id="factional-complexity"><strong>Factional Complexity</strong></h3>
+<ul>
+<li>Newthrone politics provide ongoing story hooks</li>
+<li>Collaborator vs. resistance dynamics create moral complexity</li>
+<li>House connections add layers to political landscape</li>
+</ul>
+<h3 id="strategic-capabilities"><strong>Strategic Capabilities</strong></h3>
+<ul>
+<li>Naval mobility opens new destination options</li>
+<li>Established trade relationships enable equipment acquisition</li>
+<li>Political alliances provide intelligence and contracts</li>
+</ul>
+<hr />
+<p>? <a href="../campaigns/shadow-in-the-empire/index.md">Back to The Shadow in the Empire</a></p>
+<h3 id="tsi-session-092025">TSI Session 09.2025 (2025-09-12)</h3>
+<p><em>The party wakes after a three-year skip in Adderport and chooses their next path in a changed Q'barra.</em></p>
+<h2 id="session-overview_1">Session Overview</h2>
+<p>The party awakens from their three-year time skip in the ruins of Adderport,
+Q'barra. The wyrms now rule openly, and the world has fundamentally changed.
+Aufgeben grants the party their freedom as payment for fulfilling the Prophecy,
+while Fellion rejoins them with knowledge of the surrounding area and scheming
+advice about their next moves.</p>
+<h2 id="session-purpose_1">Session Purpose</h2>
+<ul>
+<li>Establish the <strong>post-Avernus world state</strong> (dragons rule, industry collapsed,
+  three years passed)</li>
+<li>Grant players <strong>freedom of agency</strong> -- they are no longer bound by prophecy</li>
+<li>Present <strong>meaningful destination choices</strong> that will shape the campaign's direction</li>
+<li>Introduce <strong>Sharn as a long-term goal</strong> through Asmodeus's dying words</li>
+<li>Position Fellion as a <strong>scheming ally</strong> with his own agenda</li>
+<li>Let players choose their path forward from several compelling options</li>
+</ul>
+<hr />
+<h2 id="strong-start_2">Strong Start</h2>
+<blockquote>
+<p><em>The cavern yawns before you -- a vast subterranean gulf, its walls slick with
+condensation and streaked with veins of faintly glowing dragonshard. Mist
+clings low to the ground, curling in tendrils around jagged stone
+outcroppings. Stalactites hang like teeth overhead, dripping steadily into
+black pools. A faint, salty breeze drifts through some unseen fissure,
+carrying the smell of brine and ozone.</em></p>
+<p><em>The air is heavy, pressing against your lungs. Each breath tastes metallic,
+like lightning before a storm. Every sound you make -- the scuff of your
+boots, the drip of water, even your whispers -- is swallowed by the mist,
+leaving behind an eerie hush. Lanternlight scatters and fractures in the fog,
+warping shadows into phantoms that seem to watch from the edge of sight.
+Somewhere deeper in the cavern, a low rumble rolls through the stone, like
+distant thunder in a place that should never know storms.</em></p>
+<p><em>The mist shifts. A shadow lengthens across the cavern floor, sharp and
+deliberate. Out of the haze steps a tall figure -- an elf, impossibly pristine
+against the dripping stone. His silver hair frames angular features, his
+clothing fine and unsullied by the damp. Regal, sharp-eyed, he moves with the
+calm certainty of one who belongs here utterly. The cavern itself stills, as
+though the stone holds its breath to acknowledge him.</em></p>
+<p><em>He stops before you, eyes glinting with cold amusement. In the silence that
+follows, it feels less like you are meeting a man... and more as though the
+cavern has chosen a voice.</em></p>
+</blockquote>
+<h3 id="adderport-ruins">Adderport Ruins</h3>
+<ul>
+<li>The party begins in the ruins of <strong>Adderport</strong>, amongst jungle, bay, and
+  storm-choked ruins</li>
+<li>Three years have passed; industry, trade, and infrastructure are gone</li>
+<li>Wyrms rule openly; the age of hiding in shadows is over</li>
+</ul>
+<hr />
+<h2 id="key-dialogue">Key Dialogue</h2>
+<h3 id="asmodeuss-final-words">Asmodeus's Final Words</h3>
+<blockquote>
+<p><em>"What was bound was never broken. What was stolen waits still in the towers.
+The shadow keeps its secrets, but the waking will remember where the dream
+began."</em></p>
+</blockquote>
+<p><strong>Context:</strong></p>
+<ul>
+<li><strong>Dragons/Wyrms:</strong> Dismissed this as nonsense. They heard nothing threatening</li>
+<li><strong>PCs:</strong> Know this points back to Sharn (the City of Towers, the Shadowglass
+  Orb, their beginning)</li>
+<li><strong>Themes:</strong> Bound things (the wyrms' prison, the Prophecy), stolen things
+  (the Orb, their "second chance"), shadows (Tarkanan, Malorik), and "where the
+  dream began" (their campaign start)</li>
+</ul>
+<h2 id="aufgeben-the-dark-cloud">Aufgeben, the Dark Cloud</h2>
+<h3 id="personality-traits">Personality Traits</h3>
+<ul>
+<li>Speaks slowly, deliberately, as if every word has weight.</li>
+<li>Treats mortals like curiosities -- sometimes ants, sometimes jewels.</li>
+<li>Rare flashes of cruel amusement, like storms breaking silence.</li>
+<li>Values patience above all; his time horizon is centuries.</li>
+</ul>
+<h3 id="ideals">Ideals</h3>
+<ul>
+<li>Dominion Through Fear: The wyrms should rule, not by destruction alone but by
+  the inevitability of their presence.</li>
+<li>Balance Is an Illusion: He believes gods, prophecies, and nations are
+  distractions; only raw will and survival endure.</li>
+<li>Curiosity Over Control: He spares anomalies (like the PCs) not from mercy but
+  because they represent something unpredictable.</li>
+</ul>
+<h3 id="bonds">Bonds</h3>
+<ul>
+<li>Bound by victory over Asmodeus; his power and ego are staked on that kill.</li>
+<li>Considers Q'barra and Adderport his dominion -- the first piece of a larger
+  vision.</li>
+<li>Keeps Fellion as a tether to the mortal world, but has little attachment
+  beyond usefulness.</li>
+<li>Respects wyrms as peers but sees them as rivals or prey in a long game.</li>
+</ul>
+<h3 id="flaws">Flaws</h3>
+<ul>
+<li>Arrogant: Considers most threats beneath him until they've already struck.</li>
+<li>Detached: Fails to understand or value mortal concerns, often underestimating
+  them.</li>
+<li>Wrathful: When mocked or defied, his calm can give way to storm-like fury.</li>
+<li>Bound by Symbolism: Obsessed with proving himself as more than "just another
+  wyrm."</li>
+</ul>
+<h3 id="aufgebens-message">Aufgeben's Message</h3>
+<p><strong>What Aufgeben Conveys:</strong></p>
+<ul>
+<li><strong>The Time Skip:</strong> Three years have passed</li>
+<li><strong>The Wyrms Rule:</strong> Dragons walk the land openly as tyrants, no longer myths</li>
+<li><strong>Asmodeus is Dead:</strong> Aufgeben slew him, changing the balance of the world</li>
+<li><strong>The PCs' Role:</strong> They were the instruments of freeing the wyrms. Their part
+  in the Prophecy is done</li>
+<li><strong>Freedom:</strong> Aufgeben frees them from debt and fate alike. They now carry the
+  burden of choice</li>
+<li><strong>The Hook:</strong> Asmodeus's dying words point them back to Sharn</li>
+</ul>
+<p><strong>Key Points:</strong></p>
+<ul>
+<li><strong>Debt Paid:</strong> The Prophecy is satisfied -- they freed the wyrms. He owes them
+  their freedom</li>
+<li><strong>No Threat:</strong> He does not see them as rivals. He honors them as anomalies
+  outside fate</li>
+<li><strong>Fellion Released:</strong> "A herald is for guests. I no longer expect any. Take
+  him with you -- perhaps he still serves you better than me"</li>
+</ul>
+<p><strong>Tone &amp; Delivery:</strong></p>
+<ul>
+<li><strong>Grim Humor:</strong> Notes the "mercies" of this age -- warforged no longer slaves,
+  industry and borders meaningless, elementals free again</li>
+<li><strong>Amused Plea:</strong> Encourages the party to hurry along, "before a dragon rolls
+  over in its sleep and dreams us out of existence"</li>
+<li><strong>Not a Master:</strong> Aufgeben does not command; he releases. He sets the party
+  free to decide their own path</li>
+</ul>
+<hr />
+<h2 id="character-block-fellion">Character Block: Fellion</h2>
+<h3 id="personality-traits_1">Personality Traits</h3>
+<ul>
+<li>Speaks in sly half-truths, rarely giving the full story upfront.</li>
+<li>Uses grim humor to deflect from fear or regret.</li>
+<li>Carries himself with a false confidence, masking deep uncertainty.</li>
+<li>Prefers manipulation and whispers over open confrontation.</li>
+</ul>
+<h3 id="ideals_1">Ideals</h3>
+<ul>
+<li>Survival Through Submission: Fellion believes bending to power ensures
+  survival, though he secretly resents it.</li>
+<li>Knowledge Is Leverage: Information -- hidden, hoarded, and parceled out -- is
+  the only true weapon left.</li>
+<li>Prophecy Matters: Despite his cynicism, he clings to the idea that the
+  Draconic Prophecy still has a role for him.</li>
+</ul>
+<h3 id="bonds_1">Bonds</h3>
+<ul>
+<li>Once a sworn member of the Order of Rekkenmark, he carries the discipline and
+  scars of that martial brotherhood, though he left it behind when the world
+  broke.</li>
+<li>As a former Gatewatcher druid, he still feels a tether to the orcs and druids
+  who trained him, though he abandoned them in the turning tide.</li>
+<li>Guilt binds him to Falko and the party -- he left them breadcrumbs he now
+  knows were useless, and he feels both shame and pride in that.</li>
+<li>Owes his survival to Aufgeben, though he conceals knowledge from the Dark
+  Cloud out of fear and mistrust.</li>
+</ul>
+<h3 id="flaws_1">Flaws</h3>
+<ul>
+<li>Duplicitous: Lies come as easily as truth, making it hard for anyone to trust
+  him fully.</li>
+<li>Self-Preserving: When pressed, his instinct is to save himself before others.</li>
+<li>Cynical: Believes hope is a weakness, and mocks those who show it.</li>
+<li>Cowardice in Disguise: Presents schemes and bravado, but avoids true
+  sacrifice.</li>
+</ul>
+<h2 id="fellions-scheming-monologue">Fellion's Scheming Monologue</h2>
+<blockquote>
+<p><em>The rain hisses on broken stone as Fellion lingers, silver hair plastered to
+his face. He waits until Aufgeben's presence fades, then steps closer, voice
+low and edged with sly humor. His eyes gleam faintly with stormlight, but
+there's no warmth in them.</em></p>
+<p>"Ah... there it is again. The silence, the part where you expect me to play the
+dutiful herald. To say, 'Go here, do this, serve him well.' But the Dark
+Cloud has no use for pawns anymore. And me? I've always been better at
+whispers than orders."</p>
+</blockquote>
+<p><em>He smirks, leaning on his staff.</em></p>
+<p>"You want choices? You want a future in this carcass of a world? Then listen, and decide which poison you'll drink."</p>
+<h3 id="the-five-paths-fellion-presents">The Five Paths Fellion Presents</h3>
+<ul>
+<li>
+<p><strong>Stay in Q'barra:</strong> <em>"You could stay here, in Q'barra. The clans hide in
+  their jungle lairs, the mines groan, Newthrone smolders like a dying ember.
+  Plenty of scraps left for clever hands. If you're patient--and vicious--you could
+  carve out something of your own. Or be swallowed whole. The land doesn't
+  care."</em></p>
+</li>
+<li>
+<p><strong>Journey to Sharn:</strong> <em>"Or... Sharn. Yes, I heard more than I told Aufgeben.
+  Towers, shadows, beginnings. He thinks it nonsense, but I know better. Sharn
+  still matters. You could march across half a continent, months of misery, only
+  to find the city waiting with teeth bared. But if there's an answer to what
+  Asmodeus spat in his last breath... it's there."</em></p>
+</li>
+<li>
+<p><strong>Hunt the Wyrms:</strong> <em>"Then there's the bold path. The wyrms themselves. They
+  bleed, I've seen it. Gods to peasants, beasts to those who know where to cut.
+  Strike them, harry them, maybe make them fear _you</em>. Or maybe you'll just be
+  ash under their claws. Either way, it's a story worth telling."_</p>
+</li>
+<li>
+<p><strong>Serve Aufgeben:</strong> <em>"Or you could play Aufgeben's little game. Serve him.
+  Pretend to, at least. The Dark Cloud spares you because he's curious. He thinks
+  you're finished with prophecy. What if he's wrong? What if you're the one piece
+  on the board he's overlooked? Dangerous, yes... but then again, so am I."</em></p>
+</li>
+<li>
+<p><strong>Walk Away:</strong> <em>"And, of course, the simplest path. Walk away. No wyrms, no
+  gods, no prophecy. Find a hole in this broken world and vanish. Build your own
+  empire, or rot in peace. Freedom, or just another kind of prison? I wonder."</em></p>
+</li>
+</ul>
+<p><em>Fellion steps back, his expression unreadable. The stormlight in his eyes
+flickers like a dying candle.</em></p>
+<p>"Choose quickly. The world doesn't wait anymore. And neither do the dragons."</p>
+<hr />
+<h2 id="player-choice-immediate-destinations">Player Choice: Immediate Destinations</h2>
+<p>If the party chooses to explore Q'barra first, they must decide where to go
+from Adderport. Distances are approximate in miles (overland or across water).</p>
+<h3 id="fellions-knowledge-of-nearby-locations">Fellion's Knowledge of Nearby Locations</h3>
+<p>Fellion has been in Aufgeben's service for years, cut off from broad knowledge.
+He knows <strong>fragments, rumors, and impressions</strong>, but little concrete detail.
+His perspective is colored by regret and limited by isolation.</p>
+<p><em>Fellion himself admits:</em></p>
+<blockquote>
+<p>"I know little. I served the Dark Cloud, not the world. The jungle kept its
+secrets from me, as it keeps them still. What I offer you are fragments --
+shadows of what might be. The rest, you will see with your own eyes."</p>
+</blockquote>
+<h3 id="available-destinations">Available Destinations</h3>
+<h4 id="castle-garodya-45-miles-across-the-bay_1"><strong>Castle Garodya -- 45 miles (across the bay)</strong></h4>
+<ul>
+<li><strong>Description:</strong> A ruined Brelish fortress, once a colonial stronghold. May
+  hold survivors, relics, or hidden caches</li>
+<li><strong>Fellion's Knowledge:</strong> Once a Brelish fortress, abandoned when the wyrms
+  rose. He heard whispers of scavengers picking it clean, and that something <em>old
+  and dangerous</em> stirred in its cellars</li>
+<li><strong>Certainty:</strong> Very low -- little more than rumor</li>
+</ul>
+<h4 id="newthrone-80-miles"><strong>Newthrone -- 80 miles</strong></h4>
+<ul>
+<li><strong>Description:</strong> Former Brelish colonial capital of Q'barra. Possible
+  fractured governance, collaborators, or a rallying point of survivors</li>
+<li><strong>Fellion's Knowledge:</strong> Once the Brelish capital of Q'barra. He suspects it
+  either fractured into warlord districts or bent knee to one of the wyrm cults.
+  He has no clear intelligence, only that <em>the city still smolders</em></li>
+<li><strong>Certainty:</strong> Low -- guesswork based on the scale of the wyrms' destruction</li>
+</ul>
+<h4 id="pitchwall-80-miles"><strong>Pitchwall -- 80 miles</strong></h4>
+<ul>
+<li><strong>Description:</strong> Mining town and old outpost of dragonshard trade. Likely
+  overrun, scavenged, or held by factions</li>
+<li><strong>Fellion's Knowledge:</strong> A mining town, once the hub of dragonshard trade. He
+  assumes it is stripped bare or contested by mercenaries and bandits. Mentions
+  hearing a rumor that Cannith scavengers were hunting its shards, but he doesn't
+  know when</li>
+<li><strong>Certainty:</strong> Low -- second-hand scraps of information</li>
+</ul>
+<h4 id="duskwing-clanhold-120-miles"><strong>Duskwing Clanhold -- 120 miles</strong></h4>
+<ul>
+<li><strong>Description:</strong> Dragonborn enclave deep in the jungle. Its stance on
+  wyrm-rule may vary -- potential allies or enemies</li>
+<li><strong>Fellion's Knowledge:</strong> Dragonborn of the jungle. They value secrecy. He
+  assumes they endured by retreating deeper, but he hasn't seen them since before
+  the wyrms rose. He fears they may see all outsiders as enemies now</li>
+<li><strong>Certainty:</strong> Very low -- entirely speculative</li>
+</ul>
+<h4 id="stormhorn-clanhold-100-miles"><strong>Stormhorn Clanhold -- 100 miles</strong></h4>
+<ul>
+<li><strong>Description:</strong> Another dragonborn stronghold, nearer the mountains. Known
+  for resilience and martial prowess</li>
+<li><strong>Fellion's Knowledge:</strong> Proud warriors in the mountains. Their land is
+  harder to reach, so he assumes they resisted longer. He doubts they would have
+  bent willingly to wyrm dominion</li>
+<li><strong>Certainty:</strong> Low -- based on old assumptions, not fact</li>
+</ul>
+<h4 id="flamebrow-clanhold-100-miles"><strong>Flamebrow Clanhold -- 100 miles</strong></h4>
+<ul>
+<li><strong>Description:</strong> Fiercely independent dragonborn, rumored to hold
+  dragonshard-rich territory. Possible site of conflict</li>
+<li><strong>Fellion's Knowledge:</strong> Fierce, independent, rich in dragonshard territory.
+  If any clan made a pact -- with wyrms, warlords, or houses -- it might be them.
+  He knows nothing certain</li>
+<li><strong>Certainty:</strong> Very low -- acknowledges he has no firsthand knowledge</li>
+</ul>
+<h4 id="wyrmwatch-200-miles"><strong>Wyrmwatch -- 200 miles</strong></h4>
+<ul>
+<li><strong>Description:</strong> Ancient watchtower complex built to monitor draconic
+  activity in the deep wilds. Now possibly occupied by wyrm cultists or still
+  held by stalwart defenders</li>
+<li><strong>Fellion's Knowledge:</strong> An old frontier outpost, built during the colonial
+  expansion when dragons were thought mere legend. Ironically named, given what
+  transpired. He recalls hearing it was abandoned years before the wyrms rose,
+  but such places often attract those who seek power or those who flee from it</li>
+<li><strong>Certainty:</strong> Very low -- distant hearsay from his time as a ranger</li>
+</ul>
+<h3 id="strategic-considerations">Strategic Considerations</h3>
+<ul>
+<li><strong>Garodya (45 mi):</strong> Closest, fastest route, potentially supplies or intel</li>
+<li><strong>Newthrone (80 mi):</strong> Political center, chance to gauge the "big picture" of
+  human survival in Q'barra</li>
+<li><strong>Pitchwall (80 mi):</strong> Resource node; risky but could provide dragonshards or
+  lost tech</li>
+<li><strong>Clanholds (100-120 mi):</strong> Long treks; represent faction politics and
+  alliances that could shape the campaign</li>
+<li><strong>Wyrmwatch (200 mi):</strong> Distant frontier destination; greatest risk but
+  potentially significant discoveries about draconic activity</li>
+</ul>
+<hr />
+<h2 id="gm-notes_2">GM Notes</h2>
+<ul>
+<li>No destination is "safe." Each choice shapes the tone and early trajectory of
+  the post-Avernus arc</li>
+<li>Each destination has detailed encounters and treasure hoards available in the
+  campaign materials</li>
+<li>The players now face a <strong>meaningful choice</strong> that will determine their path
+  forward</li>
+<li>Fellion's role is more as a <em>gloomy guide</em> than a source of solid
+  intelligence</li>
+</ul>
+<hr />
+<p>? <a href="../campaigns/shadow-in-the-empire/index.md">Back to The Shadow in the Empire</a></p>
+<h3 id="tsi-session-012023">TSI Session 01.2023 (2023-01-13)</h3>
+<p><em>Opening session in Moonwatch after a Xen'drik heist, with a tavern confrontation and early hooks.</em></p>
+<h1 id="tsite-202301">TSITE 2023.01</h1>
+<p><a href="../campaigns/shadow-in-the-empire/index.md">Campaign Home</a> | ? Back ? Next ?</p>
+<h2 id="review-the-characters_1">Review the Characters</h2>
+<ul>
+<li>Dent, Warforged Warlock/Wizard</li>
+<li>Morgan d'Cannith, Human (Mark of Making) Artificer</li>
+<li>Seeker, Shifter Druid</li>
+<li>Falko "Fal" Irons, Half-orc Ranger</li>
+<li>Levi, Human Fighter/Monk</li>
+<li>Runa, Human Bard</li>
+</ul>
+<h2 id="important-dates">Important Dates</h2>
+<ul>
+<li><strong>20 Olarune 994 YK</strong> - Day of Mourning</li>
+<li><strong>1 Zarantyr 998 YK</strong> - Campaign Start</li>
+</ul>
+<p><strong>Reference:</strong> <a href="https://www.worldanvil.com/w/eberron-madasahatty/a/slang-and-insults-article">Insults and Slang</a></p>
+<h2 id="strong-start_3">Strong Start</h2>
+<p><strong>Cinematic opening</strong> (improvised), 1 Zarantyr 998 YK - Hot and Wet in Moonwatch</p>
+<p>Almost 6 months ago, you all answered a job from a mysterious figure through a variety of contacts. The job was to retrieve a valuable artifact that had been stolen from the Brelish government and was in the process of being trafficked to Xen'drik. Another interested party saw this as the perfect opportunity to make the heist. The reward for the successful retrieval of the artifact was substantial, but there was a catch--legend has said that the artifact is cursed, and whoever comes in contact with it will be hunted by powerful forces.</p>
+<p>You have somewhat successfully liberated the goods of the ship and are coming back from Xen'drik. You managed to swap the goods and collect your reward. The previous captain also parted ways a few weeks ago since you made sight of Breland. Your ship had sustained heavy damage while sailing through Shargan's teeth almost a month ago. You and your party had evaluated all options and took a chance on the town of Moonwatch. When you arrived you were surprised to see the small but bustling town also outfitted with a standing army of about 1,200 soldiers from the Brelish army, and that is where we begin this tale.</p>
+<p>You have secured lodging at The Graymoon Tavern and are just sitting down to a warm meal when a heavy hand falls on the table followed by a hearty laugh. A large man with a few associates has surrounded your table.</p>
+<p><em>"You all seem to be flush. Why not spread the wealth around a little bit? You know times are hard and people gotta eat."</em></p>
+<h3 id="context-notes">Context Notes</h3>
+<ul>
+<li>Army is there as a new dispatch to Shadowlock Keep</li>
+<li>Those damn monsters of Droaam are getting more bold and more fighting has broken out along the Graywall mountains</li>
+<li>Slurs for Warforged: Gearhead, Clanker, Junk, Tinman</li>
+</ul>
+<h2 id="possible-scenes_1">Possible Scenes</h2>
+<h3 id="bar-fight-and-the-pickpockets">Bar Fight and the Pickpockets</h3>
+<p>A local gang tries to pick a fight with the party.</p>
+<h3 id="being-arrested">Being Arrested</h3>
+<p>The party is identified as having committed piracy off the coast of Xen'drik.</p>
+<p><em>"We can do this the hard way, or we can do it the easy way. Please make it easy and draw that damn sword so I can put a couple of mourners out of their misery."</em> (He says this looking to Mort, Seeker, and Dent.) <em>"You can always tell them apart. They are like the walking dead, people with their soul amputated."</em></p>
+<p><em>"Pick a god and pray to them."</em></p>
+<h3 id="transportation-to-sharn">Transportation to Sharn</h3>
+<p>The party will have their coin confiscated along with their equipment. It will all be given back after the meeting with Kor ir'Wynarn.</p>
+<h3 id="meeting-kor">Meeting Kor</h3>
+<p>There is an interesting task that should prove difficult. They must apprehend the leader of a group robbing the lightning rail. They must bring him in alive. They are appointed to be privateers.</p>
+<h3 id="the-stormblade">The Stormblade</h3>
+<p>The elemental airship and the excoriate, Lokeris d'Lyrandar.</p>
+<h3 id="lightning-rail-larceny">Lightning Rail Larceny</h3>
+<p>The party finds out that the leader is Lujaad ir'Wynarn, the youngest son of King Boranel.</p>
+<p>Lujaad has his own airship and is quite the accomplished pirate.</p>
+<h2 id="relevant-npcs">Relevant NPCs</h2>
+<h3 id="elara-of-moonwatch-and-the-graymoon-inn">Elara of Moonwatch and The Graymoon Inn</h3>
+<h3 id="capt-kaine-colworn">Capt. Kaine Colworn</h3>
+<h3 id="kor-irwynarn">Kor ir'Wynarn</h3>
+<h3 id="lokeris-dlyrandar">Lokeris d'Lyrandar</h3>
+<h2 id="relevant-monsterscreatures">Relevant Monsters/Creatures</h2>
+<h3 id="veterans">Veterans</h3>
+<p><em>(Use standard D&amp;D 5e stat block)</em></p>
+<h2 id="fantastic-locations_1">Fantastic Locations</h2>
+<h3 id="moonwatch">Moonwatch</h3>
+<h3 id="sharn">Sharn</h3>
+<h3 id="terminus">Terminus</h3>
+<h3 id="lightning-rail">Lightning Rail</h3>
+<h2 id="possible-magic-items">Possible Magic Items</h2>
+<ul>
+<li>Garnet of Astral Communication</li>
+<li>Magic item, level 12 (Gauntlets of Flaming Fury)</li>
+<li>Magic item, level 11 (Ring of Warmth)</li>
+<li>Magic item, level 10 (Insignia of Claws)</li>
+<li>Magic item, level 9 (<strong>Eyes of the Eagle</strong>)</li>
+<li>1,900 gp, or one 1,000 gp gem + 900 gp, or one 1,500 gp art object + 400 gp</li>
+<li>1,700 gp, or one 1,500 gp art object + 200 gp, or three 500 gp gems + 200 gp</li>
+<li>1,100 gp, or two 500 gp gems + 100 gp, or one 1,000 gp gem + 100 gp</li>
+<li>1,100 gp, or two 250 gp art objects + 600 gp, or eleven 100 gp gems</li>
+<li>600 gp, or one 500 gp gem + 100 gp, or two 250 gp art objects + one 100 gp gem</li>
+<li>400 gp, or one 250 gp art object + 150 gp, or four 100 gp gems</li>
+</ul>
+<hr />
+<h2 id="location-details">Location Details</h2>
+<h3 id="the-graymoon-tavern">The Graymoon Tavern</h3>
+<p>The Graymoon Tavern is one of the most popular inns in Moonwatch, known for its warm atmosphere, hearty meals, and cozy rooms. The tavern is located near the river and is a popular spot for merchants, travelers, and sailors. The innkeeper, a friendly half-elf named Elara, takes great pride in making sure her guests are comfortable and well-fed. The tavern features a large common room with a roaring fireplace, several private dining rooms, and a large outdoor patio with a stunning view of the Graymoon River.</p>
+<p>The rooms at the Graymoon Tavern are clean, comfortable, and well-appointed, with soft beds and fresh linens. The tavern is also famous for its delicious food, with a menu that features hearty soups, stews, and roasted meats. The inn is known for its hearty breakfasts, which are a popular way for travelers to start their day before setting out on their journey.</p>
+<p>The Graymoon Tavern is also a hub of local gossip and news, and travelers can often hear interesting stories and rumors from the locals and other guests. With its warm atmosphere, delicious food, and comfortable rooms, the Graymoon Tavern is a great place to rest and relax after a long day of adventure.</p>
+<h3 id="about-moonwatch">About Moonwatch</h3>
+<p>Moonwatch is a town located in the nation of Breland. It is known for its strategic location as a key port town on the southwestern coast of Khorvaire, and its position on the banks of the Graymoon River. Moonwatch is a hub of commerce and trade, with many merchants and travelers passing through on their way to and from the nearby city of Sharn.</p>
+<p>Moonwatch is also known for its large, well-equipped and highly trained standing army. The town is able to maintain this level of military readiness due to its position on the frontier between Breland and the neighboring nation of Droaam. Moonwatch is considered an important bulwark against any potential invasion from the tribes of Droaam.</p>
+<p>In addition to its military presence, Moonwatch is also home to a large community of skilled craftsmen, who produce goods ranging from weapons and armor to art and jewelry. The town is also known for its rich cultural heritage, with many historic sites and festivals that celebrate the traditions of its people. Overall, Moonwatch is a thriving and important town in the nation of Breland.</p>
+<p><strong>Population:</strong> ~1,300 civilians + 1,200 Brelish soldiers</p>
+<hr />
+<h2 id="npc-details">NPC Details</h2>
+<h3 id="elara-of-moonwatch-and-the-graymoon-inn_1">Elara of Moonwatch and The Graymoon Inn</h3>
+<p>Elara is a friendly half-elf in her mid-30s. She has long, curly hair that is the color of chestnuts, and sparkling green eyes that twinkle with good humor. Elara is known for her warm smile and welcoming demeanor, and she takes great pride in making sure her guests are comfortable and well-fed. She has a quick wit and a sharp tongue, and she is not afraid to speak her mind when necessary.</p>
+<p>Elara has lived in Moonwatch for most of her life and has deep roots in the community. She inherited the Graymoon Tavern from her parents, who were well-respected merchants in the town. Elara has a keen business sense and a talent for cooking, and she has turned the tavern into one of the most popular inns in Moonwatch.</p>
+<p>Despite her busy schedule, Elara always takes time to chat with her guests and make them feel at home. She is a good listener and has a warm, motherly demeanor, which makes her a popular figure in the community. When she is not working at the tavern, Elara enjoys fishing on the Graymoon River, and she is known for her excellent cooking skills.</p>
+<h3 id="capt-kaine-colworn_1">Capt. Kaine Colworn</h3>
+<p>Captain Kaine Colworn is a human soldier who serves in the army of Breland. He is a tall, broad-shouldered man in his late 30s, with a clean-shaven face and short-cropped hair. He has piercing blue eyes that seem to take in everything around him, and his no-nonsense demeanor can be both reassuring and intimidating.</p>
+<p>Captain Colworn is an experienced and capable warrior, who has served in the Brelish army for many years. He is fiercely patriotic and deeply committed to the defense of his nation. He is an uncompromising and dedicated leader, who demands the best from himself and those under his command.</p>
+<p>However, Captain Colworn's zeal for the defense of Breland sometimes causes him to act in a rash or impulsive manner. He has a tendency to see potential threats everywhere, and he is not afraid to use force to neutralize them. He is well-respected by his troops, but many in the community view him as a hothead who is more interested in demonstrating his power than in preserving peace.</p>
+<p>Despite his sometimes overzealous behavior, Captain Colworn is a capable and dedicated soldier who is highly regarded by the Brelish army.</p>
+<h3 id="kor-irwynarn_1">Kor ir'Wynarn</h3>
+<p>Kor ir'Wynarn, younger brother to King Boranel, serves as the king's advisor and commander of the King's Citadel. He cherishes his older brother and is extremely loyal to both crown and country. As commander of the Citadel, Kor is far from the best agent the group has to offer. He has learned leadership and commitment from Boranel, however, and he has developed a keen ability to administer the duties of the office.</p>
+<p>Kor splits his time between the Citadel headquarters and the king's chambers in Brokenblade Castle. As commander of the Citadel, Kor directs a team of captains who each command a division of the elite agency. As the royal advisor, Kor brings important information to Boranel, listens to the king, and offers advice on matters of state. King Boranel often follows his own heart, but not without first listening to the advice of his trusted brother.</p>
+<p>It has been suggested that Kor might step in to lead the nation after Boranel's reign ends, but the royal advisor doesn't want the office or the responsibility. Besides, he is only a few years younger than Boranel--not the strong and vigorous leader the nation will need when the time comes. He is content to watch for threats to crown and country, offer opinions and intelligence as warranted, and be a friend and brother to the king.</p>
+</section>
+</main>
+</body>
+</html>
