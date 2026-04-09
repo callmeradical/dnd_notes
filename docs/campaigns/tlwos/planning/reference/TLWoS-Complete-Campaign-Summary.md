@@ -3,8 +3,14 @@ title: "TLWoS Complete Campaign Summary"
 ---
 
 > **Note:** The running summary through Session 017 is maintained in  
-> [The Last Whisper of Steel – Campaign Summary](../../shuigari/The%20Last%20Whisper%20of%20Steel%20-%20Campaign%20Summary.md).  
+> [The Last Whisper of Steel – Campaign Summary](../../../../shuigari/The%20Last%20Whisper%20of%20Steel%20-%20Campaign%20Summary.md).  
 > Capture raw updates here before folding them into the main log.
+>
+> **Continuity Warning:** This file contains mixed-era notes and may conflict with live Arc 2 canon.
+> For adjudication, use:
+> - [TLWoS Canon Ledger](../../canon-ledger.md)
+> - [TLWoS Current State](../../current-state.md)
+> - Latest TLW session posts in `docs/posts/`
 2. **Unknown Champion #2**
 3. **Unknown Champion #3**
 

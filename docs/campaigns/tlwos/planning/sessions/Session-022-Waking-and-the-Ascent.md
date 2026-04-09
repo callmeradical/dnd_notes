@@ -14,6 +14,10 @@ tags:
 
 # Session 022: Waking in the Cold — Ascent to the Upper City
 
+> Canon status (2026-04-08): This prep document has been played.
+> Canon recap: [Session 022: Beneath the Brewery of Ninefold Reflections](../../../../posts/tlw-022-session.md)
+> Current campaign state: [TLWoS Current State](../../current-state.md)
+
 **Scene arc:** Emotional landing after the underworld sequence — grief of the vanished village, warmth confirmed real, then ascent into a city that has become a shadow version of itself. Ronin Warriors dark-world energy: reality warped, architecture grown wrong, citizens aligned into a collective hum, shadows flowing toward the palace like dark water. The Consent Gate encounter tests everything the party learned, now against the backdrop of a city that has already been largely consumed.
 
 **Tone target:** Begin in quiet grief, move through mounting wrongness as the city degrades around them, arrive at the encounter in visceral dread — not because the threat is monstrous, but because the monstrous thing has already happened and the city is still smiling.

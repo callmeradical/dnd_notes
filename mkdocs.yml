@@ -39,10 +39,16 @@ plugins:
 nav:
   - Session Notes: index.md
   - Campaigns:
-      - The Last Whisper of Steel: campaigns/tlwos/index.md
+      - The Last Whisper of Steel:
+          - Overview: campaigns/tlwos/index.md
+          - Current State (Live - Middle Terrace): campaigns/tlwos/current-state.md
+          - Canon Ledger: campaigns/tlwos/canon-ledger.md
+          - Planning Workspace: campaigns/tlwos/planning/index.md
       - "Londra": campaigns/londra/index.md
       - "The Shadow in the Empire": campaigns/shadow-in-the-empire/index.md
   - Worldbuilding:
+      - Other Settings:
+          - "Eryssyl Setting Guide": "settings/eryssyl/index.md"
       - Shuigari Taxonomy:
           - Overview & Campaign Framing:
               - "Campaign Setting: Shuigari": "shuigari/Campaign Setting - Shuigari.md"

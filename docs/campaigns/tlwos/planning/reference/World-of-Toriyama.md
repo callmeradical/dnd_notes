@@ -3,7 +3,7 @@ title: "World of Toriyama - Setting Overview"
 ---
 
 > **Note:** The curated setting primer now lives in  
-> [Campaign Setting: Shuigari](../../shuigari/Campaign%20Setting%20-%20Shuigari.md) alongside supporting lore. Keep this planning file for rough concepts before formalising them in the main documentation.
+> [Campaign Setting: Shuigari](../../../../shuigari/Campaign%20Setting%20-%20Shuigari.md) alongside supporting lore. Keep this planning file for rough concepts before formalising them in the main documentation.
 
 ---
 
