@@ -40,6 +40,8 @@ title: "TLWoS Current State (Live - Middle Terrace)"
 
 - The sky/lightning event was an oni traveling to the prince (an anomaly of fate).
 - The oni is a pact-holder warlock of Tsurogami and had been sealed in a great tree in the forest.
+- Takashima is currently in a Shadow Register state: a partial Shadowfell overlay, not a full planar transfer.
+- The enthralled prince functions as the anomaly-anchor stabilizing the overlap.
 - The current Daimyo imprisoned/enslaved goliaths and forced clear-cutting in the northern mountain forest for boatbuilding.
 - That coerced clear-cut breach enabled the oni mage's return/escalation.
 
@@ -51,6 +53,7 @@ title: "TLWoS Current State (Live - Middle Terrace)"
 **GM-Only**
 - The prince is enthralled.
 - The oni is a Tsurogami pact-holder warlock.
+- The city is in a partial Shadowfell overlay (Shadow Register).
 - The goliath clear-cut coercion is the release condition chain.
 
 ## Arc Timeline (Condensed)
@@ -70,6 +73,7 @@ title: "TLWoS Current State (Live - Middle Terrace)"
 
 - [TLWoS Canon Ledger](canon-ledger.md)
 - [Session 023: Middle Terrace Breach](../../posts/tlw-023-session.md)
+- [Session 023 Prep: Middle Terrace Breach and Citadel Entry](planning/sessions/Session-023-Middle-Terrace-Breach-and-Citadel-Entry.md)
 - [Session 022 Recap](../../posts/tlw-022-session.md)
 - [Session 021 Setup (Prep)](planning/sessions/Session-021-Setup-Siege-of-Takashima.md)
 - [Session 022 Prep (Played)](planning/sessions/Session-022-Waking-and-the-Ascent.md)

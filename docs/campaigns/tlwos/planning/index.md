@@ -21,6 +21,7 @@ Session 022 has now been played; treat this section as prep/support and use curr
 
 - [Session 021 Setup: The Siege of Takashima](sessions/Session-021-Setup-Siege-of-Takashima.md)
 - [Session 022 Prep: Waking in the Cold - Ascent to the Upper City](sessions/Session-022-Waking-and-the-Ascent.md)
+- [Session 023 Prep: Middle Terrace Breach and Citadel Entry](sessions/Session-023-Middle-Terrace-Breach-and-Citadel-Entry.md)
 - [Module I (Continued): The Root of Balance Part II - The Gentle Boundary](sessions/Module-I-Part-II-The-Gentle-Boundary.md)
 - [Module II: The Prince Without Reflection (Seed)](sessions/Module-II-Prince-Without-Reflection.md)
 - [The Kitsune Village Awakening](sessions/Kitsune-Village-Awakening-Scene.md)

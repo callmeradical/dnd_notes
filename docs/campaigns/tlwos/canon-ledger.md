@@ -40,6 +40,8 @@ If conflicts remain, live canon pages win.
 
 - The sky-strike/lightning event is an oni traveling to the prince, who is an anomaly of fate.
 - The oni is a **pact-holder warlock of Tsurogami**.
+- The oni has forced Takashima into a **Shadow Register** state (partial Shadowfell overlay, not full transfer).
+- The enthralled prince is the anomaly-anchor stabilizing this overlap.
 - The oni mage was previously sealed in a great tree in the forest.
 - The current Daimyo has imprisoned/enslaved goliaths and is forcing them to clear-cut northern mountain forest for boatbuilding.
 - That forced clear-cut violation is the release/breach condition connected to the oni mage's return.
