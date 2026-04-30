@@ -1,3 +1,12 @@
 *.swp
 .DS_STORE
 site/
+.obsidian/
+.graphify_cached.json
+.graphify_chunks.json
+.graphify_detect.json
+.graphify_python
+.graphify_scope/
+.graphify_uncached.txt
+.cid/
+graphify-out/
